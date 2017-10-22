@@ -192,7 +192,7 @@ alert(str) // string
 - 简单：Number，Boolean，String，Null，Undefined
 　　复合：Object，Array，Function
   
-  28.JavaScript中如何对一个对象进行深度clone
+28.JavaScript中如何对一个对象进行深度clone
   ```javascript
 　　function cloneObject(o) {
 　　if(!o || 'object' !== typeof o) {
@@ -242,17 +242,18 @@ alert(str) // string
 　　JavaScript：对应于ECMA的ECMAScript规范
 　　XML：对应W3C的XML DOM、XSLT、XPath等等规范
   
-  31.documen.write和 innerHTML的区别
+31.documen.write和 innerHTML的区别
 　- document.write只能重绘整个页面
 　　innerHTML可以重绘页面的一部分
-　32.js的基础对象有那些, window和document的常用的方法和属性列出来
+  
+32.js的基础对象有那些, window和document的常用的方法和属性列出来
 　- String,Number,Boolean
 　　Window:
 　　方法：setInterval,setTimeout,clearInterval,clearTimeout,alert,confirm,open
 　　属性：name,parent,screenLeft,screenTop,self,top,status
-　　Document
+　　Document:
 　　方法：createElement,execCommand,getElementById,getElementsByName,getElementByTagName,write,writeln
-属性：cookie,doctype,domain,documentElement,readyState,URL,
+    属性：cookie,doctype,domain,documentElement,readyState,URL,
 
 
 
