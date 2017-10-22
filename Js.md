@@ -243,11 +243,11 @@ alert(str) // string
 　　XML：对应W3C的XML DOM、XSLT、XPath等等规范
   
 31.documen.write和 innerHTML的区别
-　- document.write只能重绘整个页面
+- document.write只能重绘整个页面
 　　innerHTML可以重绘页面的一部分
   
 32.js的基础对象有那些, window和document的常用的方法和属性列出来
-　- String,Number,Boolean
+- String,Number,Boolean
 　　Window:
 　　方法：setInterval,setTimeout,clearInterval,clearTimeout,alert,confirm,open
 　　属性：name,parent,screenLeft,screenTop,self,top,status
