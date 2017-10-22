@@ -69,3 +69,53 @@ Title 为该属性提供信息
 2.使用overflow:auto（空标签元素清除浮动而不得不增加无意代码的弊端,,使用zoom:1用于兼容IE）
 3.是用afert伪元素清除浮动(用于非IE浏览器)
 
+17.IE与FF脚本兼容性问题
+　- (1) window.event：
+　　表示当前的事件对象，IE有这个对象，FF没有，FF通过给事件处理函数传递事件对象
+　　(2) 获取事件源
+　　IE用srcElement获取事件源，而FF用target获取事件源
+　　(3) 添加，去除事件
+　　IE：element.attachEvent(“onclick”, function) element.detachEvent(“onclick”, function)
+　　FF：element.addEventListener(“click”, function, true) element.removeEventListener(“click”, function, true)
+　　(4) 获取标签的自定义属性
+　　IE：div1.value或div1[“value”]
+　　FF：可用div1.getAttribute(“value”)
+　　(5) document.getElementByName()和document.all[name]
+　　IE;document.getElementByName()和document.all[name]均不能获取div元素
+　　FF：可以
+　　(6) input.type的属性
+　　IE：input.type只读
+　　FF：input.type可读写
+　　(7) innerText textContent outerHTML
+　　IE：支持innerText, outerHTML
+　　FF：支持textContent
+　　(8) 是否可用id代替HTML元素
+　　IE：可以用id来代替HTML元素
+　　FF：不可以
+　　这里只列出了常见的，还有不少，更多的介绍可以参看JavaScript在IE浏览器和Firefox浏览器中的差异总结
+  
+18.如何添加html元素的事件,有几种方法.
+- (1) 为HTML元素的事件属性赋值
+　　(2) 在JS中使用ele.on*** = function() {…}
+　　(3) 使用DOM2的添加事件的方法 addEventListener或attachEvent
+  
+ 19. 为什么要使用Div+CSS布局
+- 形式与内容分离
+大大减少页面代码，提高页面浏览速度
+结构清晰，有利于SEO
+缩短改版时间， 布局更方便
+一次设计，多次使用
+
+20. Block元素的特点是什么?哪些元素默认为Block元素
+- 总是在新行上开始；
+高度，行高以及顶和底边距都可控制；
+宽度缺省是它的容器的100%，除非设定一个宽度
+
+21.inline元素的特点是什么?哪些元素属于inline元素?
+- 和其他元素都在一行上；
+高，行高及顶和底边距不可改变；
+宽度就是它的文字或图片的宽度，不可改变。
+
+
+
+
