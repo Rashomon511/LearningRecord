@@ -70,7 +70,7 @@ Title 为该属性提供信息
 3.是用afert伪元素清除浮动(用于非IE浏览器)
 
 17.IE与FF脚本兼容性问题
-　- (1) window.event：
+- (1) window.event：
 　　表示当前的事件对象，IE有这个对象，FF没有，FF通过给事件处理函数传递事件对象
 　　(2) 获取事件源
 　　IE用srcElement获取事件源，而FF用target获取事件源
