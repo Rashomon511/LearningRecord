@@ -130,3 +130,132 @@ result[arr]=1
 return newArr
 }
 ```
+23.写出一下运算结果
+```javascript
+alert(typeof(null)) // object
+alert(typeof(undefined)) // undefined
+alert(typeof(NaN)) // number
+alert(NaN==undefined) // false
+alert(NaN==NaN) // false
+var str="123abc";
+alert(typeof(str++)) // number
+alert(str) // string
+```
+24.判断一个字符串中出现次数最多的字符，统计这个次数
+```javascript
+　　//将字符串的字符保存在一个hash table中，key是字符，value是这个字符出现的次数
+　　var str = "abcdefgaddda";
+　　var obj = {};
+　　for (var i = 0, l = str.length; i < l; i++) {
+　　var key = str[i];
+　　if (!obj[key]) {
+　　obj[key] = 1;
+　　} else {
+　　obj[key]++;
+　　}
+　　}
+　　/*遍历这个hash table，获取value最大的key和value*/
+　　var max = -1;
+　　var max_key = "";
+　　var key;
+　　for (key in obj) {
+　　if (max < obj[key]) {
+　　max = obj[key];
+　　max_key = key;
+　　}
+　　}
+　　alert("max:"+max+" max_key:"+max_key);
+```
+25.写出3个使用this的典型应用
+- (1)在html元素事件属性中使用，如
+　　(2)构造函数
+　　function Animal(name, color) {
+　　this.name = name;
+　　this.color = color;
+　　}
+　　(3)CSS expression表达式中使用this关键字
+  
+26.JavaScript中如何检测一个变量是一个String类型?请写出函数实现
+```javascript
+　　String类型有两种生成方式：
+　　(1)Var str = “hello world”;
+　　(2)Var str2 = new String(“hello world”);
+　　function IsString(str){
+　　return (typeof str == "string" || str.constructor == String);
+　　}
+　　var str = "";
+　　alert(IsString(1));
+　　alert(IsString(str));
+　　alert(IsString(new String(str)));
+```
+27.JavaScript有哪几种数据类型
+- 简单：Number，Boolean，String，Null，Undefined
+　　复合：Object，Array，Function
+  
+  28.JavaScript中如何对一个对象进行深度clone
+  ```javascript
+　　function cloneObject(o) {
+　　if(!o || 'object' !== typeof o) {
+　　return o;
+　　}
+　　var c = 'function' === typeof o.pop ? [] : {};
+　　var p, v;
+　　for(p in o) {
+　　if(o.hasOwnProperty(p)) {
+　　v = o[p];
+　　if(v && 'object' === typeof v) {
+　　c[p] = Ext.ux.clone(v);
+　　}
+　　else {
+　　c[p] = v;
+　　}
+　　}
+　　}
+　　return c;
+　　};
+  ```
+  
+  29.请编写一个JavaScript函数 parseQueryString，它的用途是把URL参数解析为一个对象，如：
+  ```javascript
+　　var url = “http://witmax.cn/index.php?key0=0&key1=1&key2=2″;
+　　function parseQueryString(url){
+　　var params = {};
+　　var arr = url.split("?");
+　　if (arr.length <= 1)
+　　return params;
+　　arr = arr[1].split("&");
+　　for(var i=0, l=arr.length; i
+　　var a = arr[i].split("=");
+　　params[a[0]] = a[1];
+　　}
+　　return params;
+　　}
+　　var url = "http://witmax.cn/index.php?key0=0&key1=1&key2=2";
+　　var ps = parseQueryString(url);
+　　alert(ps["key1"]);
+```
+30.ajax是什么? ajax的交互模型? 同步和异步的区别? 如何解决跨域问题?
+- Ajax是多种技术组合起来的一种浏览器和服务器交互技术，基本思想是允许一个互联网浏览器向一个远程页面/服务做异步的http调用，并且用收到的数据来更新一个当前web页面而不必刷新整个页面。该技术能够改进客户端的体验。包含的技术：
+　　XHTML：对应W3C的XHTML规范，目前是XHTML1.0。
+　　CSS：对应W3C的CSS规范，目前是CSS2.0
+　　DOM：这里的DOM主要是指HTML DOM，XML DOM包括在下面的XML中
+　　JavaScript：对应于ECMA的ECMAScript规范
+　　XML：对应W3C的XML DOM、XSLT、XPath等等规范
+  
+  31.documen.write和 innerHTML的区别
+　- document.write只能重绘整个页面
+　　innerHTML可以重绘页面的一部分
+　32.js的基础对象有那些, window和document的常用的方法和属性列出来
+　- String,Number,Boolean
+　　Window:
+　　方法：setInterval,setTimeout,clearInterval,clearTimeout,alert,confirm,open
+　　属性：name,parent,screenLeft,screenTop,self,top,status
+　　Document
+　　方法：createElement,execCommand,getElementById,getElementsByName,getElementByTagName,write,writeln
+属性：cookie,doctype,domain,documentElement,readyState,URL,
+
+
+
+
+
+
