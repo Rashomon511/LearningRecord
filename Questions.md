@@ -49,5 +49,8 @@ $.toJSON的用法或把数组转换成json类型
 
 3.图解http
 [链接](http://www.cnblogs.com/xing901022/p/4309840.html)
+4.移动端自适应方案
+[解决方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+
 
  
