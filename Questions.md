@@ -49,8 +49,10 @@ $.toJSON的用法或把数组转换成json类型
 
 3.图解http
 - [链接](http://www.cnblogs.com/xing901022/p/4309840.html)
+
 4.移动端自适应方案
 - [解决方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+
 5.mvvm和mvc的区别
 - 在MVC里，View是可以直接访问Model的！从而，View里会包含Model信息，不可避免的还要包括一些业务逻辑。 MVC模型关注的是Model的不变，所以，在MVC模型里，Model不依赖于View，但是 View是依赖于Model的。不仅如此，因为有一些业务逻辑在View里实现了，导致要更改View也是比较困难的，至少那些业务逻辑是无法重用的。
 
