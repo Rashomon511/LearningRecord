@@ -85,3 +85,8 @@ Model:指的是数据部分，对应到前端就是javascript对象
 View:指的是视图部分，对应前端就是dom
 
 Viewmodel:就是连接视图与数据的中间件
+[链接](http://www.cnblogs.com/caizhenbo/p/6418284.html)
+
+7.new  vue之后发什么了什么
+- new vue 是新建 vue 对象，需要绑定元素的。 vue.extend 是新建 vue 组件，使用依赖于 vue 对象。
+
