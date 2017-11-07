@@ -1,6 +1,6 @@
   # 前端问题资料集 #
   
-  这里是一些我自己搜集的前端面试和工作中的资料，主要分为三大部分。
+  这里是一些我自己搜集的前端面试和工作中的资料
   
 - [工作中学习的资料](//github.com/LuoShengMen/Interview-Questions/blob/master/data.md)
 
