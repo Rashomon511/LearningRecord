@@ -7,3 +7,8 @@
 - 基于react，ant-design，dva，Mock 企业级后台管理系统最佳实践 https://github.com/zuiidea/antd-admin
 - dva 的 渐进式学习方案  https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial
 - 12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd) https://github.com/sorrycc/blog/issues/18
+
+2.markdown富文本编辑器
+- react-markdown https://github.com/rexxars/react-markdown
+- Draft.js  https://github.com/facebook/draft-js
+- react-quill https://github.com/zenoamaro/react-quill  (我准备用这个)
