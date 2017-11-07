@@ -38,6 +38,7 @@
 - react-router4文档 http://reacttraining.cn/web/example/basic
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
 - antd ui库 https://ant.design/components/form-cn/
+- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3   https://yq.aliyun.com/articles/69516
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
