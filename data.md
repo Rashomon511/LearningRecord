@@ -38,7 +38,9 @@
 - react-router4文档 http://reacttraining.cn/web/example/basic
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
 - antd ui库 https://ant.design/components/form-cn/
-- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3   https://yq.aliyun.com/articles/69516
+- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3  
+- immutable的具体应用 https://yq.aliyun.com/articles/69516
+- react 表库 https://antv.alipay.com/g2/doc/index.html
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
@@ -47,33 +49,43 @@
 - element-ui http://element.eleme.io/#/zh-CN
 - vux ui库  https://vux.li/#/
 
-7.webpack学习资料
+7.移动端高清布局方案
+- 手机端页面自适应解决方案 http://www.jianshu.com/p/985d26b40199#comment-7294037
+
+8.webpack学习资料
 - webpack官网 https://doc.webpack-china.org/guides/development/
 - webpack打包体积问题 http://www.jianshu.com/p/a64735eb0e2b
 - webpack多页面打包 https://segmentfault.com/a/1190000006843916
 - webpack文章 https://github.com/webpack-china/awesome-webpack-cn
 
-8.less文档
+9.less文档
 - http://lesscss.cn/
 
-9.electron学习资料
+10.electron学习资料
 - electron官网 https://electron.org.cn/doc/index.html
 - electron进程通讯 https://www.npmjs.com/package/electron-redux
 - electron react 入门学习3-自适应布局 http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4
  
-10.loadash 文档
+11.loadash 文档
  - loadash http://lodash.think2011.net/getting-started
  
-11. 后台文档
+12. 后台文档
  - express http://www.expressjs.com.cn/
  - koa http://koa.bootcss.com/
  - koa project https://github.com/koajs/react-view
  - express中文文档 http://www.runoob.com/w3cnote/express-4-x-api.html
  - Sequelize 中文API文档 https://itbilu.com/nodejs/npm/VJIR1CjMb.html
  - Nedb  https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html
+ - node文档 http://nodejs.cn/api/documentation.html
  
- 12.commonjs
+ 13.commonjs
  - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
+ 
+ 14.react native学习资料
+ - React Native 中文网 http://reactnative.cn/
+ - React-Native学习指南 https://github.com/reactnativecn/react-native-guide
+ - 每天都实战一个React-Native项目 http://blog.edagarli.com/2016/03/22/A%20self-taught%20project%20to%20learn%20React-Native/
+ - 学习React Native必看的几个开源项目 http://www.open-open.com/lib/view/open1465268659981.html
  
  
  
