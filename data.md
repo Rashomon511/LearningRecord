@@ -12,3 +12,12 @@
 - react-markdown https://github.com/rexxars/react-markdown
 - Draft.js  https://github.com/facebook/draft-js
 - react-quill https://github.com/zenoamaro/react-quill  (我准备用这个)
+
+3.js函数式编程指南
+- 指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
+
+4.react全家桶系列
+- react官网 https://reactjs.org/
+- react 阮一峰React 入门实例教程 http://www.ruanyifeng.com/blog/2015/03/react.html
+- React：组件的生命周期 https://segmentfault.com/a/1190000004168886
+- react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
