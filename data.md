@@ -60,16 +60,19 @@
 - electron进程通讯 https://www.npmjs.com/package/electron-redux
 - electron react 入门学习3-自适应布局 http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4
  
- 10.loadash 文档
+10.loadash 文档
  - loadash http://lodash.think2011.net/getting-started
  
- 11. 后台文档
+11. 后台文档
  - express http://www.expressjs.com.cn/
  - koa http://koa.bootcss.com/
  - koa project https://github.com/koajs/react-view
  - express中文文档 http://www.runoob.com/w3cnote/express-4-x-api.html
  - Sequelize 中文API文档 https://itbilu.com/nodejs/npm/VJIR1CjMb.html
  - Nedb  https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html
+ 
+ 12.commonjs
+ - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
  
  
  
