@@ -1,4 +1,16 @@
-1.dva学习资料：
+1.js学习文档
+- JavaScript教程 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- js前端书籍 https://f2edocs.com/books/
+- JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
+- js相关 http://www.zhangxinxu.com/wordpress/category/js/
+- ECMAScript 6 入门 http://es6.ruanyifeng.com/
+- TypeScript http://www.typescriptlang.org/
+- 十大经典排序算法总结（JavaScript描述） https://juejin.im/post/57dcd394a22b9d00610c5ec8
+- JavaScript 语言参考  https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx
+- JS 函数式编程指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
+- leetCode https://leetcode.com/problemset/all/?difficulty=Easy
+
+2.dva学习资料：
 - dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
 - dva-cli  的 命令行工具 及相关命令https://github.com/dvajs/dva-cli
 - dva 的 资源管理配置方案 roadhog https://github.com/sorrycc/roadhog/blob/master/README.md
@@ -8,15 +20,15 @@
 - dva 的 渐进式学习方案  https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial
 - 12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd) https://github.com/sorrycc/blog/issues/18
 
-2.markdown富文本编辑器
+3.markdown富文本编辑器
 - react-markdown https://github.com/rexxars/react-markdown
 - Draft.js  https://github.com/facebook/draft-js
 - react-quill https://github.com/zenoamaro/react-quill  (我准备用这个)
 
-3.js函数式编程指南
+4.js函数式编程指南
 - 指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
 
-4.react全家桶系列
+5.react全家桶系列
 - react官网 https://reactjs.org/
 - react 阮一峰React 入门实例教程 http://www.ruanyifeng.com/blog/2015/03/react.html
 - React：组件的生命周期 https://segmentfault.com/a/1190000004168886
@@ -26,3 +38,27 @@
 - react-router4文档 http://reacttraining.cn/web/example/basic
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
 - antd ui库 https://ant.design/components/form-cn/
+
+6.vue学习资料
+- vue官网 https://vuefe.cn/v2/guide/
+- vuex文档 https://vuex.vuejs.org/zh-cn/
+- vue-router https://router.vuejs.org/zh-cn/
+- element-ui http://element.eleme.io/#/zh-CN
+- vux ui库  https://vux.li/#/
+
+7.webpack学习资料
+- webpack官网 https://doc.webpack-china.org/guides/development/
+- webpack打包体积问题 http://www.jianshu.com/p/a64735eb0e2b
+- webpack多页面打包 https://segmentfault.com/a/1190000006843916
+- webpack文章 https://github.com/webpack-china/awesome-webpack-cn
+
+8.less文档
+- http://lesscss.cn/
+
+9.electron学习资料
+- electron官网 https://electron.org.cn/doc/index.html
+- electron进程通讯 https://www.npmjs.com/package/electron-redux
+- electron react 入门学习3-自适应布局 http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4
+ - 
+
+
