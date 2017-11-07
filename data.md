@@ -20,4 +20,9 @@
 - react官网 https://reactjs.org/
 - react 阮一峰React 入门实例教程 http://www.ruanyifeng.com/blog/2015/03/react.html
 - React：组件的生命周期 https://segmentfault.com/a/1190000004168886
+- redux中文文档 http://www.redux.org.cn/
 - react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
+- react-routerReact Router 使用教程 http://www.ruanyifeng.com/blog/2016/05/react_router.html
+- react-router4文档 http://reacttraining.cn/web/example/basic
+- react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
+- antd ui库 https://ant.design/components/form-cn/
