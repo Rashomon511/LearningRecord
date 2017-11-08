@@ -87,6 +87,9 @@
  - 每天都实战一个React-Native项目 http://blog.edagarli.com/2016/03/22/A%20self-taught%20project%20to%20learn%20React-Native/
  - 学习React Native必看的几个开源项目 http://www.open-open.com/lib/view/open1465268659981.html
  
+ 15.异步编程
+ - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
+ - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
  
  
  
