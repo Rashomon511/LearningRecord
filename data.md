@@ -88,6 +88,7 @@
  - 学习React Native必看的几个开源项目 http://www.open-open.com/lib/view/open1465268659981.html
  
  15.异步编程
+ - 同步函数与异步函数 http://blog.csdn.net/ixidof/article/details/7108771
  - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
  - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
  
