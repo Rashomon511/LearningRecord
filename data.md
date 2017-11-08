@@ -95,6 +95,7 @@
  16.正则表达式
  - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
  - JS正则表达式大全 http://www.blogjava.net/onejavaer/articles/79070.html
+ - 正则表达式学习参考 http://blog.csdn.net/lxcnn/article/details/4268033
  
  
  
