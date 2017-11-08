@@ -92,6 +92,11 @@
  - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
  - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
  
+ 16.正则表达式
+ - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
+ - JS正则表达式大全 http://www.blogjava.net/onejavaer/articles/79070.html
+ 
+ 
  
  
  
