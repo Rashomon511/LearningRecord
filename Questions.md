@@ -90,3 +90,6 @@ Viewmodel:就是连接视图与数据的中间件
 7.new  vue之后发什么了什么
 - new vue 是新建 vue 对象，需要绑定元素的。 vue.extend 是新建 vue 组件，使用依赖于 vue 对象。
 
+8.从回调函数到Promises到Generators到Async/awit –
+- http://zcfy.cc/article/es-5-6-7-from-callbacks-to-promises-to-generators-to-async-await-medium-1786.html?t=new
+
