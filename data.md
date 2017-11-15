@@ -41,6 +41,8 @@
 - Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3  
 - immutable的具体应用 https://yq.aliyun.com/articles/69516
 - react 表库 https://antv.alipay.com/g2/doc/index.html
+- redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
+
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
