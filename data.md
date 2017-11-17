@@ -80,6 +80,7 @@
  - Sequelize 中文API文档 https://itbilu.com/nodejs/npm/VJIR1CjMb.html
  - Nedb  https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html
  - node文档 http://nodejs.cn/api/documentation.html
+ - node.js教程 https://github.com/alsotang/node-lessons
  
  13.commonjs
  - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
