@@ -103,7 +103,8 @@
  17.GraphQL
  - GraphQL官网 https://graphql.org.cn/
  
- 
+18.开发规范
+- react开发规范 https://github.com/JasonBoy/javascript/tree/master/react
  
  
  
