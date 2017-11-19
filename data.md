@@ -81,6 +81,8 @@
  - Nedb  https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html
  - node文档 http://nodejs.cn/api/documentation.html
  - node.js教程 https://github.com/alsotang/node-lessons
+ - mongose官方文档 http://www.nodeclass.com/api/mongoose.html
+ - node+mongoose常用查询 http://www.cnblogs.com/winyh/p/6698803.html
  
  13.commonjs
  - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
