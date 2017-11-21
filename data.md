@@ -108,6 +108,11 @@
  
 18.开发规范
 - react开发规范 https://github.com/JasonBoy/javascript/tree/master/react
+
+19.token,cookie,Session
+- token详解 http://blog.csdn.net/xunfeng13/article/details/52371562
+- 基于Token的WEB后台认证机制 http://www.cnblogs.com/xiekeli/p/5607107.html
+- Session和Cookie的定义以及区别 http://www.cnblogs.com/windows/articles/1605634.html
  
  
  
