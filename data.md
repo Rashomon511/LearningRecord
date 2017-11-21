@@ -99,6 +99,7 @@
  - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
  - 体验异步的终极解决方案-ES7的Async/Await http://blog.csdn.net/z69183787/article/details/60143576
  - Async和Await异步编程的原理 http://blog.csdn.net/dyllove98/article/details/9371839
+ - ES7 中引入 async-await http://www.cnblogs.com/wangfupeng1988/p/6532734.html
  
  16.正则表达式
  - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
