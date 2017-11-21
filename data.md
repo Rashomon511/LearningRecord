@@ -97,6 +97,8 @@
  - 同步函数与异步函数 http://blog.csdn.net/ixidof/article/details/7108771
  - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
  - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
+ - 体验异步的终极解决方案-ES7的Async/Await http://blog.csdn.net/z69183787/article/details/60143576
+ - Async和Await异步编程的原理 http://blog.csdn.net/dyllove98/article/details/9371839
  
  16.正则表达式
  - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
