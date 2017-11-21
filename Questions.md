@@ -93,3 +93,38 @@ Viewmodel:就是连接视图与数据的中间件
 8.从回调函数到Promises到Generators到Async/awit –
 - http://zcfy.cc/article/es-5-6-7-from-callbacks-to-promises-to-generators-to-async-await-medium-1786.html?t=new
 
+9.三种对象合并方法
+ 方法1：使用JQuery的extend方法
+ 如果不指定target，则给jQuery命名空间本身进行扩展。这有助于插件作者为jQuery增加新方法。 如果第一个参数设置为true，则jQuery返回一个深层次的副本，递归地复制找到的任何对象(递归合并)。否则的话，副本会与原对象共享结构。 未定义的属性将不会被复制，然而从对象的原型继承的属性将会被复制。
+ ```javascript
+o3 = $.extend(o1, o2)  // 合并 o1 和 o2， 将结果返回给 o3. 注意： 此时，o1 == o3! 即 o1 被修改
+// 或
+o3 = $.extend({}, o1, o2) // 合并 o1 和 o2， 将结果返回给 o3. 注意： 此时，o1 ！= o3! 即 o1 没有被修改
+```
+方法2：用 Object.assign(); 
+```javascript
+var o1 = { a: 1 };
+var o2 = { b: 2 };
+var o3 = { c: 3 };
+ 
+var obj = Object.assign(o1, o2, o3);
+console.log(obj); // { a: 1, b: 2, c: 3 }
+console.log(o1);  // { a: 1, b: 2, c: 3 }, 注意目标对象自身也会改变。
+```
+方法3：遍历赋值法 
+```javascript
+var extend=function(o,n){
+   for (var p in n){
+        if(n.hasOwnProperty(p) && (!o.hasOwnProperty(p) ))
+            o[p]=n[p];
+    }
+};  
+```
+
+
+
+
+
+
+
+
