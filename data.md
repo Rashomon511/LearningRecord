@@ -117,6 +117,7 @@
 - token详解 http://blog.csdn.net/xunfeng13/article/details/52371562
 - 基于Token的WEB后台认证机制 http://www.cnblogs.com/xiekeli/p/5607107.html
 - Session和Cookie的定义以及区别 http://www.cnblogs.com/windows/articles/1605634.html
+- content-type http://www.cnblogs.com/52fhy/p/5436673.html
 
 20.ajax以及axios
 - axios http://www.jianshu.com/p/df464b26ae58
