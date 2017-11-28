@@ -10,6 +10,7 @@
 - JavaScript 语言参考  https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx
 - JS 函数式编程指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
 - leetCode https://leetcode.com/problemset/all/?difficulty=Easy
+- js callback http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html
 
 2.dva学习资料：
 - dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
@@ -104,6 +105,7 @@
  - 体验异步的终极解决方案-ES7的Async/Await http://blog.csdn.net/z69183787/article/details/60143576
  - Async和Await异步编程的原理 http://blog.csdn.net/dyllove98/article/details/9371839
  - ES7 中引入 async-await http://www.cnblogs.com/wangfupeng1988/p/6532734.html
+ -  浅谈node.js 回调函数与事件机制 http://blog.csdn.net/zhouziyu2011/article/details/68928175
  
  16.正则表达式
  - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
@@ -118,6 +120,7 @@
 
 19.token,cookie,Session
 - token详解 http://blog.csdn.net/xunfeng13/article/details/52371562
+- jwt token http://www.jianshu.com/p/a7882080c541
 - 基于Token的WEB后台认证机制 http://www.cnblogs.com/xiekeli/p/5607107.html
 - Session和Cookie的定义以及区别 http://www.cnblogs.com/windows/articles/1605634.html
 - content-type http://www.cnblogs.com/52fhy/p/5436673.html
