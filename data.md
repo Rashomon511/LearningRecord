@@ -86,7 +86,6 @@
  - node.js教程 https://github.com/alsotang/node-lessons
  - mongose官方文档 http://www.nodeclass.com/api/mongoose.html
  - node+mongoose常用查询 http://www.cnblogs.com/winyh/p/6698803.html
- - axios https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format
 
  
  13.commonjs
@@ -125,6 +124,7 @@
 
 20.ajax以及axios
 - axios http://www.jianshu.com/p/df464b26ae58
+- axios gihub https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format
 
 
  
