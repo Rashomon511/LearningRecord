@@ -46,6 +46,7 @@
 - redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
 - react高阶组件 http://www.cnblogs.com/libin-1/p/7087605.html
 - https://zhuanlan.zhihu.com/p/24776678
+- React 属性验证和默认值, refs, state http://www.jianshu.com/p/8c25c0ec402f
 
 
 6.vue学习资料
