@@ -34,8 +34,6 @@
 - react官网 https://reactjs.org/
 - react 阮一峰React 入门实例教程 http://www.ruanyifeng.com/blog/2015/03/react.html
 - React：组件的生命周期 https://segmentfault.com/a/1190000004168886
-- redux中文文档 http://www.redux.org.cn/
-- react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
 - react-routerReact Router 使用教程 http://www.ruanyifeng.com/blog/2016/05/react_router.html
 - react-router4文档 http://reacttraining.cn/web/example/basic
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
@@ -43,11 +41,14 @@
 - Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3  
 - immutable的具体应用 https://yq.aliyun.com/articles/69516
 - react 表库 https://antv.alipay.com/g2/doc/index.html
-- redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
 - react高阶组件 http://www.cnblogs.com/libin-1/p/7087605.html
 - https://zhuanlan.zhihu.com/p/24776678
 - React 属性验证和默认值, refs, state http://www.jianshu.com/p/8c25c0ec402f
 
+- redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
+- redux 中间件详解 redux middleware 详解
+- redux中文文档 http://www.redux.org.cn/
+- react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
