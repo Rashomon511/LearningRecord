@@ -65,6 +65,7 @@
 - webpack打包体积问题 http://www.jianshu.com/p/a64735eb0e2b
 - webpack多页面打包 https://segmentfault.com/a/1190000006843916
 - webpack文章 https://github.com/webpack-china/awesome-webpack-cn
+- 基于 Webpack 的应用包体尺寸优化 http://www.open-open.com/lib/view/open1484709648751.html
 
 9.less文档
 - http://lesscss.cn/
