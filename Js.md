@@ -254,6 +254,16 @@ alert(str) // string
 　　Document:
 　　方法：createElement,execCommand,getElementById,getElementsByName,getElementByTagName,write,writeln
     属性：cookie,doctype,domain,documentElement,readyState,URL,
+    
+  33.React 常用面试题目与分析 React数据获取为什么一定要在componentDidMount里面调用？
+  1.获取数据肯定是以异步方式进行，不会阻碍组件渲染（只会耽误请求发送这个时间），然后接着渲染，等异步返回数据后，如果成功再进行setState操作，setState是将更新的状态放进了组件的__pendingStateQueue队列，react不会立即响应更新，会等到组件挂载完成后，统一的更新脏组件（需要更新的组件）。放在constructor或者componentWillMount里面反而会更加有效率。
+2.再说说React-Redux，要想让组件更新，必须要有用connect(...)(yourComponent)封装的容器（高阶）组件，这个组件会监听store变化，内部调用setState触发你的组件更新。数据处理都是通过dispatch(action)进行,自己并不会在组件的声明周期内直接ajax获取取数据。使用redux这个问题就成为了再组件声明周期的哪个节阶段dispatch(action)获取数据才合理？
+总结：
+我认为原因有：
+1.跟服务器端渲染（同构）有关系，如果在componentWillMount里面获取数据，fetch data会执行两次，一次在服务器端一次在客户端。在componentDidMount中可以解决这个问题。
+2.在componentWillMount中fetch data，数据一定在render后才能到达，如果你忘记了设置初始状态，用户体验不好。
+3.react16.0以后，componentWillMount可能会被执行多次
+  https://zhuanlan.zhihu.com/p/24856035
 
 
 
