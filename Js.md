@@ -256,8 +256,10 @@ alert(str) // string
     属性：cookie,doctype,domain,documentElement,readyState,URL,
     
   33.React 常用面试题目与分析 React数据获取为什么一定要在componentDidMount里面调用？
-  1.获取数据肯定是以异步方式进行，不会阻碍组件渲染（只会耽误请求发送这个时间），然后接着渲染，等异步返回数据后，如果成功再进行setState操作，setState是将更新的状态放进了组件的__pendingStateQueue队列，react不会立即响应更新，会等到组件挂载完成后，统一的更新脏组件（需要更新的组件）。放在constructor或者componentWillMount里面反而会更加有效率。
-2.再说说React-Redux，要想让组件更新，必须要有用connect(...)(yourComponent)封装的容器（高阶）组件，这个组件会监听store变化，内部调用setState触发你的组件更新。数据处理都是通过dispatch(action)进行,自己并不会在组件的声明周期内直接ajax获取取数据。使用redux这个问题就成为了再组件声明周期的哪个节阶段dispatch(action)获取数据才合理？
+  - 1.获取数据肯定是以异步方式进行，不会阻碍组件渲染（只会耽误请求发送这个时间），然后接着渲染，等异步返回数据后，如果成功再进行setState操作，setState是将更新的状态放进了组件的__pendingStateQueue队列，react不会立即响应更新，会等到组件挂载完成后，统一的更新脏组件（需要更新的组件）。放在constructor或者componentWillMount里面反而会更加有效率。
+- 2.再说说React-Redux，要想让组件更新，必须要有用connect(...)(yourComponent)封装的容器（高阶）组件，这个组件会监听store变化，内部调用setState触发你的组件更新。数据处理都是通过dispatch(action)进行,自己并不会在组件的声明周期内直接ajax获取取数据。使用redux这个问题就成为了再组件声明周期的哪个节阶段dispatch(action)获取数据才合理？
+- 3 之所以react推荐在componentDidMount钩子中使用而不是componentWillMount的原因：因为请求是异步的，所以无论你放在两个中的任何一个里面，几乎绝对都会在组件渲染之后，再进行数据渲染，也就是说避免不了二次渲染(第一次渲染为默认值，第二次为请求后的数据渲染)，所以效果上放到哪里都一样，但是在DidMount中可以使用refs了。然后重要的是（是在Stack Overflow中的回答看到）：未来的react版本可能会对componentWillMount进行调整，可能在某些情况下触发多次，所以官方是推荐在componentDidMount中进行请求。 当然放到willMount中可能会快那么几毫秒，毕竟先运行嘛。。。
+vue的渲染前的钩子函数比react多两个：beforeCreat与created。而vue的例子为什么在created中写的，可能是因为是个demo也没有考虑那么多。一样的道理，无论放到beforeCreat、created或者beforeMount中也同样避免不了二次渲染，差别也可能是那么几毫秒
 总结：
 我认为原因有：
 1.跟服务器端渲染（同构）有关系，如果在componentWillMount里面获取数据，fetch data会执行两次，一次在服务器端一次在客户端。在componentDidMount中可以解决这个问题。
