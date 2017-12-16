@@ -67,6 +67,8 @@
 - webpack多页面打包 https://segmentfault.com/a/1190000006843916
 - webpack文章 https://github.com/webpack-china/awesome-webpack-cn
 - 基于 Webpack 的应用包体尺寸优化 http://www.open-open.com/lib/view/open1484709648751.html
+- 基于webpack的前端工程化开发之多页站点篇（二） https://segmentfault.com/a/1190000004516832
+- webpack多页应用架构系列（一）：一步一步解决架构痛点 https://github.com/454979849/better-webpack-multiple-pages
 
 9.less文档
 - http://lesscss.cn/
