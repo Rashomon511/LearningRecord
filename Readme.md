@@ -6,11 +6,11 @@
 
 - [我容易忘记的一些概念和问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Questions.md)
   
-- [javaScript面试题](//github.com/LuoShengMen/Interview-Questions/blob/master/Js.md)
+- [javaScript](//github.com/LuoShengMen/Interview-Questions/blob/master/Js.md)
   
-- [CSS 面试题](//github.com/LuoShengMen/Interview-Questions/blob/master/Css.md)
+- [CSS](//github.com/LuoShengMen/Interview-Questions/blob/master/Css.md)
   
-- [其他面试题](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
+- [其他](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
   
   
   ---持续更新ing
