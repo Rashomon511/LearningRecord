@@ -36,9 +36,11 @@
 - React：组件的生命周期 https://segmentfault.com/a/1190000004168886
 - react-routerReact Router 使用教程 http://www.ruanyifeng.com/blog/2016/05/react_router.html
 - react-router4文档 http://reacttraining.cn/web/example/basic
+- query-string https://www.npmjs.com/package/query-string
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
 - antd ui库 https://ant.design/components/form-cn/
 - Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3  
+- react 优化 https://github.com/jurassix/react-immutable-render-mixin
 - immutable的具体应用 https://yq.aliyun.com/articles/69516
 - react 表库 https://antv.alipay.com/g2/doc/index.html
 - react高阶组件 http://www.cnblogs.com/libin-1/p/7087605.html
@@ -134,6 +136,13 @@
 20.ajax以及axios
 - axios http://www.jianshu.com/p/df464b26ae58
 - axios gihub https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format
+
+21 函数式编程
+- Ramda（中文文档） http://ramda.cn/docs/ 
+- Ramda（英文文档）http://ramdajs.com/
+- https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
+- 类似 ClojureScript/PureScript/Elm
+
 
 
  
