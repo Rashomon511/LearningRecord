@@ -131,6 +131,50 @@ redux-thunk 的缺点：
 （1）声明式 Effects：所有的操作以JavaScript对象的方式被 yield，并被 middleware 执行。使得在 saga 内部测试变得更加容易，可以通过简单地遍历 Generator 并在 yield 后的成功值上面做一个 deepEqual 测试。
 （2）高级的异步控制流以及并发管理：可以使用简单的同步方式描述异步流，并通过 fork 实现并发任务。
 （3）架构上的优势：将所有的异步流程控制都移入到了 sagas，UI 组件不用执行业务逻辑，只需 dispatch action 就行，增强组件复用性。
+11. 函数式组件
+```javascript
+export function Header (options) {
+    return (Comp) => {
+        const finalOptions = {
+            ...options
+        };
+        const { title } = finalOptions;
+        class HeaderComponent extends Component {
+            close = () => {
+                ipcRenderer.send('close', ['login']);
+            };
+            render () {
+                return (
+                    <div className={style.allWrap}>
+                        <div className={style.dragBox}>
+                            <div className={style.wrap}>
+                                <div className={style.icon}>
+                                    <Icon type='close' className={style.closeIcon} onClick={this.close} />
+                                </div>
+                            </div>
+                            <div className={style.header}>
+                                <div className={style.headTitle}><span>{title}</span></div>
+                                <div className={style.logoPic}>
+                                    < img src={logo} alt='' />
+                                </div>
+                                <div className={style.headName}><p>元数通</p ></div>
+                            </div>
+                        </div>
+                        <div classname={style.Wrap}>
+                            <div className={style.content}>
+                                <Comp
+                                    {...this.props}
+                                />
+                            </div>
+                        </div>
+                    </div>
+                );
+            }
+        }
+        return HeaderComponent;
+    }
+}
+```
 
 
 
