@@ -52,6 +52,7 @@
 - redux 中间件详解 redux middleware 详解
 - redux中文文档 http://www.redux.org.cn/
 - react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
+- mbox http://cn.mobx.js.org/
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
