@@ -175,6 +175,8 @@ export function Header (options) {
     }
 }
 ```
+12 日期转换
+new Date().format("YYYY-MM-DD HH:mm:ss")
 
 
 
