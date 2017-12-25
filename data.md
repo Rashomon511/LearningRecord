@@ -11,7 +11,7 @@
 - JS 函数式编程指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
 - leetCode https://leetcode.com/problemset/all/?difficulty=Easy
 - js callback http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html
-
+ 
 2.dva学习资料：
 - dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
 - dva-cli  的 命令行工具 及相关命令https://github.com/dvajs/dva-cli
