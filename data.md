@@ -47,6 +47,7 @@
 - https://zhuanlan.zhihu.com/p/24776678
 - React 属性验证和默认值, refs, state http://www.jianshu.com/p/8c25c0ec402f
 - React:ES6 & ES7中的6种this绑定方法https://github.com/dwqs/blog/issues/10
+- react中的refs http://blog.csdn.net/win0032/article/details/51516126
 
 - redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
 - redux 中间件详解 redux middleware 详解
