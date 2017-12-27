@@ -151,6 +151,7 @@
 22.g2和echart图表
 - g2官网 https://antv.alipay.com/zh-cn/g2/3.x/tutorial
 - 图表示例http://antvis.github.io/g2/demo/index.html
+- g2关系图 https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html#_关系图
 
 
 
