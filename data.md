@@ -148,6 +148,10 @@
 - https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
 - 类似 ClojureScript/PureScript/Elm
 
+22.g2和echart图表
+- g2官网 https://antv.alipay.com/zh-cn/g2/3.x/tutorial
+- 图表示例http://antvis.github.io/g2/demo/index.html
+
 
 
  
