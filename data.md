@@ -54,6 +54,7 @@
 - redux中文文档 http://www.redux.org.cn/
 - react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
 - mbox http://cn.mobx.js.org/
+- react-immutable-render-mixin https://www.npmjs.com/package/react-immutable-render-mixin
 
 6.vue学习资料
 - vue官网 https://vuefe.cn/v2/guide/
