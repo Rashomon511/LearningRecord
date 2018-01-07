@@ -154,8 +154,8 @@
 - 图表示例http://antvis.github.io/g2/demo/index.html
 - g2关系图 https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html#_关系图
 
-
-
+23.brew
+- brew 官网 https://brew.sh/index_zh-cn.html
  
  
  
