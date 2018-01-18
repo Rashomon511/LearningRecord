@@ -156,6 +156,9 @@
 
 23.brew
 - brew 官网 https://brew.sh/index_zh-cn.html
+
+24.工具
+截整个网页的图：https://github.com/GoogleChrome/puppeteer
  
  
  
