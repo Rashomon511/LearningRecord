@@ -266,6 +266,8 @@ vue的渲染前的钩子函数比react多两个：beforeCreat与created。而vue
 2.在componentWillMount中fetch data，数据一定在render后才能到达，如果你忘记了设置初始状态，用户体验不好。
 3.react16.0以后，componentWillMount可能会被执行多次
   https://zhuanlan.zhihu.com/p/24856035
+33.<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+- 加上这句代码，可以让所有浏览器的内核都是用谷歌的内核，如果没有谷歌内核，会偷偷下载而且转换
 
 
 
