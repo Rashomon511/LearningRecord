@@ -62,6 +62,7 @@
 - vue-router https://router.vuejs.org/zh-cn/
 - element-ui http://element.eleme.io/#/zh-CN
 - vux ui库  https://vux.li/#/
+- weex ui库 https://weex.apache.org/guide/index.html
 
 7.移动端高清布局方案
 - 手机端页面自适应解决方案 http://www.jianshu.com/p/985d26b40199#comment-7294037
