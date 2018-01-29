@@ -13,6 +13,7 @@
 - js callback http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html
  
 2.dva学习资料：
+- umi 五米官网 https://umijs.org/
 - dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
 - dva-cli  的 命令行工具 及相关命令https://github.com/dvajs/dva-cli
 - dva 的 资源管理配置方案 roadhog https://github.com/sorrycc/roadhog/blob/master/README.md
