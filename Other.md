@@ -25,3 +25,7 @@ https://juejin.im/entry/5a646b5a6fb9a01cb42c760b
 
 9.Nodejs 面试题： 
 - https://github.com/ElemeFE/node-interview     star 6000
+
+10。阿里美团
+https://juejin.im/post/5a92c23b5188257a6b06110b
+https://juejin.im/post/5a96c6326fb9a063626408c8
