@@ -270,6 +270,11 @@ vue的渲染前的钩子函数比react多两个：beforeCreat与created。而vue
 - 加上这句代码，可以让所有浏览器的内核都是用谷歌的内核，如果没有谷歌内核，会偷偷下载而且转换
 
 
+Vue和React的Diff算法有什么区别 --> 应用开发
+AST的原理和babel插件 -> 工具链
+Node的V8内存管理 -> 懵逼
+
+
 
 
 
