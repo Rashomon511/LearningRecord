@@ -169,6 +169,10 @@
 
 26.深拷贝和浅拷贝 
 - https://github.com/wengjq/Blog/issues/3
+
+27，umi官网
+- https://umijs.org/
+- umi demo https://dist-cmqnejpels.now.sh/home.html
  
  
  
