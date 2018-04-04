@@ -40,3 +40,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
 
 13.大厂前端考什么
 -http://hpoenixf.com/%E5%A4%A7%E5%8E%82%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E8%80%83%E4%BB%80%E4%B9%88.html
+
+14.前端常见问题
+- https://juejin.im/post/5ac43e7c6fb9a028d1414f84
