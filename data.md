@@ -108,6 +108,7 @@
  
  13.commonjs
  - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
+ - 很全很全的JavaScript的模块讲解 https://segmentfault.com/a/1190000012464333#articleHeader9
  
  14.react native学习资料
  - React Native 中文网 http://reactnative.cn/
