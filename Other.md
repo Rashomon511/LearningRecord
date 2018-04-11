@@ -44,3 +44,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
 14.前端常见问题
 - https://juejin.im/post/5ac43e7c6fb9a028d1414f84
 - https://juejin.im/post/5abf8a25f265da23994ea8fa?utm_medium=fe&utm_source=weixinqun
+
+15.js学习流程图
+- https://github.com/laihuamin/JS-total
