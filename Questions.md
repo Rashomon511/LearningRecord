@@ -178,6 +178,15 @@ export function Header (options) {
 12 日期转换
 new Date().format("YYYY-MM-DD HH:mm:ss")
 
+13.JavaScript:(a==1 && a==2 && a==3)能输出ture么？
+可以，改写valueOf
+a.valueOf = function() {
+  return this.num += 1;
+}
+
+主要是用到>隐式转换
+object的valueOf函数
+
 
 
 
