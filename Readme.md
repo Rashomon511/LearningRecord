@@ -2,15 +2,15 @@
 
   这里是一些我自己搜集的前端面试和工作中的资料
   
-- [工作中学习的资料](//github.com/LuoShengMen/Interview-Questions/blob/master/data.md)
+- [学习笔记](//github.com/LuoShengMen/Interview-Questions/blob/master/Js.md)
 
-- [我容易忘记的一些概念和问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Questions.md)
+- [读书笔记](//github.com/LuoShengMen/Interview-Questions/blob/master/Css.md)
 
-- [javaScript](//github.com/LuoShengMen/Interview-Questions/blob/master/Js.md)
+- [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials)
 
-- [CSS](//github.com/LuoShengMen/Interview-Questions/blob/master/Css.md)
+- [容易忘记的一些概念和问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Questions.md)
 
-- [其他](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
+- [面试问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
 
 
   ---持续更新ing,欢迎大家start
