@@ -6,9 +6,9 @@
 
 - [读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
-- [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials)
+- [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
-- [容易忘记的一些概念和问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Questions.md)
+- [容易忘记的一些概念和问题](//github.com/LuoShengMen/StudyNotes/blob/master/forgetQuestions/Questions.md)
 
 - [面试问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
 
