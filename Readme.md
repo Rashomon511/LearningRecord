@@ -4,7 +4,7 @@
   
 - [学习笔记](//github.com/LuoShengMen/StudyNotes/tree/master/studyNotes)
 
-- [读书笔记](//github.com/LuoShengMen/Interview-Questions/blob/master/Css.md)
+- [读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials)
 
