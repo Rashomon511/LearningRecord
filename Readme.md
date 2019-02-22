@@ -10,7 +10,7 @@
 
 - [容易忘记的一些概念和问题](//github.com/LuoShengMen/StudyNotes/blob/master/forgetQuestions/Questions.md)
 
-- [面试问题](//github.com/LuoShengMen/Interview-Questions/blob/master/Other.md)
+- [面试问题](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
 
 
   ---持续更新ing,欢迎大家start
