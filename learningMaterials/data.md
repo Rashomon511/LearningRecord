@@ -1,3 +1,5 @@
+ #  学习资料 #
+
 1.js学习文档
 - 深入理解 JavaScript 异步 https://github.com/wangfupeng1988/js-async-tutorial
 - JavaScript教程 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
@@ -11,7 +13,7 @@
 - JS 函数式编程指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
 - leetCode https://leetcode.com/problemset/all/?difficulty=Easy
 - js callback http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html
- 
+
 2.dva学习资料：
 - umi 五米官网 https://umijs.org/
 - dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
@@ -40,7 +42,7 @@
 - query-string https://www.npmjs.com/package/query-string
 - react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
 - antd ui库 https://ant.design/components/form-cn/
-- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3  
+- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3
 - react 优化 https://github.com/jurassix/react-immutable-render-mixin
 - immutable的具体应用 https://yq.aliyun.com/articles/69516
 - react 表库 https://antv.alipay.com/g2/doc/index.html
@@ -88,10 +90,10 @@
 - electron官网 https://electron.org.cn/doc/index.html
 - electron进程通讯 https://www.npmjs.com/package/electron-redux
 - electron react 入门学习3-自适应布局 http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4
- 
+
 11.loadash 文档
  - loadash http://lodash.think2011.net/getting-started
- 
+
 12. 后台文档
  - express http://www.expressjs.com.cn/
  - express教程 https://github.com/nswbmw/N-blog
@@ -105,17 +107,17 @@
  - mongose官方文档 http://www.nodeclass.com/api/mongoose.html
  - node+mongoose常用查询 http://www.cnblogs.com/winyh/p/6698803.html
 
- 
+
  13.commonjs
  - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
  - 很全很全的JavaScript的模块讲解 https://segmentfault.com/a/1190000012464333#articleHeader9
- 
+
  14.react native学习资料
  - React Native 中文网 http://reactnative.cn/
  - React-Native学习指南 https://github.com/reactnativecn/react-native-guide
  - 每天都实战一个React-Native项目 http://blog.edagarli.com/2016/03/22/A%20self-taught%20project%20to%20learn%20React-Native/
  - 学习React Native必看的几个开源项目 http://www.open-open.com/lib/view/open1465268659981.html
- 
+
  15.异步编程
  - 同步函数与异步函数 http://blog.csdn.net/ixidof/article/details/7108771
  - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
@@ -124,15 +126,15 @@
  - Async和Await异步编程的原理 http://blog.csdn.net/dyllove98/article/details/9371839
  - ES7 中引入 async-await http://www.cnblogs.com/wangfupeng1988/p/6532734.html
  -  浅谈node.js 回调函数与事件机制 http://blog.csdn.net/zhouziyu2011/article/details/68928175
- 
+
  16.正则表达式
  - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
  - JS正则表达式大全 http://www.blogjava.net/onejavaer/articles/79070.html
  - 正则表达式学习参考 http://blog.csdn.net/lxcnn/article/details/4268033
- 
+
  17.GraphQL
  - GraphQL官网 https://graphql.org.cn/
- 
+
 18.开发规范
 - react开发规范 https://github.com/JasonBoy/javascript/tree/master/react
 
@@ -148,7 +150,7 @@
 - axios gihub https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format
 
 21 函数式编程
-- Ramda（中文文档） http://ramda.cn/docs/ 
+- Ramda（中文文档） http://ramda.cn/docs/
 - Ramda（英文文档）http://ramdajs.com/
 - https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
 - 类似 ClojureScript/PureScript/Elm
@@ -168,7 +170,7 @@
 - react源码分析 https://zhuanlan.zhihu.com/p/32520194
 - react源码分析 https://zhuanlan.zhihu.com/p/28697362
 
-26.深拷贝和浅拷贝 
+26.深拷贝和浅拷贝
 - https://github.com/wengjq/Blog/issues/3
 
 27，umi官网
@@ -182,8 +184,8 @@
 - https://github.com/jaywcjlove/mysql-tutorial
 - http://www.cnblogs.com/zhenyulu/articles/204227.html
 
- 
- 
- 
+
+
+
 
 

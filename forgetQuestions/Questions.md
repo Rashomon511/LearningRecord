@@ -1,3 +1,5 @@
+ #  易忘的问题 #
+
 1.什么是内存泄露
 - 内存泄漏指任何对象在您不再拥有或需要它之后仍然存在。
 垃圾回收器定期扫描对象，并计算引用了每个对象的其他对象的数量。如果一个对象的引用数量为 0(没有其他对象引用过该对象)，或对该对象的惟一引用是循环的，那么该对象的内存即可回收。
@@ -45,7 +47,7 @@ console.log(aToString);//{"name":"tom","sex":"男","age":"24"}
 (兼容所有浏览器，但不安全，会执行json里面的表达式?)
 - Js对象转换为Json：
 JSON.stringify(jsobj);(不兼容ie7)
-$.toJSON的用法或把数组转换成json类型 
+$.toJSON的用法或把数组转换成json类型
 
 3.图解http
 - [链接](http://www.cnblogs.com/xing901022/p/4309840.html)
@@ -101,24 +103,24 @@ o3 = $.extend(o1, o2)  // 合并 o1 和 o2， 将结果返回给 o3. 注意： �
 // 或
 o3 = $.extend({}, o1, o2) // 合并 o1 和 o2， 将结果返回给 o3. 注意： 此时，o1 ！= o3! 即 o1 没有被修改
 ```
-方法2：用 Object.assign(); 
+方法2：用 Object.assign();
 ```javascript
 var o1 = { a: 1 };
 var o2 = { b: 2 };
 var o3 = { c: 3 };
- 
+
 var obj = Object.assign(o1, o2, o3);
 console.log(obj); // { a: 1, b: 2, c: 3 }
 console.log(o1);  // { a: 1, b: 2, c: 3 }, 注意目标对象自身也会改变。
 ```
-方法3：遍历赋值法 
+方法3：遍历赋值法
 ```javascript
 var extend=function(o,n){
    for (var p in n){
         if(n.hasOwnProperty(p) && (!o.hasOwnProperty(p) ))
             o[p]=n[p];
     }
-};  
+};
 ```
 10.redux中间件异步流程
 http://www.jianshu.com/p/e84493c7af35
@@ -186,6 +188,15 @@ a.valueOf = function() {
 
 主要是用到>隐式转换
 object的valueOf函数
+
+14.你如何对网站的文件和资源进行优化?期待的解决方案包括：
+- 文件合并
+文件最小化/文件压缩
+使用CDN托管
+缓存的使用
+
+14. 新技术d-clound
+- http://dcloud.io/doc.html
 
 
 
