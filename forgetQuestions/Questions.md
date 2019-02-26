@@ -195,8 +195,14 @@ object的valueOf函数
 使用CDN托管
 缓存的使用
 
-14. 新技术d-clound
-- http://dcloud.io/doc.html
+15.性能优化经验
+
+16.热加载怎么实现
+
+17.JS事件循环
+异步任务放在一个队列里，Promise的任务呢
+
+
 
 
 
