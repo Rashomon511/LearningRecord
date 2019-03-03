@@ -52,3 +52,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
 
 16.中高级前端大厂面试秘籍
 - https://juejin.im/post/5c64d15d6fb9a049d37f9c20
+
+17.几道有意思的面试题
+- https://juejin.im/post/5c7a346f518825620677ebe8
