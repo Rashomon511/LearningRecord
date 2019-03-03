@@ -2,6 +2,8 @@
 
   这里是一些我自己搜集的前端面试和工作中的资料
   
+- [每日面试题学习](//github.com/LuoShengMen/StudyNotes/tree/master/DailyQuestion)
+
 - [学习笔记](//github.com/LuoShengMen/StudyNotes/tree/master/studyNotes)
 
 - [读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
