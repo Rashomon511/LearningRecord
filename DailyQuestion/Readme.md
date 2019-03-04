@@ -10,4 +10,4 @@
 
 - [第 5 题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%94%E9%A2%98.md)
 
-- [第 6 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？]()
+- [第 6 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%85%AD%E9%A2%98.md)
