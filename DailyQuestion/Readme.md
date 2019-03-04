@@ -6,6 +6,6 @@
 
 - [第 3 题：什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E9%A2%98.md)
 
-- [第 4 题：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？]()
+- [第 4 题：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC4%E9%A2%98.md)
 
 - [第 5 题：介绍下深度优先遍历和广度优先遍历，如何实现？]()
