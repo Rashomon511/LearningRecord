@@ -4,4 +4,4 @@
 
 - [第 2 题：['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E9%A2%98.md)
 
-- [第 3 题：什么是防抖和节流？有什么区别？如何实现?]()
+- [第 3 题：什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E9%A2%98.md)
