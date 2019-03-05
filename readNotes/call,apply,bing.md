@@ -38,6 +38,7 @@ function callSum2(num1, num2){
 alert(callSum1(10,10));   //20
 alert(callSum2(10,10));   //20
 ```
+其中 this 是你想指定的上下文，他可以是任何一个 JavaScript 对象(JavaScript 中一切皆对象)
 apply()和 call()的用法，接受参数的方式不一样，使用 call()(或 apply())来扩充作用域的最大好处，就是对象不需要与方法有任何耦合关系，如果你传的 context 就 null 或者 undefined，那么 window 对象就是默认的 context（严格模式下默认 context 是 undefined)。
 
 bind()用法：第一个参数是this的指向，从第二个参数开始是接收的参数列表
