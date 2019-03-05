@@ -16,7 +16,7 @@
 
 - [第 8 题：setTimeout、Promise、Async/Await 的区别]()
 
-- [第 9 题：javascript的运行机制]（）
+- [第 9 题：javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B9%9D%E9%A2%98.md)
 
 - [第 10 题：Async/Await 如何通过同步的方式实现异步]()
 
