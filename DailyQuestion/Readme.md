@@ -24,4 +24,4 @@
 
 - [第 12 题：算法手写题](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%A2%98.md)
 
-- [第 13 题：JS 异步解决方案的发展历程以及优缺点。]()
+- [第 13 题：JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%A2%98.md)
