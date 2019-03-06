@@ -32,9 +32,13 @@ Object.defineProperty( myObject, "a", {
      } );
 ```
 > 对象常量: 结合 writable:false 和 configurable:false,禁止扩展:  Object.prevent Extensions(..):密封:Object.seal(..) 冻结: Object.freeze(..) 
+
 > in操作符会检查属性是否在对象及其[[Prototype]] 原型链中(只包含可枚举属性)，hasOwnProperty(..)只会检查属性是否在该对象中,
+
 > Object.keys(..)(只包含可枚举属性)和 Object.getOwnPropertyNames(..)都只会查找对象直接包含的属性
+
 >in操作符会检查属性是否在对象及其[[Prototype]] 原型链中，hasOwnProperty(..)只会检查属性是否在该对象中,Object.keys(..)和 Object.getOwnPropertyNames(..)都只会查找对象直接包含的属性
+
 > for...in 来遍历无法直接获取属性值的，对于对象只能获取属性，对于数组获取下标，for...of遍历对象获得属性值，遍历数组获取值(for..of 循环首先会向被访问对象请求一个迭代器对象，然后通过调用迭代器对象的 next() 方法来遍历所有返回值)
 
 
