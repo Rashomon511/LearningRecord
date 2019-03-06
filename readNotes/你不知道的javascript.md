@@ -16,75 +16,39 @@
  
 > js并不存在动态作用域，只有词法作用域，词法作用域关注函数在何处声明，动态作用域关注函数在何处调用
 
->  为什么使用this? this 提供了一种更优雅的方式来隐式“传递”一个对象引用
->this 是在运行时进行绑定的，并不是在编写时绑定，它的上下文取决于函数调 用时的各种条件。this 的绑定和函数声明的位置没有任何关系，只取决于函数的调用方式
+>  为什么使用this? this 提供了一种更优雅的方式来隐式“传递”一个对象引用[详解](https://github.com/LuoShengMen/StudyNotes/blob/master/readNotes/this%E6%8C%87%E5%90%91.md)
+> this 是在运行时进行绑定的，并不是在编写时绑定，它的上下文取决于函数调 用时的各种条件。this 的绑定和函数声明的位置没有任何关系，只取决于函数的调用方式
 
-> this的绑定规则
- * 默认绑定： 独立函数调用，在全局模式下，全局对象将无法使用默认绑定
- ```
- function foo() {
- console.log( this.a ); // this指向window
- }
- var a = 2; 
- foo(); // 2 调用位置为全局
- ```
- * 隐式绑定：调用位置是否有上下文对象，或者说是否被某个对象拥有或者包含,对象属性引用链中只有最顶层或者说最后一层会影响调用位置
- ```
- function foo() {
-  console.log( this.a );
- }
-var obj = {
- a: 2,
- foo: foo 
-};
-obj.foo(); // 2
- ```
- * 显式绑定: 利用call,apply方法可以直接指定 this 的绑定对象
- ```
- function foo() {
- console.log( this.a );
- }
-var obj = {
-  a:2
- };
-foo.call( obj ); // 2 //foo.apply(obj)
- ```
-  - 1.硬绑定: 强制把 foo 的 this 绑定到了 obj,js内置bind(..) 会返回一个硬编码的新函数，它会把参数设置为 this 的上下文并调用原始函数
- ```
- function foo() {
- console.log( this.a );
-}
-var obj = { a:2};
-var bar = function() {
-foo.call( obj );
-};
- bar(); // 2
-setTimeout( bar, 100 ); // 2
-// 硬绑定的 bar 不可能再修改它的
-this bar.call( window ); // 2
+> 对象可以通过两种形式定义:声明(文字)形式和构造形式。
+> js的内置对象：String,Number,Boolean, Object,Function,Array,Date,RegExp,Error
+> 属性描述 Object.getOwnPropertyDescriptor( myObject, "a" );
+> 新增或修改属性：  Object.defineProperty(..)
 ```
- 2. API调用的“上下文”： 提供了一 个可选的参数，通常被称为“上下文”(context)，其作用和 bind(..) 一样
- ```
- function foo(el) {
-console.log( el, this.id );
-}
-var obj = {
-id: "awesome"
-};
-// 调用 foo(..) 时把 this 绑定到 obj [1, 2, 3].forEach( foo, obj );
-// 1 awesome 2 awesome 3 awesome
+Object.defineProperty( myObject, "a", {
+         value: 2,
+         writable: true, //决定是否可以修改属性的值。
+         configurable: true, //只要属性是可配置的，就可以使用 defineProperty(..) 方法来修改属性描述符,会禁止delete属性
+         enumerable: true //属性是否会出现在对象的属性枚举中
+     } );
 ```
- * new绑定
- ```
- function foo(a) { this.a = a;}
-var bar = new foo(2); 
-console.log( bar.a ); // 2
-```
-使用 new 来调用 foo(..) 时，我们会构造一个新对象并把它绑定到 foo(..) 调用中的 this 上。new 是最后一种可以影响函数调用时 this 绑定行为的方法，我们称之为 new 绑定
+> 对象常量: 结合 writable:false 和 configurable:false,禁止扩展:  Object.prevent Extensions(..):密封:Object.seal(..) 冻结: Object.freeze(..) 
+> in操作符会检查属性是否在对象及其[[Prototype]] 原型链中(只包含可枚举属性)，hasOwnProperty(..)只会检查属性是否在该对象中,
+> Object.keys(..)(只包含可枚举属性)和 Object.getOwnPropertyNames(..)都只会查找对象直接包含的属性
+>in操作符会检查属性是否在对象及其[[Prototype]] 原型链中，hasOwnProperty(..)只会检查属性是否在该对象中,Object.keys(..)和 Object.getOwnPropertyNames(..)都只会查找对象直接包含的属性
+> for...in 来遍历无法直接获取属性值的，对于对象只能获取属性，对于数组获取下标，for...of遍历对象获得属性值，遍历数组获取值(for..of 循环首先会向被访问对象请求一个迭代器对象，然后通过调用迭代器对象的 next() 方法来遍历所有返回值)
 
-> 优先级：new绑定>显示绑定>隐式绑定>默认绑定
-> 特例：箭头函数不使用 this 的四种标准规则，而是根据外层(函数或者全局)作用域来决 定 this。
- 
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  
