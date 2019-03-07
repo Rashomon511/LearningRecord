@@ -5,8 +5,10 @@
  * [call,apply,bind](https://github.com/LuoShengMen/StudyNotes/blob/master/readNotes/call%2Capply%2Cbing.md)
 
  >[你不知道的js](https://github.com/LuoShengMen/StudyNotes/blob/master/readNotes/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84javascript.md)
-
+  * [this指向](https://github.com/LuoShengMen/StudyNotes/blob/master/readNotes/this%E6%8C%87%E5%90%91.md)
+  
  > [es6入门]()
+ 
  > [css揭秘]()
  
  > [深入react]()
