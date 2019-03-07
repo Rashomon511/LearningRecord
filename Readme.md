@@ -4,9 +4,7 @@
   
 - [每日面试题学习](//github.com/LuoShengMen/StudyNotes/tree/master/DailyQuestion)
 
-- [学习笔记](//github.com/LuoShengMen/StudyNotes/tree/master/studyNotes)
-
-- [读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
+- [学习读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
