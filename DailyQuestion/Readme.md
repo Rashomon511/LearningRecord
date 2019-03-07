@@ -29,7 +29,7 @@
 
 - [第 14 题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%A2%98.md)
 
-- [第 15 题：如何实现一个 new]()
+- [第 15 题：如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E4%BA%94%E9%A2%98.md)
 
 
 
