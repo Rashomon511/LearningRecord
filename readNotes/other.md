@@ -41,7 +41,7 @@ console.log(Object.prototype.__proto__) //null
 ````
  > * 只有构造函数才有prototype属性
  > * 构造函数的prototype，默认情况下就是一个new Object()还额外添加了一个constructor属性
- > * 除了Object.prototype这个对象，其他所有的对象也会有__proto__属性
+ > * 除了Object.prototype这个对象，其他所有的对象都会有__proto__属性（函数也是对象）
     
     
     
