@@ -1,5 +1,5 @@
 
-let 和const定义对变量在window上面找不到
+* let 和const定义对变量在window上面找不到
 ```
     let a = 1;
     var b = 2
@@ -13,7 +13,7 @@ let 和const定义对变量在window上面找不到
     let ed = Object.d;
     ed() // 2, undefined
 ```
-原型链：每一个对象内部都有一个__proto__属性，当访问该对象当某个属性或方法时，如果该对象内部不存在，那么他就会去个__proto__里找，如果又无法找到，又回去个__proto__的个__proto__找，于是就这样 一直找下去，最终会找到Object.prototype._proto__里,这就是原型链的概念。对象的原型对象指向null
+* 原型链：每一个对象内部都有一个__proto__属性，当访问该对象当某个属性或方法时，如果该对象内部不存在，那么他就会去个__proto__里找，如果又无法找到，又回去个__proto__的个__proto__找，于是就这样 一直找下去，最终会找到Object.prototype._proto__里,这就是原型链的概念。原型对象最终指向null
 ```
   var Person = function () {};
   Person.prototype.Say = function () {
