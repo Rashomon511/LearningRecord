@@ -35,7 +35,7 @@
 
 - [第 17 题：谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%A2%98.md)
 
-- [第 18 题：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态]()
+- [第 18 题：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E5%85%AB%E9%A2%98.md)
 
 - [第 19 题：React 中 setState 什么时候是同步的，什么时候是异步的？]()
 
