@@ -49,7 +49,7 @@
 
 - [第 24 题：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景]()
 
-- [第 25 题：聊聊 Redux 和 Vuex 的设计思想]()
+- [第 25 题：聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E9%A2%98.md)
 
 
 
