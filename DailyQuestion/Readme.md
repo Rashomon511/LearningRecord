@@ -53,7 +53,7 @@
 
 - [第 26 题：说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E9%A2%98.md)
 
-- [第 27 题：介绍模块化发展历程，可从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module"> 这几个角度考虑]()
+- [第 27 题：介绍模块化发展历程，可从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module"> 这几个角度考虑](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E9%A2%98.md)
 
 - [第 28 题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？。]()
 
