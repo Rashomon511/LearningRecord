@@ -39,7 +39,7 @@
 
 - [第 19 题：React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%8D%81%E4%B9%9D%E9%A2%98.md)
 
-- [第 20 题：React setState 笔试题，下面的代码输出什么？]()
+- [第 20 题：React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E9%A2%98.md)
 
 - [第 21 题：介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？]()
 
