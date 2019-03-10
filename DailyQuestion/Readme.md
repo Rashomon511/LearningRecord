@@ -43,7 +43,7 @@
 
 - [第 21 题：介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E9%A2%98.md)
 
-- [第 22 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣]()
+- [第 22 题：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E9%A2%98.md)
 
 - [第 23 题：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化]()
 
