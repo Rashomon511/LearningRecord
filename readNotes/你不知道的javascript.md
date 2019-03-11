@@ -72,6 +72,8 @@ Object.defineProperty( myObject, "a", {
 
 > 对象之间的关系不是复制而是委托
 
+> 行为委托认为对象之间是兄弟关系，互相委托，而不是父类和子类的关系。JavaScript 的 [[Prototype]] 机制本质上就是行为委托机制
+
 
 
 
