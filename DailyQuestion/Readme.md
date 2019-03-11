@@ -32,7 +32,7 @@
 - [第 29 题：cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E9%A2%98.md)
 - [第 30 题：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E9%A2%98.md)
 - [第 31 题：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E9%A2%98.md)
-- [第 32 题：浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/edit/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E9%A2%98.md)
+- [第 32 题：浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E9%A2%98.md)
 
 
 
