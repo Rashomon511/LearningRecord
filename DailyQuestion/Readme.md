@@ -34,5 +34,5 @@
 - [第 31 题：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E9%A2%98.md)
 - [第 32 题：浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E9%A2%98.md)
 - [第 33 题：改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E9%A2%98.md)
-- [第 34 题：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。]()
-
+- [第 34 题：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E9%A2%98.md)
+- [第 35 题：写出能想到第数组去重]()
