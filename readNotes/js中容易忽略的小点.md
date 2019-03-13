@@ -42,3 +42,22 @@ a === b;// true
 0 > -0; // false
 a > b; // false
 ```
+var a = new Boolean(false) // b值为真
+
+强制类型转换
+```
+var a = new String( "abc" ); 
+var b = a + ""; // b的值为"abc"
+ typeof a;       // "object"
+ typeof b;       // "string"
+```
+Array 构造函数只带一个数字参数的时候，该参数会被作为数组的预设长度(length)，而 非只充当数组中的一个元素
+```
+  var a = new Array( 3 );
+  var b = [ undefined, undefined, undefined ];
+  var c = [];
+  c.length = 3;
+  console.log(a); //[empty × 3]
+  console.log(b) //[ undefined, undefined, undefined ]
+    console.log(c) //[empty × 3]
+ ``` 
