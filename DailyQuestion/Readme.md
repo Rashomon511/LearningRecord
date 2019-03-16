@@ -27,7 +27,7 @@
 - [第 24 题：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E9%A2%98.md)
 - [第 25 题：聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E9%A2%98.md)
 - [第 26 题：说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E9%A2%98.md)
-- [第 27 题：介绍模块化发展历程，可从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module"> 这几个角度考虑](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E9%A2%98.md)
+- [第 27 题：介绍模块化发展历程，从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module">](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E9%A2%98.md)
 - [第 28 题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？。](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E9%A2%98.md)
 - [第 29 题：cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E9%A2%98.md)
 - [第 30 题：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E9%A2%98.md)
@@ -37,7 +37,7 @@
 - [第 34 题：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E9%A2%98.md)
 - [第 35 题：写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E9%A2%98.md)
 - [第 36 题：下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E9%A2%98.md)
-- [第 37 题：简单改造下面的代码，使之分别打印 10 和 20]()
+- [第 37 题：简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E9%A2%98.md)
 
 
 
