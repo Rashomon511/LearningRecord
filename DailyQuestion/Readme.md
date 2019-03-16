@@ -38,8 +38,7 @@
 - [第 35 题：写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E9%A2%98.md)
 - [第 36 题：下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E9%A2%98.md)
 - [第 37 题：简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E9%A2%98.md)
-
-
+- [第 38 题：什么是闭包，作用是什么，会带来哪些影响]()
 
 
 
