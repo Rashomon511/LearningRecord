@@ -39,7 +39,7 @@
 - [第 36 题：下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E9%A2%98.md)
 - [第 37 题：简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E9%A2%98.md)
 - [第 38 题：什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB%E9%A2%98.md)
-- [第 39 题：说一说对原型链对理解]()
+- [第 39 题：说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B9%9D%E9%A2%98.md)
 - [第 40 题：this的用法以及优先级]()
 
 
