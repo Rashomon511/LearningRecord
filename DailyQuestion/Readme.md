@@ -44,6 +44,7 @@
 - [第 41 题： 何为作用域链](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E9%A2%98.md)
 - [第 42 题：浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？]()
 - [第 43 题：浏览器的工作流程，从Url输入发生了什么]()
-- [第 44 题：http的状态码，一起其他设置]()
+- [第 44 题：http的状态码，以及其他请求设置]()
+- [第 45 题：解释一下何为面向对象编程]()
 
 
