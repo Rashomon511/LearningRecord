@@ -50,4 +50,4 @@
 - [第 45 题：解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%94%E9%A2%98.md)
 - [第 46 题：使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AD%E9%A2%98.md)
 - [第 47 题：4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%83%E9%A2%98.md)
-- [第 48 题：从内存来看 null 和 undefined 本质的区别是什么？]()
+- [第 48 题：从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AB%E9%A2%98.md)
