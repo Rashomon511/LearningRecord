@@ -46,4 +46,4 @@
 - [第 43 题：浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%89%E9%A2%98.md)
 - [第 44 题：http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%9B%9B%E9%A2%98.md)
 - [第 45 题：解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%94%E9%A2%98.md)
-- [第 46 题：使用迭代的方式实现 flatten 函数]()
+- [第 46 题：使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AD%E9%A2%98.md)
