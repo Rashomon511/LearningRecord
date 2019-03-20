@@ -52,3 +52,4 @@
 - [第 47 题：4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%83%E9%A2%98.md)
 - [第 48 题：从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AB%E9%A2%98.md)
 - [第 49 题：如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B9%9D%E9%A2%98.md)
+- [第 50 题：为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？]()
