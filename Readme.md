@@ -12,7 +12,7 @@
 
 - [面试问题](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
 
-- [算法学习](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/Readme.md)
+- [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 
 - 前端进阶
  > * [讶羽大大Blog](https://github.com/mqyqingfeng/Blog)
