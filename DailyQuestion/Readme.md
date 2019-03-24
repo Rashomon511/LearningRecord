@@ -1,6 +1,6 @@
  #  每日一道面试题学习 #
  
- ### 从面试题来了解自己第不足
+ ### 从面试题来了解自己的不足
  面试题来自于
  * [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
  * [面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
