@@ -6,4 +6,4 @@
 - [第 4 题：整数反转 ](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%9B%9B%E9%A2%98.md)
 - [第 5 题：回文数](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%BA%94%E9%A2%98.md)
 - [第 6 题：罗马数字转整数](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%85%AD%E9%A2%98.md)
-- [第 7 题：最长公共前缀]()
+- [第 7 题：最长公共前缀](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%B8%83%E9%A2%98.md)
