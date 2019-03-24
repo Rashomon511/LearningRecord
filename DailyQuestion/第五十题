@@ -1,1 +1,6 @@
 #### 第 50 题：为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？
+
+
+如果在mutation中做了异步操作，在dev-tools中会立即打印一个snapshot，而此时异步操作还没有执行完，此时的snapshot的信息是错误的。
+
+而在action中做异步操作dev-tools会等等异步操作执行完才去打印mutation的一个snapshot,这样便于我们回查time-travel,查看在某个mutation里的变化。
