@@ -8,3 +8,5 @@
 - [第 6 题：罗马数字转整数](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%85%AD%E9%A2%98.md)
 - [第 7 题：最长公共前缀](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%B8%83%E9%A2%98.md)
 - [第 8 题：无效第括号](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%85%AB%E9%A2%98.md)
+- [第 9 题：合并两个有序链表]()
+- [第 10 题：删除排序数组中的重复项]()
