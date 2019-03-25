@@ -64,8 +64,7 @@
 - [第 57 题：请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B8%83%E9%A2%98.md)
 - [第 58 题：iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%94%E5%8D%81%E5%85%AB%E9%A2%98.md)
 - [第 59 题: 模拟new实现](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B9%9D%E9%A2%98.md)
- 
- 
+- [第 60 题：事件模型]()
  
  
  
