@@ -67,4 +67,5 @@
 - [第 60 题：事件模型](https://github.com/LuoShengMen/StudyNotes/blob/master/DailyQuestion/%E7%AC%AC%E5%85%AD%E5%8D%81%E9%A2%98.md)
 - [第 61 题：下面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
 - [第 62 题：前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
+- [第 63 题：peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  
