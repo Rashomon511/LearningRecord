@@ -13,4 +13,4 @@
 - [第 11 题： 移除元素](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E4%B8%80%E9%A2%98.md)
 - [第 12 题：实现strStr()](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%A2%98.md)
 - [第 13 题：搜索插入位置](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%A2%98.md)
-- [第 14 题：报数]()
+- [第 14 题：报数](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%A2%98.md)
