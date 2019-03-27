@@ -68,4 +68,4 @@
 - [第 61 题：下面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
 - [第 62 题：前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
 - [第 63 题：peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
- 
+- [第 64 题：实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
