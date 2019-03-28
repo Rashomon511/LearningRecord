@@ -71,8 +71,7 @@
 - [第 64 题：实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
 - [第65 题：sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
 - [第 66 题：经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
- 
- 
+- [第 67 题：Object.assion()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
  
  
  
