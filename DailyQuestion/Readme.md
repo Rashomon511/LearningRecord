@@ -72,7 +72,7 @@
 - [第65 题：sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
 - [第 66 题：经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
 - [第 67 题：Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
- 
+- [第 68 题:深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
  
  
  
