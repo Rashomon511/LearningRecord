@@ -73,7 +73,7 @@
 - [第 66 题：经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
 - [第 67 题：Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
 - [第 68 题:深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
-- [第 69 题：介绍 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/8))
+- [第 69 题：分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/8))
  
  
  
