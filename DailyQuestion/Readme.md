@@ -31,7 +31,7 @@
 - [第 24 题：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
 - [第 25 题：聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
 - [第 26 题：说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
-- [第 27 题：介绍模块化发展历程，从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module">](https://github.com/LuoShengMen/StudyNotes/issues/45)
+- [第 27 题：介绍模块化发展历程，从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module、<script type="module">](https://github.com/LuoShengMen/StudyNotes/issues/79)
 - [第 28 题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？。](https://github.com/LuoShengMen/StudyNotes/issues/46)
 - [第 29 题：cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
 - [第 30 题：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/issues/48)
