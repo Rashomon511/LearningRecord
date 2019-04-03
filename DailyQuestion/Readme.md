@@ -76,5 +76,4 @@
 - [第 69 题：分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
 - [第 70 题：HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
 - [第 71 题：笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
- 
- 
+- [第 72 题：双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/81)
