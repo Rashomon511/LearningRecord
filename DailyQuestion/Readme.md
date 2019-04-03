@@ -68,7 +68,7 @@
  - [第 9 题：双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/82)
  
  
- #### js笔试题
+ ### js笔试题
 - [第 1 题：['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
 - [第 2 题：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/issues/20)
 - [第 3 题：Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
