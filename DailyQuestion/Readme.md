@@ -64,7 +64,7 @@
  - [第 5 题：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/issues/48)
  - [第 6 题：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
  - [第 7 题：为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/LuoShengMen/StudyNotes/issues/68)
- - [第 8 题：在 Vue 中，子组件为何不可以修改父组件传递的 Prop，如果修改了，Vue 是如何监控到属性的修改并给出警告的](https://github.com/LuoShengMen/StudyNotes/issues/74)
+ - [第 8 题：在 Vue 中子组件为何不可以修改父组件传递的 Prop，如果修改了，Vue是如何监控到属性的修改并给出警告的](https://github.com/LuoShengMen/StudyNotes/issues/74)
  - [第 9 题：双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/82)
  
  
