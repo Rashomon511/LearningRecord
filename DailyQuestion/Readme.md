@@ -36,7 +36,7 @@
  - [第 27 题：事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
  - [第 28 题：前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [第 29 题：peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
- 
+ - [第 30 题：Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/3)
  
  ### css面试题
  - [第 1 题：介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
