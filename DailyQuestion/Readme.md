@@ -39,10 +39,29 @@
  - [第 30 题：Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [第 31 题：HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [第 32 题：call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [第 33 题：HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
  
+
  ### css面试题
  - [第 1 题：介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
- 
+ - [第 2 题：css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
+ - [第 3 题：display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
+ - [第 4 题：link与@import的区别](https://github.com/LuoShengMen/StudyNotes/issues/89)
+ - [第 5 题：如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/LuoShengMen/StudyNotes/issues/90)
+ - [第 6 题：display,float,position的关系](https://github.com/LuoShengMen/StudyNotes/issues/91)
+ - [第 7 题：清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
+ - [第 8 题：为什么要初始化CSS样式?](https://github.com/LuoShengMen/StudyNotes/issues/93)
+ - [第 9 题：css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
+ - [第 10 题：display有哪些值？说明他们的作用](https://github.com/LuoShengMen/StudyNotes/issues/95)
+ - [第 11 题：介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
+ - [第 12 题：CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
+ - [第 13 题：谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
+ - [第 14 题：position的值， relative和absolute定位原点](https://github.com/LuoShengMen/StudyNotes/issues/99)
+ - [第 15 题：display:inline-block 什么时候不会显示间隙](https://github.com/LuoShengMen/StudyNotes/issues/100)
+ - [第 16 题：PNG,GIF,JPG的区别及如何选](https://github.com/LuoShengMen/StudyNotes/issues/101)
+ - [第 17 题：行内元素float:left后是否变为块级元素？](https://github.com/LuoShengMen/StudyNotes/issues/102)
+ - [第 18 题：::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
+  
  
  ### 计算机网络面试题
  - [第 1 题：简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
