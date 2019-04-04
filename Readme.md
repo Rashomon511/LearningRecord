@@ -8,8 +8,6 @@
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
-- [容易忘记的一些概念和问题](//github.com/LuoShengMen/StudyNotes/blob/master/forgetQuestions/Questions.md)
-
 - [面试问题](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
 
 - [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
