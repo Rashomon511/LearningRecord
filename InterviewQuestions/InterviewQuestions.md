@@ -55,3 +55,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
 
 17.几道有意思的面试题
 - https://juejin.im/post/5c7a346f518825620677ebe8
+
+18.寒冬中的一年半前端跳槽
+ - https://zhuanlan.zhihu.com/p/58586191?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800
