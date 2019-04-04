@@ -38,6 +38,7 @@
  - [第 29 题：peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [第 30 题：Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [第 31 题：HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
+ - [第 32 题：call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  
  ### css面试题
  - [第 1 题：介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
