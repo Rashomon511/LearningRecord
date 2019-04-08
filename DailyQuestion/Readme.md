@@ -40,7 +40,7 @@
  - [第 31 题：HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [第 32 题：call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [第 33 题：HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
- 
+ - [第 34 题：为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
 
  ### css面试题
  - [第 1 题：介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
