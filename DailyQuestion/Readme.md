@@ -41,7 +41,14 @@
  - [第 32 题：call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [第 33 题：HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [第 34 题：为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
-
+ - [第 35 题：什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
+ - [第 36 题：事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
+ - [第 37 题：介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
+ - [第 38 题：XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
+ - [第 39 题：AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
+ 
+ 
+ 
  ### css面试题
  - [第 1 题：介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
  - [第 2 题：css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
@@ -84,6 +91,8 @@
  - [第 9 题：介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [第 10 题：分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [第 11 题：HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
+ - [第 12 题：常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
+ - [第 13 题：为什么要有同源限制？](https://github.com/LuoShengMen/StudyNotes/issues/119)
  
  
   ### 框架面试题
