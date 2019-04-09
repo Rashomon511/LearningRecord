@@ -130,3 +130,4 @@
 - [第 20 题：Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
 - [第 21 题:深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
 - [第 22 题：笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
+- [第 23 题：实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
