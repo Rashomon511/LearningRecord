@@ -46,7 +46,20 @@
  - [第 37 题：介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [第 38 题：XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [第 39 题：AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
- 
+ - [第 40 题：如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
+ - [第 41 题：offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight的区别
+](https://github.com/LuoShengMen/StudyNotes/issues/123)
+ - [第 41 题：Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
+ - [第 42 题：web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
+ - [第 43 题：eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
+ - [第 44 题：javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
+ - [第 45 题：渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
+ - [第 46 题：defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
+ - [第 47 题：attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
+ - [第 48 题：什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
+ - [第 49 题：对web标准、可用性、可访问性的理解](https://github.com/LuoShengMen/StudyNotes/issues/132)
+ - [第 50 题：箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ - [第 51 题：异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
  
  
  ### css面试题
@@ -131,3 +144,4 @@
 - [第 21 题:深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
 - [第 22 题：笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
 - [第 23 题：实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
+- [第 24 题：求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
