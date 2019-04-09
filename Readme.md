@@ -1,7 +1,4 @@
- #  前端学习资料集 #
-
-  这里是一些我自己搜集的前端面试和工作中的资料
-  
+ #  前端学习资料集 #  
   
 - [前端知识框架图](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
   
