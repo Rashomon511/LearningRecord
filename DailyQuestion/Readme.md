@@ -2,9 +2,13 @@
  
  ## 面试题介绍
   1.希望从学习面试题工程中弥补不足，提升自己等竞争力
+  
   2.面试题目由浅及深并且按照知识体系划分，通过面试题将知识点联系起来建立起前端知识体系
+  
   3.题目类型涉及js,css理论知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
+  
   4.面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，收集[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),侵删
+  > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
  ### javascript面试题
  - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
