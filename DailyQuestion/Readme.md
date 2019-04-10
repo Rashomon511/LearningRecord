@@ -11,7 +11,7 @@
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
  ### javascript面试题
- - [js的基本数据类型,js的内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
+ - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
  - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
