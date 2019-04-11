@@ -13,27 +13,38 @@
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
- - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
- - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
- - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
- - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
- - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
+ - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
- - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
+ - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
+ - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
+ - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
+ - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
+ - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
+ - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
  - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
+ - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
+ - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
+ - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
- - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
- - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
- - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
+ - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ 
+ - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
+ - [peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
+ - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
+ - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
+ - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
+ 
+ 
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
- - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
+ 
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
- - [全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？。](https://github.com/LuoShengMen/StudyNotes/issues/46)
+ - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
@@ -41,15 +52,15 @@
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
- - [peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
+ 
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
- - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ 
  - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
- - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
+ 
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
@@ -57,15 +68,14 @@
 ](https://github.com/LuoShengMen/StudyNotes/issues/123)
  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  - [web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
- - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
- - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
+ 
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [对web标准、可用性、可访问性的理解](https://github.com/LuoShengMen/StudyNotes/issues/132)
- - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
- - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
+ 
+ 
  
  
  ### css面试题
@@ -98,6 +108,8 @@
  - [stylus/sass/less区别](https://github.com/LuoShengMen/StudyNotes/issues/111)
  - [postcss的作用](https://github.com/LuoShengMen/StudyNotes/issues/112)
   
+ 
+ ### html面试题
  
  ### 计算机网络面试题
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
@@ -154,4 +166,6 @@
 - [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
 - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
 
-### [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
+### 算法学习
+ - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
+ - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
