@@ -18,6 +18,7 @@
   - [ ] 深入浅出Node.js
   - [ ] Node.js实战
   - [ ] Node与Express开发
+  - [x] css揭秘
 
 ## js高级程序设计
 
