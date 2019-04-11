@@ -4,10 +4,10 @@
   - [ ] JavaScript基础教程
   - [ ] JavaScript DOM编程艺术
   - [ ] JavaScript编程全解
-  - [ x ] JavaScript高级程序设计
+  - [x] JavaScript高级程序设计
   - [ ] JavaScript编程精粹
   - [ ]  精通JavaScipt开发
-  - [ x ] 你不知道的javascript
+  - [x] 你不知道的javascript
   - [ ] JavaScript设计模式与开发实践 
   - [ ] 学习JavaScript数据结构与算法
   - [ ] 数据结构与算法JavaScript描述
