@@ -13,6 +13,7 @@
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
+ - [Array(...)和Array.of(...)的区别]()
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
  - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
