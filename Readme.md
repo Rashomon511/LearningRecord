@@ -5,13 +5,13 @@
 
 - [学习读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
+- [前端知识框架图](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
+
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
 - [面试问题](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
 
 - [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
-
-- [前端知识框架图](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
 
 - [解惑之文](https://github.com/LuoShengMen/StudyNotes/blob/master/Article/Readme.md)
 
