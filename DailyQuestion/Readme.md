@@ -13,8 +13,9 @@
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
- - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
+ - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
+ - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
  - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
  - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
