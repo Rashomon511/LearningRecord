@@ -1,4 +1,23 @@
  #  阅读笔记 #
+ 
+ ## 书单
+  * [] JavaScript基础教程
+  - [] JavaScript DOM编程艺术
+  - []JavaScript编程全解
+  - JavaScript高级程序设计
+  - JavaScript编程精粹
+  -  精通JavaScipt开发
+  - 你不知道的javascript
+  - JavaScript设计模式与开发实践 
+  - 学习JavaScript数据结构与算法
+  - 数据结构与算法JavaScript描述
+  - JavaScript测试驱动开发
+  - JavaScript网页动画
+  - 同构JavaScript应用开发
+  - 深入React技术栈
+  - 深入浅出Node.js
+  - Node.js实战
+  - Node与Express开发
 
 ## js高级程序设计
 
