@@ -31,7 +31,9 @@
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
- 
+ - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
+ - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
+ - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [peomise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
@@ -40,104 +42,79 @@
  - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
- - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
- 
- - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
- 
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
  - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
- 
- - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
- 
+ - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
+ - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
- - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
- - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
- 
- 
- 
  - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
- - [web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
- 
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
- - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
- - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
- 
+ - [web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
  - [对web标准、可用性、可访问性的理解](https://github.com/LuoShengMen/StudyNotes/issues/132)
- 
- 
+ - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
+ - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  
  
  ### css面试题
- - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
- - [介绍下 BFC 及其应用](https://github.com/LuoShengMen/StudyNotes/issues/71)
- - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
- - [display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
- - [link与@import的区别](https://github.com/LuoShengMen/StudyNotes/issues/89)
  - [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/LuoShengMen/StudyNotes/issues/90)
+ - [介绍下 BFC 及其应用](https://github.com/LuoShengMen/StudyNotes/issues/71)
+ - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
+ - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
+ - [CSS不同选择器的权重(CSS层叠的规则)](https://github.com/LuoShengMen/StudyNotes/issues/106)
+ - [link与@import的区别](https://github.com/LuoShengMen/StudyNotes/issues/89)
+ - [display有哪些值？说明他们的作用](https://github.com/LuoShengMen/StudyNotes/issues/95)
  - [display,float,position的关系](https://github.com/LuoShengMen/StudyNotes/issues/91)
+ - [position的值， relative和absolute定位原点](https://github.com/LuoShengMen/StudyNotes/issues/99)
+ - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
+ - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
+ - [display:inline-block 什么时候不会显示间隙](https://github.com/LuoShengMen/StudyNotes/issues/100)
+ - [display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
+ - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [为什么要初始化CSS样式?](https://github.com/LuoShengMen/StudyNotes/issues/93)
+ - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
+ - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
  - [css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
- - [display有哪些值？说明他们的作用](https://github.com/LuoShengMen/StudyNotes/issues/95)
- - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
- - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
- - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
- - [position的值， relative和absolute定位原点](https://github.com/LuoShengMen/StudyNotes/issues/99)
- - [display:inline-block 什么时候不会显示间隙](https://github.com/LuoShengMen/StudyNotes/issues/100)
- - [PNG,GIF,JPG的区别及如何选](https://github.com/LuoShengMen/StudyNotes/issues/101)
  - [行内元素float:left后是否变为块级元素？](https://github.com/LuoShengMen/StudyNotes/issues/102)
  - [::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
  - [如果需要手动写动画，你认为最小时间间隔是多久，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/104)
- - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
- - [CSS不同选择器的权重(CSS层叠的规则)](https://github.com/LuoShengMen/StudyNotes/issues/106)
  - [CSS在性能优化方面的实践](https://github.com/LuoShengMen/StudyNotes/issues/107)
  - [CSS3动画（简单动画的实现，如旋转等）](https://github.com/LuoShengMen/StudyNotes/issues/108)
+ - [PNG,GIF,JPG的区别及如何选](https://github.com/LuoShengMen/StudyNotes/issues/101)
  - [base64的原理及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/109)
- - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
  - [stylus/sass/less区别](https://github.com/LuoShengMen/StudyNotes/issues/111)
  - [postcss的作用](https://github.com/LuoShengMen/StudyNotes/issues/112)
   
  
  ### html面试题
+ - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
- - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
- - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight的区别
-](https://github.com/LuoShengMen/StudyNotes/issues/123)
-- [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
+ - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight区别](https://github.com/LuoShengMen/StudyNotes/issues/123)
 - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
+- [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
+- [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
+ 
  
  ### 计算机网络面试题
- - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
+ - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
+ - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
+ - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
+ - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
- - [浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/issues/50)
- - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
- - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
- - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
- - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
+ - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
  - [为什么要有同源限制？](https://github.com/LuoShengMen/StudyNotes/issues/119)
- 
+ - [浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/issues/50)
  
   ### 框架面试题
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
