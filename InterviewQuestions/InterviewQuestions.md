@@ -58,3 +58,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
 
 18.寒冬中的一年半前端跳槽
  - https://zhuanlan.zhihu.com/p/58586191?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800
+ 
+ 19. 求职必懂的原生js
+ - https://juejin.im/post/5cab0c45f265da2513734390
