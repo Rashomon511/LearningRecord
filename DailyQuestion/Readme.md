@@ -21,6 +21,7 @@
  - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
+ - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
  - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
  - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
@@ -28,6 +29,7 @@
  - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
+ - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
  
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
@@ -36,43 +38,46 @@
  - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
  - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
  - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
- 
- 
- - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
- 
- - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
- - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
- - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
- - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
- - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
- - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
- - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
- - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
- - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
- - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
- - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
- 
- - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
- - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
- 
- - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
- - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
- - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
- - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
- 
- - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
- - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight的区别
-](https://github.com/LuoShengMen/StudyNotes/issues/123)
+ 
+ - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
+ 
+ - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
+ - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
+ - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
+ 
+ - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
+ 
+ - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
+ - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
+ - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
+ - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
+ - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
+ 
+ 
+ 
+ - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
+ - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
+ - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  - [web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
  
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
- - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
+ 
  - [对web标准、可用性、可访问性的理解](https://github.com/LuoShengMen/StudyNotes/issues/132)
  
  
@@ -110,6 +115,13 @@
   
  
  ### html面试题
+ - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
+ - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
+ - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
+ - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight的区别
+](https://github.com/LuoShengMen/StudyNotes/issues/123)
+- [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
+- [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
  
  ### 计算机网络面试题
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
