@@ -69,7 +69,8 @@
  
  
  ### css面试题
- - [介绍下 BFC 及其应用。](https://github.com/LuoShengMen/StudyNotes/issues/71)
+ - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
+ - [介绍下 BFC 及其应用](https://github.com/LuoShengMen/StudyNotes/issues/71)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
  - [link与@import的区别](https://github.com/LuoShengMen/StudyNotes/issues/89)
