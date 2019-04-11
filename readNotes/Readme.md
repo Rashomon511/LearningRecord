@@ -1,7 +1,7 @@
  #  阅读笔记 #
  
  ## 书单
-  *[] JavaScript基础教程
+  * [] JavaScript基础教程
   - [] JavaScript DOM编程艺术
   - []JavaScript编程全解
   - JavaScript高级程序设计
