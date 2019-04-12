@@ -140,6 +140,7 @@
 - [Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
 - [异步笔试题](https://github.com/LuoShengMen/StudyNotes/issues/30)
 - [算法手写题](https://github.com/LuoShengMen/StudyNotes/issues/31)
+- [取数组的最大值（ES5、ES6](https://github.com/LuoShengMen/StudyNotes/issues/146)
 - [如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/issues/34)
 - [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/issues/49)
 - [改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/issues/51)
