@@ -7,7 +7,7 @@
   
   3.题目类型涉及js,css理论知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
   
-  4.面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),侵删
+  4.面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),《你不知道的javascript》《javascript高级程序设计》侵删
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
  ### javascript面试题
