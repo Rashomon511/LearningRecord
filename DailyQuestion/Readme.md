@@ -25,6 +25,7 @@
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
+ - [for of , for in 和 forEach,map 的区别](https://github.com/LuoShengMen/StudyNotes/issues/143)
  - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
  - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
  - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
