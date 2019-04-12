@@ -156,6 +156,7 @@
 - [笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
 - [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
 - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
+- [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
 
 ### 算法学习
  - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
