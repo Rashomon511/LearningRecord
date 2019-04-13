@@ -9,6 +9,8 @@
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
+- [前端库](https://github.com/XIN-G/awesome-f2e-libs)
+
 - [面试问题](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
 
 - [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
