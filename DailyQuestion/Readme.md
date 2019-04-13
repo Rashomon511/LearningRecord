@@ -36,7 +36,6 @@
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
- - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
@@ -50,8 +49,6 @@
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
- - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
- - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
@@ -109,9 +106,6 @@
  
  
  ### 计算机网络面试题
- - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
- - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
- - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
@@ -120,9 +114,19 @@
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
+ 
+ 
+  ### 浏览器面试题
+ - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
+ - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
+ - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
  - [为什么要有同源限制？](https://github.com/LuoShengMen/StudyNotes/issues/119)
  - [浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/issues/50)
- 
+ - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
+ - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
+ - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
+  
+  
   ### 框架面试题
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
