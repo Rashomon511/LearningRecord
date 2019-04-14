@@ -73,6 +73,7 @@
  - [CSS不同选择器的权重(CSS层叠的规则)](https://github.com/LuoShengMen/StudyNotes/issues/106)
  - [为什么要初始化CSS样式?](https://github.com/LuoShengMen/StudyNotes/issues/93)
  - [link与@import的区别](https://github.com/LuoShengMen/StudyNotes/issues/89)
+ - [px/em/rem的区别]
  - [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/LuoShengMen/StudyNotes/issues/90)
  - [介绍下 BFC 及其应用](https://github.com/LuoShengMen/StudyNotes/issues/71)
  - [介绍层叠上下文](https://github.com/LuoShengMen/StudyNotes/issues/149)
@@ -145,7 +146,15 @@
  - [HOC]
  - [React Hooks]
  - [SSR]
+ - [redux]
+ - [redux-saga]
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
+ - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级]
+ - [react组件的优化]
+ - [react组件的通信]
+ - [react 的virtual dom和diff算法的实现方式]
+ - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
+ - [react-router实现方式，单页面应用相关东西]
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
  - [Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
  - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/LuoShengMen/StudyNotes/issues/68)
