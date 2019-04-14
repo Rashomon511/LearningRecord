@@ -114,6 +114,7 @@
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
+ - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
@@ -125,25 +126,35 @@
  - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
  - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
+ - [Web Worker](https://github.com/LuoShengMen/StudyNotes/issues/155)
  - [为什么要有同源限制？](https://github.com/LuoShengMen/StudyNotes/issues/119)
  - [浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/issues/50)
  - [跨标签页通讯](https://github.com/LuoShengMen/StudyNotes/issues/154)
  - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
+ - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
   
   
   ### 框架面试题
+ - [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
+ - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
+ - [HOC]
+ - [React Hooks]
+ - [SSR]
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
- - [聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/issues/48)
+ - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
  - [Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
  - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/LuoShengMen/StudyNotes/issues/68)
+ - [聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/LuoShengMen/StudyNotes/issues/48)
  - [在 Vue 中子组件为何不可以修改父组件传递的 Prop，如果修改了，Vue是如何监控到属性的修改并给出警告的](https://github.com/LuoShengMen/StudyNotes/issues/74)
+ - [vuex](https://github.com/LuoShengMen/StudyNotes/issues/160)
  - [双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/82)
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
+ - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
  
  
  ### js笔试题
@@ -175,5 +186,6 @@
 - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
 
 ### 算法学习
- - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
- - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161
+- [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
