@@ -186,6 +186,6 @@
 - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
 
 ### 算法学习
-- [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161
+- [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
 - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
