@@ -7,7 +7,6 @@
   
   3.题目类型涉及js,css理论知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
   
-  4.面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),《你不知道的javascript》《javascript高级程序设计》侵删
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
  ### javascript面试题
@@ -52,6 +51,7 @@
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
+ - [线性顺序存储结构和链式存储结构有什么区别？以及优缺点]
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
@@ -108,6 +108,7 @@
  - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight区别](https://github.com/LuoShengMen/StudyNotes/issues/123)
 - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
 - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
+- [DOM事件中target和currentTarget的区别]
 - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
  
  
@@ -120,6 +121,7 @@
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
+ - [XSS是什么，攻击原理，怎么预防]
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
  
  
@@ -198,3 +200,5 @@
 - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
 - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
+ > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),[搜集的前端问题](https://github.com/qiu-deqing/FE-interview),《你不知道的javascript》《javascript高级程序设计》侵删
