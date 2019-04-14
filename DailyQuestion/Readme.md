@@ -127,6 +127,7 @@
  - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
  - [为什么要有同源限制？](https://github.com/LuoShengMen/StudyNotes/issues/119)
  - [浏览器的同源策略有哪些](https://github.com/LuoShengMen/StudyNotes/issues/50)
+ - [跨标签页通讯](https://github.com/LuoShengMen/StudyNotes/issues/154)
  - [说说浏览器和 Node 事件循环的区别](https://github.com/LuoShengMen/StudyNotes/issues/45)
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
