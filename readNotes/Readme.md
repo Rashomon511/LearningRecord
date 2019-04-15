@@ -38,10 +38,13 @@
 ## React
  * [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  * [ref和DOM操作](https://github.com/LuoShengMen/StudyNotes/issues/14)
+  * [redux源码分析(一)](https://github.com/LuoShengMen/StudyNotes/issues/169)
+ * [redux源码分析(二)](https://github.com/LuoShengMen/StudyNotes/issues/170)
 
 ## js正则表达式迷你书
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
  * [正则表达式学习总结(二)](https://github.com/LuoShengMen/StudyNotes/issues/166)
+ * [正则表达式学习总结(三)](https://github.com/LuoShengMen/StudyNotes/issues/168)
 
 ## 其他
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
