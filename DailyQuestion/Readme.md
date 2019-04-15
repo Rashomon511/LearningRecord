@@ -51,7 +51,7 @@
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
- - [线性顺序存储结构和链式存储结构有什么区别？以及优缺点]
+ - [线性顺序存储结构和链式存储结构有什么区别？以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/171)
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
