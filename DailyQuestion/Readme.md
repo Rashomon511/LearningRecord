@@ -197,6 +197,9 @@
 - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
 - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
 
+### 开放式题目
+
+
 ### 算法学习
 - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
 - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
