@@ -35,9 +35,12 @@
  * [js中容易忽略的小点](https://github.com/LuoShengMen/StudyNotes/issues/26)
  * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
  
- ## React
+## React
  * [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  * [ref和DOM操作](https://github.com/LuoShengMen/StudyNotes/issues/14)
 
+## js正则表达式迷你书
+ * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
+ * [正则表达式学习总结(二)](https://github.com/LuoShengMen/StudyNotes/issues/166)
 
  - 待续
