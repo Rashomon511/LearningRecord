@@ -43,4 +43,6 @@
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
  * [正则表达式学习总结(二)](https://github.com/LuoShengMen/StudyNotes/issues/166)
 
+## 其他
+ * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
  - 待续
