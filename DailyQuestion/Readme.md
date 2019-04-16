@@ -39,6 +39,7 @@
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
+ - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
@@ -59,6 +60,7 @@
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
  - [代码的复用](https://github.com/LuoShengMen/StudyNotes/issues/151)
  - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
+ - [图片懒加载与预加载](https://github.com/LuoShengMen/StudyNotes/issues/178)
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
@@ -67,7 +69,7 @@
  - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  - [原生js实现MVVM]
- - [javascript跨域通信]
+ - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  
  
  ### css面试题
@@ -98,6 +100,7 @@
  - [::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
  - [外边距折叠(collapsing margins)]
  - [如何确定一个元素的包含块(containing block)]
+ - [CSS 普通流 和 行格式化上下文 IFC](https://github.com/LuoShengMen/StudyNotes/issues/181)
  - [如果需要手动写动画，你认为最小时间间隔是多久，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/104)
  - [CSS在性能优化方面的实践](https://github.com/LuoShengMen/StudyNotes/issues/107)
  - [CSS3动画（简单动画的实现，如旋转等）](https://github.com/LuoShengMen/StudyNotes/issues/108)
@@ -134,7 +137,7 @@
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
- - [XSS是什么，攻击原理，怎么预防]
+ - [XSS是什么，攻击原理，怎么预防](https://github.com/LuoShengMen/StudyNotes/issues/180)
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
  
  
@@ -171,7 +174,7 @@
  - [react 的virtual dom和diff算法的实现方式]
  - [react的ssr了解么？大概怎么实现]
  - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
- - [react-router实现方式，单页面应用相关东西]
+ - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
  - [Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
  - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/LuoShengMen/StudyNotes/issues/68)
@@ -181,6 +184,7 @@
  - [双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/82)
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
+ - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
  
  
  ### js笔试题
@@ -214,7 +218,7 @@
 
 ### 前端工程
  - [编写过webpack的扩展嘛，Plugin或者loader]
- -  
+ - [gulp和webpack区别]()
 
 
 ### 开放式题目
