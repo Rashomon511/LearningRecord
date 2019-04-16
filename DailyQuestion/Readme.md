@@ -67,6 +67,7 @@
  - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  - [原生js实现MVVM]
+ - [javascript跨域通信]
  
  
  ### css面试题
@@ -91,8 +92,12 @@
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
  - [css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
+ - [css hack原理及常用hack]
+ - [CSS有哪些继承属性]
  - [行内元素float:left后是否变为块级元素？](https://github.com/LuoShengMen/StudyNotes/issues/102)
  - [::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
+ - [外边距折叠(collapsing margins)]
+ - [如何确定一个元素的包含块(containing block)]
  - [如果需要手动写动画，你认为最小时间间隔是多久，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/104)
  - [CSS在性能优化方面的实践](https://github.com/LuoShengMen/StudyNotes/issues/107)
  - [CSS3动画（简单动画的实现，如旋转等）](https://github.com/LuoShengMen/StudyNotes/issues/108)
@@ -103,14 +108,20 @@
   
  
  ### html面试题
+ - [HTML全局属性(global attribute)有哪些]
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
+ - [什么是web语义化,有什么好处]
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight区别](https://github.com/LuoShengMen/StudyNotes/issues/123)
-- [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
-- [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
-- [DOM事件中target和currentTarget的区别]
-- [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
+ - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
+ - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系]
+ - [DOM事件中target和currentTarget的区别]
+ - [XMLHttpRequest通用属性和方法]
+ - [focus/blur与focusin/focusout的区别与联系]
+ - [mouseover/mouseout与mouseenter/mouseleave的区别与联系]
+ - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
  
  
  ### 计算机网络面试题
@@ -118,6 +129,7 @@
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
+ - [post、get区别]
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
@@ -138,6 +150,7 @@
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
+ - [什么是渐进增强]
   
   
   ### 框架面试题
@@ -156,6 +169,7 @@
  - [react组件的优化]
  - [react组件的通信]
  - [react 的virtual dom和diff算法的实现方式]
+ - [react的ssr了解么？大概怎么实现]
  - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
  - [react-router实现方式，单页面应用相关东西]
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
@@ -170,40 +184,45 @@
  
  
  ### js笔试题
-- [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
-- [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/issues/20)
-- [Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
-- [异步笔试题](https://github.com/LuoShengMen/StudyNotes/issues/30)
-- [算法手写题](https://github.com/LuoShengMen/StudyNotes/issues/31)
-- [取数组的最大值（ES5、ES6](https://github.com/LuoShengMen/StudyNotes/issues/146)
-- [如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/issues/34)
-- [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/issues/49)
-- [改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/issues/51)
-- [写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/issues/53)
-- [下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/54)
-- [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/issues/55)
-- [使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/issues/64)
-- [面代码中 a 在什么情况下会打印 1？](https://github.com/LuoShengMen/StudyNotes/issues/69)
-- [手动实现call,apply, bind方法](https://github.com/LuoShengMen/StudyNotes/issues/70)
-- [模拟new实现](https://github.com/LuoShengMen/StudyNotes/issues/77)
-- [面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
-- [实现一个 sleep 函数如sleep(1000)意味着等待1000毫秒，从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
-- [sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
-- [经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
-- [Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
-- [深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
-- [笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
-- [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
-- [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
-- [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
-- [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
+ - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
+ - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/issues/20)
+ - [Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
+ - [异步笔试题](https://github.com/LuoShengMen/StudyNotes/issues/30)
+ - [算法手写题](https://github.com/LuoShengMen/StudyNotes/issues/31)
+ - [取数组的最大值（ES5、ES6](https://github.com/LuoShengMen/StudyNotes/issues/146)
+ - [如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/issues/34)
+ - [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/issues/49)
+ - [改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/issues/51)
+ - [写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/issues/53)
+ - [下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/54)
+ - [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/issues/55)
+ - [使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/issues/64)
+ - [面代码中 a 在什么情况下会打印 1？](https://github.com/LuoShengMen/StudyNotes/issues/69)
+ - [手动实现call,apply, bind方法](https://github.com/LuoShengMen/StudyNotes/issues/70)
+ - [模拟new实现](https://github.com/LuoShengMen/StudyNotes/issues/77)
+ - [面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
+ - [实现一个 sleep 函数如sleep(1000)意味着等待1000毫秒，从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
+ - [sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
+ - [经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
+ - [Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
+ - [深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
+ - [笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
+ - [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
+ - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
+ - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
+ - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
+
+### 前端工程
+ - [编写过webpack的扩展嘛，Plugin或者loader]
+ -  
+
 
 ### 开放式题目
 
 
 ### 算法学习
-- [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
-- [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
-- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+ - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
+ - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
+ - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
  > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),[搜集的前端问题](https://github.com/qiu-deqing/FE-interview),《你不知道的javascript》《javascript高级程序设计》侵删
