@@ -150,7 +150,7 @@
  - [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/LuoShengMen/StudyNotes/issues/42)
  - [web开发中会话跟踪的方法有哪些](https://github.com/LuoShengMen/StudyNotes/issues/125)
  - [对web标准、可用性、可访问性的理解](https://github.com/LuoShengMen/StudyNotes/issues/132)
- - [defer和async](https://github.com/LuoShengMen/StudyNotes/issues/129)
+ - [async和defer的作用是什么？有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
  - [什么是渐进增强]
