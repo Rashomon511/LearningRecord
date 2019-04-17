@@ -5,7 +5,7 @@
   
   2.面试题目由浅及深并且按照知识体系划分，通过面试题将知识点联系起来建立起前端知识体系
   
-  3.题目类型涉及js,css理论知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
+  3.题目类型涉及js,css,html理论知识，浏览器知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
   
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
@@ -215,6 +215,7 @@
  - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
  - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
  - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
+ - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
 
 ### 前端工程
  - [编写过webpack的扩展嘛，Plugin或者loader]
