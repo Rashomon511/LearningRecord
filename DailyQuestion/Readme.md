@@ -216,6 +216,13 @@
   - [对Node的优点和缺点提出了自己的看法？](https://github.com/LuoShengMen/StudyNotes/issues/206)
   - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
   - [什么是EventEmitter](https://github.com/LuoShengMen/StudyNotes/issues/213)
+  - [什么是Stream?](https://github.com/LuoShengMen/StudyNotes/issues/214)
+  - [文件系统](https://github.com/LuoShengMen/StudyNotes/issues/215)
+  - [node的网络模块架构](https://github.com/LuoShengMen/StudyNotes/issues/216)
+  - [child-process ](https://github.com/LuoShengMen/StudyNotes/issues/217)
+  - [node异步，部署，性能调优，异常调试](https://github.com/LuoShengMen/StudyNotes/issues/218)
+  - [async](https://github.com/LuoShengMen/StudyNotes/issues/219)
+  - [Express](https://github.com/LuoShengMen/StudyNotes/issues/220)
  
  
  ### js笔试题
