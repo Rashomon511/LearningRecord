@@ -23,7 +23,7 @@
 
 ## js高级程序设计
 
- * [读书笔记](https://github.com/LuoShengMen/StudyNotes/blob/master/readNotes/javascript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
+ * [读书笔记](https://github.com/LuoShengMen/StudyNotes/issues/226)
  * [call,apply,bind](https://github.com/LuoShengMen/StudyNotes/issues/28)
  
 ## 你不知道的javascript
