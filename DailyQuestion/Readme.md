@@ -26,6 +26,7 @@
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
+ - [caller, callee和arguments分别是什么?](https://github.com/LuoShengMen/StudyNotes/issues/207)
  - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
  - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
  - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
@@ -34,6 +35,7 @@
  - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
+ - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
@@ -207,8 +209,13 @@
  - [原生js实现MVVM]
   
   ### Node
+  - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
+  - [node有哪些全局对象?](https://github.com/LuoShengMen/StudyNotes/issues/211)
+  - [node有哪些定时功能](https://github.com/LuoShengMen/StudyNotes/issues/212)
+  - [node的构架是什么样子的?](https://github.com/LuoShengMen/StudyNotes/issues/210)
   - [对Node的优点和缺点提出了自己的看法？](https://github.com/LuoShengMen/StudyNotes/issues/206)
   - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
+  - [什么是EventEmitter](https://github.com/LuoShengMen/StudyNotes/issues/213)
  
  
  ### js笔试题
