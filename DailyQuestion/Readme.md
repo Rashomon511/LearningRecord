@@ -65,8 +65,12 @@
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
- - [原生js实现MVVM]
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
+ - [webSocket如何兼容低浏览器？](https://github.com/LuoShengMen/StudyNotes/issues/186)
+ - [页面可见性（Page Visibility API） 可以有哪些用途？](https://github.com/LuoShengMen/StudyNotes/issues/187)
+ - [如何在页面上实现一个圆形的可点击区域？](https://github.com/LuoShengMen/StudyNotes/issues/188)
+ - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
+ - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  
  
  ### css面试题
@@ -81,17 +85,20 @@
  - [display有哪些值？说明他们的作用](https://github.com/LuoShengMen/StudyNotes/issues/95)
  - [display,float,position的关系](https://github.com/LuoShengMen/StudyNotes/issues/91)
  - [position的值， relative和absolute定位原点](https://github.com/LuoShengMen/StudyNotes/issues/99)
+ - [absolute的containing block(容器块)计算方式跟正常流有什么不同？](https://github.com/LuoShengMen/StudyNotes/issues/195)
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
  - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [display:inline-block 什么时候不会显示间隙](https://github.com/LuoShengMen/StudyNotes/issues/100)
  - [display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
+ - [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/LuoShengMen/StudyNotes/issues/197)
+ - [CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/196)
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
  - [css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
- - [css hack原理及常用hack]
+ - [css hack原理及常用hack](https://github.com/LuoShengMen/StudyNotes/issues/194)
  - [CSS有哪些继承属性]
  - [行内元素float:left后是否变为块级元素？](https://github.com/LuoShengMen/StudyNotes/issues/102)
  - [::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
@@ -105,6 +112,9 @@
  - [base64的原理及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/109)
  - [stylus/sass/less区别](https://github.com/LuoShengMen/StudyNotes/issues/111)
  - [postcss的作用](https://github.com/LuoShengMen/StudyNotes/issues/112)
+ - [用纯CSS创建一个三角形的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/191)
+ - [一个满屏 品 字布局 如何设计?](https://github.com/LuoShengMen/StudyNotes/issues/192)
+ - [css多列等高如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/193)
   
  
  ### html面试题
@@ -113,8 +123,9 @@
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
  - [什么是web语义化,有什么好处]
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
+ - [HTML5 为什么只需要写 <!DOCTYPE HTML>？](https://github.com/LuoShengMen/StudyNotes/issues/183)
  - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight区别](https://github.com/LuoShengMen/StudyNotes/issues/123)
- - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/86)
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
  - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系]
  - [DOM事件中target和currentTarget的区别]
@@ -122,6 +133,8 @@
  - [focus/blur与focusin/focusout的区别与联系]
  - [mouseover/mouseout与mouseenter/mouseleave的区别与联系]
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
+ - [Label的作用是什么？是怎么用的？](https://github.com/LuoShengMen/StudyNotes/issues/184)
+ - [HTML5的form如何关闭自动完成功能？](https://github.com/LuoShengMen/StudyNotes/issues/185)
  
  
  ### 计算机网络面试题
@@ -129,7 +142,6 @@
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
- - [post、get区别]
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
@@ -185,6 +197,7 @@
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
  - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
+  - [原生js实现MVVM]
  
  
  ### js笔试题
