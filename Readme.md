@@ -17,7 +17,8 @@
 
 - [解惑之文](https://github.com/LuoShengMen/StudyNotes/blob/master/Article/Readme.md)
 
-- [优秀者Blog]()
+- [优秀者Blog](https://github.com/LuoShengMen/StudyNotes/blob/master/OtherBlog/Readme.md)
+
 - 前端进阶
  > * [讶羽Blog](https://github.com/mqyqingfeng/Blog)
  > * [木易杨进阶系列](https://github.com/yygmind/blog)
