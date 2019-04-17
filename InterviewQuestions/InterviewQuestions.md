@@ -67,3 +67,6 @@ https://juejin.im/post/5a96c6326fb9a063626408c8
  
  21. 腾讯面试
   - https://juejin.im/post/5c1eec7bf265da61477034ae
+  
+  22.面试综合
+  - https://github.com/poetries/FE-Interview-Questions/issues/2
