@@ -223,6 +223,9 @@
   - [node异步，部署，性能调优，异常调试](https://github.com/LuoShengMen/StudyNotes/issues/218)
   - [async](https://github.com/LuoShengMen/StudyNotes/issues/219)
   - [Express](https://github.com/LuoShengMen/StudyNotes/issues/220)
+  - [mongodb与mongoose](https://github.com/LuoShengMen/StudyNotes/issues/223)
+  - [redis最简单的应用](https://github.com/LuoShengMen/StudyNotes/issues/222)
+  - [apache,nginx有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/221)
  
  
  ### js笔试题
