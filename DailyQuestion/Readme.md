@@ -65,13 +65,13 @@
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
- - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [webSocket如何兼容低浏览器？](https://github.com/LuoShengMen/StudyNotes/issues/186)
  - [页面可见性（Page Visibility API） 可以有哪些用途？](https://github.com/LuoShengMen/StudyNotes/issues/187)
  - [如何在页面上实现一个圆形的可点击区域？](https://github.com/LuoShengMen/StudyNotes/issues/188)
  - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
+ - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
  
  
  ### css面试题
@@ -170,10 +170,12 @@
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
  - [什么是渐进增强]
+ - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
   
   
   ### 框架面试题
  - [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
+ - [实现组件有哪些方式？]()
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
@@ -189,6 +191,7 @@
  - [react组件的通信]
  - [react 的virtual dom和diff算法的实现方式]
  - [react的ssr了解么？大概怎么实现]
+ - [React的批量更新机制 BatchUpdates？]
  - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
@@ -201,7 +204,11 @@
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
  - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
-  - [原生js实现MVVM]
+ - [原生js实现MVVM]
+  
+  ### Node
+  - [对Node的优点和缺点提出了自己的看法？](https://github.com/LuoShengMen/StudyNotes/issues/206)
+  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
  
  
  ### js笔试题
@@ -233,13 +240,29 @@
  - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
  - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
  - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
+ - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
 
 ### 前端工程
+ - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
  - [编写过webpack的扩展嘛，Plugin或者loader]
  - [gulp和webpack区别]()
 
 
 ### 开放式题目
+- [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
+- [平时如何管理你的项目？]
+- [原来公司工作流程是怎么样的，如何与其他人协作的？如何跨部门合作的？]
+- [你遇到过比较难的技术问题是？你是如何解决的？]
+- [常使用的库有哪些？常用的前端开发工具？开发过什么应用或组件？]
+- [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
+- [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
+- [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
+- [你在现在的团队处于什么样的角色，起到了什么明显的作用？]
+- [介绍一个你最得意的作品吧？]
+- [你有自己的技术博客吗，用了哪些技术？]
+- [你的优点是什么？缺点是什么？]
+- [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
+- [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
 
 
 ### 算法学习
