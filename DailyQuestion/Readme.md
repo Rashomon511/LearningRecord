@@ -86,14 +86,14 @@
  - [display,float,position的关系](https://github.com/LuoShengMen/StudyNotes/issues/91)
  - [position的值， relative和absolute定位原点](https://github.com/LuoShengMen/StudyNotes/issues/99)
  - [absolute的containing block(容器块)计算方式跟正常流有什么不同？](https://github.com/LuoShengMen/StudyNotes/issues/195)
- - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
- - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
- - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [display:inline-block 什么时候不会显示间隙](https://github.com/LuoShengMen/StudyNotes/issues/100)
  - [display: none;与visibility: hidden;的区别](https://github.com/LuoShengMen/StudyNotes/issues/88)
  - [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/LuoShengMen/StudyNotes/issues/197)
  - [CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/196)
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
+ - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
+ - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
+ - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
@@ -115,6 +115,7 @@
  - [用纯CSS创建一个三角形的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/191)
  - [一个满屏 品 字布局 如何设计?](https://github.com/LuoShengMen/StudyNotes/issues/192)
  - [css多列等高如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/193)
+ - [怎么让Chrome支持小于12px 的文字？](https://github.com/LuoShengMen/StudyNotes/issues/198)
   
  
  ### html面试题
@@ -143,6 +144,7 @@
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
+ - [什么是Cookie 隔离？（请求资源的时候不要让它带cookie怎么做）](https://github.com/LuoShengMen/StudyNotes/issues/199)
  - [分别介绍HTTP与 HTTPS 握手过程](https://github.com/LuoShengMen/StudyNotes/issues/11)
  - [HTTPS 握手过程中，客户端如何验证证书的合法性 ](https://github.com/LuoShengMen/StudyNotes/issues/29)
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
