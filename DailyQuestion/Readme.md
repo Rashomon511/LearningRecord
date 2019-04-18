@@ -46,6 +46,7 @@
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
+ - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
@@ -106,11 +107,11 @@
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
  - [css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
  - [css hack原理及常用hack](https://github.com/LuoShengMen/StudyNotes/issues/194)
- - [CSS有哪些继承属性]
+ - [CSS有哪些继承属性](https://github.com/LuoShengMen/StudyNotes/issues/233)
  - [行内元素float:left后是否变为块级元素？](https://github.com/LuoShengMen/StudyNotes/issues/102)
  - [::before和:after中双冒号和单冒号有什么区别？解释一下这2个伪元素的作用](https://github.com/LuoShengMen/StudyNotes/issues/103)
- - [外边距折叠(collapsing margins)]
- - [如何确定一个元素的包含块(containing block)]
+ - [外边距折叠(collapsing margins)](https://github.com/LuoShengMen/StudyNotes/issues/234)
+ - [如何确定一个元素的包含块(containing block)](https://github.com/LuoShengMen/StudyNotes/issues/235)
  - [CSS 普通流 和 行格式化上下文 IFC](https://github.com/LuoShengMen/StudyNotes/issues/181)
  - [如果需要手动写动画，你认为最小时间间隔是多久，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/104)
  - [CSS在性能优化方面的实践](https://github.com/LuoShengMen/StudyNotes/issues/107)
@@ -126,20 +127,19 @@
   
  
  ### html面试题
- - [HTML全局属性(global attribute)有哪些]
+ - [HTML全局属性(global attribute)有哪些](https://github.com/LuoShengMen/StudyNotes/issues/236)
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
- - [什么是web语义化,有什么好处]
+ - [什么是web语义化,有什么好处](https://github.com/LuoShengMen/StudyNotes/issues/237)
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [HTML5 为什么只需要写 <!DOCTYPE HTML>？](https://github.com/LuoShengMen/StudyNotes/issues/183)
  - [offsetWidth/offsetHeight,clientWidth/clientHeight与scrollWidth/scrollHeight区别](https://github.com/LuoShengMen/StudyNotes/issues/123)
  - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/86)
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
- - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系]
+ - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系](https://github.com/LuoShengMen/StudyNotes/issues/238)
  - [DOM事件中target和currentTarget的区别]
- - [XMLHttpRequest通用属性和方法]
- - [focus/blur与focusin/focusout的区别与联系]
- - [mouseover/mouseout与mouseenter/mouseleave的区别与联系]
+ - [focus/blur与focusin/focusout的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/240)
+ - [mouseover/mouseout与mouseenter/mouseleave的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/241)
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
  - [Label的作用是什么？是怎么用的？](https://github.com/LuoShengMen/StudyNotes/issues/184)
  - [HTML5的form如何关闭自动完成功能？](https://github.com/LuoShengMen/StudyNotes/issues/185)
@@ -214,7 +214,6 @@
  - [原生js实现MVVM]
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
  - [react和vue你都使用过，说说它们的区别？]
- - 
   
   ### Node
   - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
