@@ -10,7 +10,7 @@
 
 - [前端库](https://github.com/XIN-G/awesome-f2e-libs)
 
-- [面经](//github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md)
+- [面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md)
 
 - [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 
