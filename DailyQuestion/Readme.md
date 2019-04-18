@@ -35,6 +35,8 @@
  - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
+ - [javascript继承方式](https://github.com/LuoShengMen/StudyNotes/issues/227)
+ - [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
