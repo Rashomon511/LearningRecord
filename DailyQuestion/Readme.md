@@ -179,7 +179,7 @@
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
- - [如何判断浏览器类型？]
+ - [如何判断浏览器类型？](https://github.com/LuoShengMen/StudyNotes/issues/246)
   
   
   ### 框架面试题
@@ -191,8 +191,7 @@
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
  - [HOC]
  - [React Hooks]
- - [SSR]
- - [redux]
+ - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [redux-saga]
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
  - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级]
