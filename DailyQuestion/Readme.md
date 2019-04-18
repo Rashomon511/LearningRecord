@@ -66,7 +66,6 @@
  - [图片懒加载与预加载](https://github.com/LuoShengMen/StudyNotes/issues/178)
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
- - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [webSocket如何兼容低浏览器？](https://github.com/LuoShengMen/StudyNotes/issues/186)
  - [页面可见性（Page Visibility API） 可以有哪些用途？](https://github.com/LuoShengMen/StudyNotes/issues/187)
@@ -171,7 +170,7 @@
  - [async和defer的作用是什么？有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/129)
  - [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/75)
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
- - [什么是渐进增强]
+ - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
   
   
