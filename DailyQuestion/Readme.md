@@ -213,6 +213,8 @@
  - [vue 的双向绑定机制？详细介绍]
  - [原生js实现MVVM]
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
+ - [react和vue你都使用过，说说它们的区别？]
+ - 
   
   ### Node
   - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
