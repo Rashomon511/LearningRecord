@@ -77,7 +77,7 @@
  - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
- - [页面性能监测]
+ - [页面性能监测](https://github.com/LuoShengMen/StudyNotes/issues/242)
  - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
  
  
