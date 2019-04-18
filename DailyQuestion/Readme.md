@@ -48,6 +48,7 @@
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
+ - [手写一个promise,如何实现多个请求并行？]()
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
@@ -89,6 +90,7 @@
  - [px/em/rem的区别](https://github.com/LuoShengMen/StudyNotes/issues/164)
  - [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/LuoShengMen/StudyNotes/issues/90)
  - [介绍下 BFC 及其应用](https://github.com/LuoShengMen/StudyNotes/issues/71)
+ - [box-sizing属性代表什么？](https://github.com/LuoShengMen/StudyNotes/issues/245)
  - [介绍层叠上下文](https://github.com/LuoShengMen/StudyNotes/issues/149)
  - [display有哪些值？说明他们的作用](https://github.com/LuoShengMen/StudyNotes/issues/95)
  - [display,float,position的关系](https://github.com/LuoShengMen/StudyNotes/issues/91)
@@ -101,7 +103,7 @@
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
- - [怎么让一个 div 水平垂直居中](https://github.com/LuoShengMen/StudyNotes/issues/139)
+ - [常见的几种布局？垂直水平居中的多种实现方法？等高栏的几种实现方法？](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
@@ -177,6 +179,7 @@
  - [V8垃圾回收机制](https://github.com/LuoShengMen/StudyNotes/issues/156)
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
+ - [如何判断浏览器类型？]
   
   
   ### 框架面试题
@@ -271,8 +274,16 @@
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
+ - [webpack配置优化项目？如何配置跨域？]
  - [编写过webpack的扩展嘛，Plugin或者loader]
- - [gulp和webpack区别]()
+ - [gulp和webpack区别]
+ 
+ 
+ 
+### 其他
+ - [代码提交错误时git的命令？gitflow概念？]
+ - [讲一讲自动化测试？]
+ - [代码提交错误时git的命令？gitflow概念？]
 
 
 ### 开放性题目
