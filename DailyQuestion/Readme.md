@@ -48,7 +48,7 @@
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
- - [手写一个promise,如何实现多个请求并行？]()
+ - [手写一个promise,如何实现多个请求并行？]
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
