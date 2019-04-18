@@ -25,6 +25,8 @@
 
  * [读书笔记](https://github.com/LuoShengMen/StudyNotes/issues/226)
  * [call,apply,bind](https://github.com/LuoShengMen/StudyNotes/issues/28)
+ * [javascript继承方式](https://github.com/LuoShengMen/StudyNotes/issues/227)
+ * [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  
 ## 你不知道的javascript
 
