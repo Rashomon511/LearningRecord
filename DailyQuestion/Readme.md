@@ -137,7 +137,7 @@
  - [HTML5的离线储存](https://github.com/LuoShengMen/StudyNotes/issues/86)
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
  - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系](https://github.com/LuoShengMen/StudyNotes/issues/238)
- - [DOM事件中target和currentTarget的区别]
+ - [DOM事件中target和currentTarget的区别](https://github.com/LuoShengMen/StudyNotes/issues/243)
  - [focus/blur与focusin/focusout的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/240)
  - [mouseover/mouseout与mouseenter/mouseleave的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/241)
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
