@@ -266,6 +266,8 @@
  - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
  - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
+ - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
+ - [js实现一个拖拽并和后台通信？]()
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
