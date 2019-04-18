@@ -41,6 +41,7 @@
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
@@ -75,6 +76,8 @@
  - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
+ - [页面性能监测]
+ - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
  
  
  ### css面试题
@@ -207,7 +210,9 @@
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
  - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
+ - [vue 的双向绑定机制？详细介绍]
  - [原生js实现MVVM]
+ - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
   
   ### Node
   - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
@@ -259,6 +264,7 @@
  - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
  - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
+ - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
