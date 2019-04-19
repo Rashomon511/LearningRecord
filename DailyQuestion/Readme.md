@@ -32,6 +32,7 @@
  - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
  - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
  - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
  - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
