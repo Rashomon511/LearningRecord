@@ -192,6 +192,7 @@
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
+ - [请解释 HTTP status 301 与 302 的区别？]
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
@@ -202,6 +203,8 @@
  - [简单讲解一下http2的多路复用](https://github.com/LuoShengMen/StudyNotes/issues/35)
  - [XSS是什么，攻击原理，怎么预防](https://github.com/LuoShengMen/StudyNotes/issues/180)
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
+ - [为什么传统上利用多个域名来提供网站资源会更有效？]
+ - [Long-Polling、Websockets 和 Server-Sent Event 之间有什么区别？]
  
  
   ### 浏览器面试题
@@ -314,7 +317,8 @@
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
  - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
  - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
- - [js实现一个拖拽并和后台通信？]()
+ - [js实现一个拖拽并和后台通信？]
+ - [如何实现以下函数?add(2, 5); // 7 add(2)(5); // 7]
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
@@ -322,7 +326,16 @@
  - [编写过webpack的扩展嘛，Plugin或者loader]
  - [gulp和webpack区别]
  
- 
+ ### 性能相关
+- [你会用什么工具来查找代码中的性能问题？]
+- [你会用什么方式来增强网站的页面滚动效能？]
+- [请解释 layout、painting 和 compositing 的区别。]
+
+### 测试相关
+- [对代码进行测试的有什么优缺点？]
+- [你会用什么工具测试你的代码功能？]
+- [单元测试与功能/集成测试的区别是什么？]
+- [代码风格 linting 工具的作用是什么？]
  
 ### 其他
  - [代码提交错误时git的命令？gitflow概念？]
@@ -349,6 +362,7 @@
 - [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
 - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
 - [你使用哪些工具和技术来调试 JavaScript 代码]
+
 
 ### 算法学习
  - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
