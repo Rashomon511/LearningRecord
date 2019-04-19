@@ -318,7 +318,7 @@
  - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
  - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
  - [js实现一个拖拽并和后台通信？]
- - [如何实现以下函数?add(2, 5); // 7 add(2)(5); // 7]
+ - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
