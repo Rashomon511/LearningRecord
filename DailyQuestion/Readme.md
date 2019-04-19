@@ -189,6 +189,7 @@
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
+ - [高阶组件和基类如何选择]
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
  - [HOC]
  - [React Hooks]
