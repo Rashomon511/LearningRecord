@@ -47,9 +47,11 @@
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
+ - [使用 Ajax 都有哪些优劣]
+ - [请解释 JSONP 的工作原理，以及它为什么不是真正的 Ajax]
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
- - [手写一个promise,如何实现多个请求并行？]
+ - [手写一个promise及其 polyfills 实现,如何实现多个请求并行？]
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
@@ -65,6 +67,8 @@
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
+ - [什么是事件循环 (event loop)？]
+ - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？]
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
  - [代码的复用](https://github.com/LuoShengMen/StudyNotes/issues/151)
@@ -81,6 +85,24 @@
  - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
  - [页面性能监测](https://github.com/LuoShengMen/StudyNotes/issues/242)
  - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
+ - [解释 JavaScript 中 this 是如何工作的]
+ - [请解释为什么接下来这段代码不是 IIFE (立即调用的函数表达式)：function foo(){ }();要做哪些改动使它变成 IIFE]
+ - [请举出一个匿名函数的典型用例]
+ - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别]
+ - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
+ - [请解释 Function.prototype.bind？]
+ - [在什么时候你会使用 document.write()]
+ - [为什么扩展 JavaScript 内置对象不是好的做法]
+ - [请指出 document load 和 document DOMContentLoaded 两个事件的区别]
+ - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思]
+ - [请解释什么是单页应用 (single page app), 以及如何使其对搜索引擎友好 (SEO-friendly)]
+ - [使用一种可以编译成 JavaScript 的语言来写 JavaScript 代码有哪些优缺点]
+ - [请解释可变 (mutable) 和不变 (immutable) 对象的区别]
+ - [请举出 JavaScript 中一个不变性对象 (immutable object) 的例子？]
+ - [不变性 (immutability) 有哪些优缺点？]
+ - [如何用你自己的代码来实现不变性 (immutability)？]
+ - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别]
+ - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
  
  
  ### css面试题
@@ -127,6 +149,18 @@
  - [一个满屏 品 字布局 如何设计?](https://github.com/LuoShengMen/StudyNotes/issues/192)
  - [css多列等高如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/193)
  - [怎么让Chrome支持小于12px 的文字？](https://github.com/LuoShengMen/StudyNotes/issues/198)
+ - [描述z-index和叠加上下文是如何形成的]
+ - [最喜欢的图片替换方法是什么，你如何选择使用]
+ - [如何为有功能限制的浏览器提供网页,你会使用哪些技术和处理方法]
+ - [介绍下栅格系统 (grid system) ]
+ - [你用过媒体查询，或针对移动端的布局/CSS 吗]
+ - [CSS 预处理器的优缺点有哪些]
+ - [设计中使用了非标准的字体，你该如何去实现]
+ - [浏览器是如何判断元素是否匹配某个 CSS 选择器？]
+ - [CSS 中字母 ‘C’ 的意思是叠层 (Cascading)。请问在确定样式的过程中优先级是如何决定的 (请举例)？如何有效使用此系统]
+ - [为什么响应式设计 (responsive design) 和自适应设计 (adaptive design) 不同]
+ - [你有兼容 retina 屏幕的经历吗？如果有，在什么地方使用了何种技术？]
+ - [请问为何要使用 translate() 而非 absolute positioning，或反之的理由？为什么？]
   
  
  ### html面试题
@@ -147,6 +181,13 @@
  - [Label的作用是什么？是怎么用的？](https://github.com/LuoShengMen/StudyNotes/issues/184)
  - [HTML5的form如何关闭自动完成功能？](https://github.com/LuoShengMen/StudyNotes/issues/185)
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
+ - [如果页面使用 ‘application/xhtml+xml’ 会有什么问题吗？]
+ - [如果网页内容需要支持多语言，你会怎么做？]
+ - [使用 data- 属性的好处是什么？]
+ - [如果把 HTML5 看作做一个开放平台，那它的构建模块有哪些]
+ - [为什么通常推荐将 CSS <link> 放置在 <head></head> 之间，而将 JS <script> 放置在 </body> 之前？你知道有哪些例外吗？]
+ - [什么是渐进式渲染 (progressive rendering)？]
+ - [你用过哪些不同的 HTML 模板语言？]
  
  
  ### 计算机网络面试题
@@ -181,6 +222,8 @@
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
  - [如何判断浏览器类型？](https://github.com/LuoShengMen/StudyNotes/issues/246)
+ - [三种减少页面加载时间的方法。(加载时间指感知的时间或者实际加载时间)]
+ - [请指出浏览器特性检测，特性推断和浏览器 UA 字符串嗅探的区别]
   
   
   ### 框架面试题
@@ -285,10 +328,13 @@
  - [代码提交错误时git的命令？gitflow概念？]
  - [讲一讲自动化测试？]
  - [代码提交错误时git的命令？gitflow概念？]
+ - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。]
 
 
 ### 开放性题目
 - [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
+- [你最熟悉哪一套版本控制系统？]
+- [你能描述当你制作一个网页的工作流程吗]
 - [平时如何管理你的项目？]
 - [原来公司工作流程是怎么样的，如何与其他人协作的？如何跨部门合作的？]
 - [你遇到过比较难的技术问题是？你是如何解决的？]
@@ -302,7 +348,7 @@
 - [你的优点是什么？缺点是什么？]
 - [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
 - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
-
+- [你使用哪些工具和技术来调试 JavaScript 代码]
 
 ### 算法学习
  - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
