@@ -103,6 +103,8 @@
  - [如何用你自己的代码来实现不变性 (immutability)？]
  - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别]
  - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
+ - [前端日志]
+ - [前端跟踪]
  
  
  ### css面试题
