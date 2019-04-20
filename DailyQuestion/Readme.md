@@ -243,6 +243,8 @@
  - [React Hooks]
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [redux-saga]
+ - [dva]
+ - [react-redux]
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
  - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级]
  - [react组件的优化]
