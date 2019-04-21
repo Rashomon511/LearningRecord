@@ -59,6 +59,7 @@
  - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
  - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
  - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
+ - [手写 Proxy / Object.defineProperty]
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
@@ -106,6 +107,11 @@
  - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
  - [前端日志]
  - [前端跟踪]
+ - [JWT优缺点]
+ - [canvas优化绘制性能]
+ - [如何解决同步调用代码耗时太高的问题]
+ - [symbol应用]
+ - [贝塞尔曲线]
  
  
  ### css面试题
@@ -208,6 +214,9 @@
  - [常见web安全及防护原理](https://github.com/LuoShengMen/StudyNotes/issues/118)
  - [为什么传统上利用多个域名来提供网站资源会更有效？]
  - [Long-Polling、Websockets 和 Server-Sent Event 之间有什么区别？]
+ - [TCP有哪些手段保证可靠交付]
+ - [DNS 解析过程,DNS解析会出错吗，为什么]
+ - [如何应对流量劫持]
  
  
   ### 浏览器面试题
@@ -230,6 +239,8 @@
  - [如何判断浏览器类型？](https://github.com/LuoShengMen/StudyNotes/issues/246)
  - [三种减少页面加载时间的方法。(加载时间指感知的时间或者实际加载时间)]
  - [请指出浏览器特性检测，特性推断和浏览器 UA 字符串嗅探的区别]
+ - [serviceworker如何保证离线缓存资源更新]
+ - [CI/CD流程]
   
   
   ### 框架面试题
@@ -239,6 +250,7 @@
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
  - [高阶组件和基类如何选择]
+ - [forceUpdate经历了哪些生命周期，子组件呢?]
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
  - [HOC]
  - [React Hooks]
@@ -252,6 +264,7 @@
  - [react组件的通信]
  - [react 的virtual dom和diff算法的实现方式]
  - [react的ssr了解么？大概怎么实现]
+ - [react和vue更新机制的区别]
  - [React的批量更新机制 BatchUpdates？]
  - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
@@ -269,6 +282,7 @@
  - [原生js实现MVVM]
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
  - [react和vue你都使用过，说说它们的区别？]
+ - [vue项目中如何约束rxjs数据的类型]
   
   ### Node
   - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
@@ -324,12 +338,17 @@
  - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
  - [js实现一个拖拽并和后台通信？]
  - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
+ - [ES6的Set内部实现]
 
 ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
  - [webpack配置优化项目？如何配置跨域？]
  - [编写过webpack的扩展嘛，Plugin或者loader]
  - [gulp和webpack区别]
+ - [loader plugin 的区别]
+ - [tree-shaking 的工作原理]
+ - [code splitting用的是什么插件]
+ - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
  
  ### 性能相关
 - [你会用什么工具来查找代码中的性能问题？]
@@ -341,9 +360,11 @@
 - [你会用什么工具测试你的代码功能？]
 - [单元测试与功能/集成测试的区别是什么？]
 - [代码风格 linting 工具的作用是什么？]
+- [单元测试编写有哪些原则]
  
 ### 其他
  - [代码提交错误时git的命令？gitflow概念？]
+ - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
  - [讲一讲自动化测试？]
  - [代码提交错误时git的命令？gitflow概念？]
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。]
