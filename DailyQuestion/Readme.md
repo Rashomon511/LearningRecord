@@ -113,6 +113,42 @@
  - [symbol应用]
  - [贝塞尔曲线]
  
+  ### js笔试题
+ - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
+ - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/issues/20)
+ - [Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
+ - [异步笔试题](https://github.com/LuoShengMen/StudyNotes/issues/30)
+ - [算法手写题](https://github.com/LuoShengMen/StudyNotes/issues/31)
+ - [取数组的最大值（ES5、ES6](https://github.com/LuoShengMen/StudyNotes/issues/146)
+ - [如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/issues/34)
+ - [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/issues/49)
+ - [改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/issues/51)
+ - [写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/issues/53)
+ - [下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/54)
+ - [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/issues/55)
+ - [使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/issues/64)
+ - [面代码中 a 在什么情况下会打印 1？](https://github.com/LuoShengMen/StudyNotes/issues/69)
+ - [手动实现call,apply, bind方法](https://github.com/LuoShengMen/StudyNotes/issues/70)
+ - [模拟new实现](https://github.com/LuoShengMen/StudyNotes/issues/77)
+ - [面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
+ - [实现一个 sleep 函数如sleep(1000)意味着等待1000毫秒，从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
+ - [sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
+ - [经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
+ - [Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
+ - [深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
+ - [笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
+ - [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
+ - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
+ - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
+ - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
+ - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
+ - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
+ - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
+ - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
+ - [js实现一个拖拽并和后台通信？]
+ - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
+ - [ES6的Set内部实现]
+ 
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -219,7 +255,7 @@
  - [如何应对流量劫持]
  
  
-  ### 浏览器面试题
+ ### 浏览器面试题
  - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
  - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
@@ -243,7 +279,7 @@
  - [CI/CD流程]
   
   
-  ### 框架面试题
+ ### 框架面试题
  - [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  - [实现组件有哪些方式？]()
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
@@ -283,64 +319,8 @@
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
  - [react和vue你都使用过，说说它们的区别？]
  - [vue项目中如何约束rxjs数据的类型]
-  
-  ### Node
-  - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
-  - [node有哪些全局对象?](https://github.com/LuoShengMen/StudyNotes/issues/211)
-  - [node有哪些定时功能](https://github.com/LuoShengMen/StudyNotes/issues/212)
-  - [node的构架是什么样子的?](https://github.com/LuoShengMen/StudyNotes/issues/210)
-  - [对Node的优点和缺点提出了自己的看法？](https://github.com/LuoShengMen/StudyNotes/issues/206)
-  - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
-  - [什么是EventEmitter](https://github.com/LuoShengMen/StudyNotes/issues/213)
-  - [什么是Stream?](https://github.com/LuoShengMen/StudyNotes/issues/214)
-  - [文件系统](https://github.com/LuoShengMen/StudyNotes/issues/215)
-  - [node的网络模块架构](https://github.com/LuoShengMen/StudyNotes/issues/216)
-  - [child-process ](https://github.com/LuoShengMen/StudyNotes/issues/217)
-  - [node异步，部署，性能调优，异常调试](https://github.com/LuoShengMen/StudyNotes/issues/218)
-  - [async](https://github.com/LuoShengMen/StudyNotes/issues/219)
-  - [Express](https://github.com/LuoShengMen/StudyNotes/issues/220)
-  - [mongodb与mongoose](https://github.com/LuoShengMen/StudyNotes/issues/223)
-  - [redis最简单的应用](https://github.com/LuoShengMen/StudyNotes/issues/222)
-  - [apache,nginx有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/221)
  
- 
- ### js笔试题
- - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
- - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/LuoShengMen/StudyNotes/issues/20)
- - [Async/Await 如何通过同步的方式实现异步](https://github.com/LuoShengMen/StudyNotes/issues/24)
- - [异步笔试题](https://github.com/LuoShengMen/StudyNotes/issues/30)
- - [算法手写题](https://github.com/LuoShengMen/StudyNotes/issues/31)
- - [取数组的最大值（ES5、ES6](https://github.com/LuoShengMen/StudyNotes/issues/146)
- - [如何实现一个 new](https://github.com/LuoShengMen/StudyNotes/issues/34)
- - [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/LuoShengMen/StudyNotes/issues/49)
- - [改造下面的代码，使之输出0 - 9，写出你能想到的所有解法。](https://github.com/LuoShengMen/StudyNotes/issues/51)
- - [写出你能想到的数组去重](https://github.com/LuoShengMen/StudyNotes/issues/53)
- - [下面的代码打印什么内容，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/54)
- - [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/LuoShengMen/StudyNotes/issues/55)
- - [使用迭代的方式实现 flatten 函数](https://github.com/LuoShengMen/StudyNotes/issues/64)
- - [面代码中 a 在什么情况下会打印 1？](https://github.com/LuoShengMen/StudyNotes/issues/69)
- - [手动实现call,apply, bind方法](https://github.com/LuoShengMen/StudyNotes/issues/70)
- - [模拟new实现](https://github.com/LuoShengMen/StudyNotes/issues/77)
- - [面输出什么](https://github.com/LuoShengMen/StudyNotes/issues/1)
- - [实现一个 sleep 函数如sleep(1000)意味着等待1000毫秒，从 Promise、Generator、Async/Await 等角度实现](https://github.com/LuoShengMen/StudyNotes/issues/4)
- - [sort（）排序一个数组](https://github.com/LuoShengMen/StudyNotes/issues/5)
- - [经典前端笔试题](https://github.com/LuoShengMen/StudyNotes/issues/6)
- - [Object.assign()的模拟实现](https://github.com/LuoShengMen/StudyNotes/issues/7)
- - [深拷贝的实现](https://github.com/LuoShengMen/StudyNotes/issues/8)
- - [笔试题](https://github.com/LuoShengMen/StudyNotes/issues/81)
- - [实现 (5).add(3).minus(2) 功能](https://github.com/LuoShengMen/StudyNotes/issues/121)
- - [求一个字符串的字节长度](https://github.com/LuoShengMen/StudyNotes/issues/135)
- - [输出以下代码的执行结果并解释为什么](https://github.com/LuoShengMen/StudyNotes/issues/142)
- - [{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]](https://github.com/LuoShengMen/StudyNotes/issues/172)
- - [要求设计 LazyMan 类，实现以下功能](https://github.com/LuoShengMen/StudyNotes/issues/182)
- - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
- - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
- - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
- - [js实现一个拖拽并和后台通信？]
- - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
- - [ES6的Set内部实现]
-
-### 前端工程
+ ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
  - [webpack配置优化项目？如何配置跨域？]
  - [编写过webpack的扩展嘛，Plugin或者loader]
@@ -350,47 +330,66 @@
  - [code splitting用的是什么插件]
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
  
- ### 性能相关
-- [你会用什么工具来查找代码中的性能问题？]
-- [你会用什么方式来增强网站的页面滚动效能？]
-- [请解释 layout、painting 和 compositing 的区别。]
+ ### 安全性能相关
+ - [你会用什么工具来查找代码中的性能问题？]
+ - [你会用什么方式来增强网站的页面滚动效能？]
+ - [请解释 layout、painting 和 compositing 的区别]
 
-### 测试相关
-- [对代码进行测试的有什么优缺点？]
-- [你会用什么工具测试你的代码功能？]
-- [单元测试与功能/集成测试的区别是什么？]
-- [代码风格 linting 工具的作用是什么？]
-- [单元测试编写有哪些原则]
- 
-### 其他
+ ### 其他
  - [代码提交错误时git的命令？gitflow概念？]
  - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
- - [讲一讲自动化测试？]
  - [代码提交错误时git的命令？gitflow概念？]
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。]
 
+  
+ ### Node
+ - [为什么要用node?](https://github.com/LuoShengMen/StudyNotes/issues/209)
+ - [node有哪些全局对象?](https://github.com/LuoShengMen/StudyNotes/issues/211)
+ - [node有哪些定时功能](https://github.com/LuoShengMen/StudyNotes/issues/212)
+ - [node的构架是什么样子的?](https://github.com/LuoShengMen/StudyNotes/issues/210)
+ - [对Node的优点和缺点提出了自己的看法？](https://github.com/LuoShengMen/StudyNotes/issues/206)
+ - [Node的应用场景](https://github.com/LuoShengMen/StudyNotes/issues/124)
+ - [什么是EventEmitter](https://github.com/LuoShengMen/StudyNotes/issues/213)
+ - [什么是Stream?](https://github.com/LuoShengMen/StudyNotes/issues/214)
+ - [文件系统](https://github.com/LuoShengMen/StudyNotes/issues/215)
+ - [node的网络模块架构](https://github.com/LuoShengMen/StudyNotes/issues/216)
+ - [child-process ](https://github.com/LuoShengMen/StudyNotes/issues/217)
+ - [node异步，部署，性能调优，异常调试](https://github.com/LuoShengMen/StudyNotes/issues/218)
+ - [async](https://github.com/LuoShengMen/StudyNotes/issues/219)
+ - [Express](https://github.com/LuoShengMen/StudyNotes/issues/220)
+ - [mongodb与mongoose](https://github.com/LuoShengMen/StudyNotes/issues/223)
+ - [redis最简单的应用](https://github.com/LuoShengMen/StudyNotes/issues/222)
+ - [apache,nginx有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/221)
 
-### 开放性题目
-- [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
-- [你最熟悉哪一套版本控制系统？]
-- [你能描述当你制作一个网页的工作流程吗]
-- [平时如何管理你的项目？]
-- [原来公司工作流程是怎么样的，如何与其他人协作的？如何跨部门合作的？]
-- [你遇到过比较难的技术问题是？你是如何解决的？]
-- [常使用的库有哪些？常用的前端开发工具？开发过什么应用或组件？]
-- [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
-- [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
-- [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
-- [你在现在的团队处于什么样的角色，起到了什么明显的作用？]
-- [介绍一个你最得意的作品吧？]
-- [你有自己的技术博客吗，用了哪些技术？]
-- [你的优点是什么？缺点是什么？]
-- [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
-- [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
-- [你使用哪些工具和技术来调试 JavaScript 代码]
+ ### 测试相关
+ - [对代码进行测试的有什么优缺点？]
+ - [你会用什么工具测试你的代码功能？]
+ - [单元测试与功能/集成测试的区别是什么？]
+ - [代码风格 linting 工具的作用是什么？]
+ - [单元测试编写有哪些原则]
+ - [讲一讲自动化测试？]
+
+ ### 开放性题目
+ - [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
+ - [你最熟悉哪一套版本控制系统？]
+ - [你能描述当你制作一个网页的工作流程吗]
+ - [平时如何管理你的项目？]
+ - [原来公司工作流程是怎么样的，如何与其他人协作的？如何跨部门合作的？]
+ - [你遇到过比较难的技术问题是？你是如何解决的？]
+ - [常使用的库有哪些？常用的前端开发工具？开发过什么应用或组件？]
+ - [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
+ - [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
+ - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
+ - [你在现在的团队处于什么样的角色，起到了什么明显的作用？]
+ - [介绍一个你最得意的作品吧？]
+ - [你有自己的技术博客吗，用了哪些技术？]
+ - [你的优点是什么？缺点是什么？]
+ - [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
+ - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
+ - [你使用哪些工具和技术来调试 JavaScript 代码]
 
 
-### 算法学习
+ ### 算法学习
  - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
  - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
