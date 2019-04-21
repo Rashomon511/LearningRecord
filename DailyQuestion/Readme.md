@@ -11,13 +11,20 @@
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
+ - [为什么扩展 JavaScript 内置对象不是好的做法]
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
+ - [请解释可变 (mutable) 和不变 (immutable) 对象的区别]
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
+ - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别]
+ - [symbol应用]
+ - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
+ - [请解释 Function.prototype.bind？]
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
  - [for of , for in 和 forEach,map 的区别](https://github.com/LuoShengMen/StudyNotes/issues/143)
+ - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
  - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
  - [执行上下文(EC)](https://github.com/LuoShengMen/StudyNotes/issues/150)
  - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
@@ -25,46 +32,51 @@
  - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
+ - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [caller, callee和arguments分别是什么?](https://github.com/LuoShengMen/StudyNotes/issues/207)
- - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
- - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
- - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
- - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
- - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
- - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
- - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
+ - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
+ - [纯函数的概念？](https://github.com/LuoShengMen/StudyNotes/issues/253)
  - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
+ - [请解释为什么接下来这段代码不是 IIFE (立即调用的函数表达式)：function foo(){ }();要做哪些改动使它变成 IIFE]
+ - [请举出一个匿名函数的典型用例]
+ - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思]
+ - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
+ - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
+ - [解释 JavaScript 中 this 是如何工作的]
+ - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
+ - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
+ - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
  - [javascript继承方式](https://github.com/LuoShengMen/StudyNotes/issues/227)
+ - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
- - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
- - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
- - [纯函数的概念？](https://github.com/LuoShengMen/StudyNotes/issues/253)
- - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
- - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
- - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
+ - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
  - [使用 Ajax 都有哪些优劣]
  - [请解释 JSONP 的工作原理，以及它为什么不是真正的 Ajax]
- - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
+ - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
+ - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
+ - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
+ - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别]
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [手写一个promise及其 polyfills 实现,如何实现多个请求并行？]
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
  - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
- - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
- - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
+ - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
+ - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
+ - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [手写 Proxy / Object.defineProperty]
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
- - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
- - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  - [线性顺序存储结构和链式存储结构有什么区别？以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/171)
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
@@ -76,42 +88,20 @@
  - [代码的复用](https://github.com/LuoShengMen/StudyNotes/issues/151)
  - [为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片](https://github.com/LuoShengMen/StudyNotes/issues/113)
  - [图片懒加载与预加载](https://github.com/LuoShengMen/StudyNotes/issues/178)
- - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
- - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
- - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [webSocket如何兼容低浏览器？](https://github.com/LuoShengMen/StudyNotes/issues/186)
  - [页面可见性（Page Visibility API） 可以有哪些用途？](https://github.com/LuoShengMen/StudyNotes/issues/187)
  - [如何在页面上实现一个圆形的可点击区域？](https://github.com/LuoShengMen/StudyNotes/issues/188)
  - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
- - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
- - [页面性能监测](https://github.com/LuoShengMen/StudyNotes/issues/242)
- - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
- - [解释 JavaScript 中 this 是如何工作的]
- - [请解释为什么接下来这段代码不是 IIFE (立即调用的函数表达式)：function foo(){ }();要做哪些改动使它变成 IIFE]
- - [请举出一个匿名函数的典型用例]
- - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别]
- - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
- - [请解释 Function.prototype.bind？]
- - [在什么时候你会使用 document.write()]
- - [为什么扩展 JavaScript 内置对象不是好的做法]
- - [请指出 document load 和 document DOMContentLoaded 两个事件的区别]
- - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思]
- - [请解释什么是单页应用 (single page app), 以及如何使其对搜索引擎友好 (SEO-friendly)]
- - [使用一种可以编译成 JavaScript 的语言来写 JavaScript 代码有哪些优缺点]
- - [请解释可变 (mutable) 和不变 (immutable) 对象的区别]
  - [请举出 JavaScript 中一个不变性对象 (immutable object) 的例子？]
  - [不变性 (immutability) 有哪些优缺点？]
  - [如何用你自己的代码来实现不变性 (immutability)？]
- - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别]
- - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
+ - [请解释什么是单页应用 (single page app), 以及如何使其对搜索引擎友好 (SEO-friendly)]
+ - [使用一种可以编译成 JavaScript 的语言来写 JavaScript 代码有哪些优缺点]
  - [前端日志]
  - [前端跟踪]
  - [JWT优缺点]
- - [canvas优化绘制性能]
- - [如何解决同步调用代码耗时太高的问题]
- - [symbol应用]
- - [贝塞尔曲线]
+
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -145,9 +135,9 @@
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
  - [实现destructuringArray方法，达到如下效果](https://github.com/LuoShengMen/StudyNotes/issues/230)
  - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
- - [js实现一个拖拽并和后台通信？]
  - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
  - [ES6的Set内部实现]
+ - [js实现一个拖拽并和后台通信？]
  
  
  ### css面试题
@@ -172,6 +162,8 @@
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
  - [常见的几种布局？垂直水平居中的多种实现方法？等高栏的几种实现方法？](https://github.com/LuoShengMen/StudyNotes/issues/139)
+ - [介绍下栅格系统 (grid system) ]
+ - [flex布局介绍]
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
@@ -197,7 +189,6 @@
  - [描述z-index和叠加上下文是如何形成的]
  - [最喜欢的图片替换方法是什么，你如何选择使用]
  - [如何为有功能限制的浏览器提供网页,你会使用哪些技术和处理方法]
- - [介绍下栅格系统 (grid system) ]
  - [你用过媒体查询，或针对移动端的布局/CSS 吗]
  - [CSS 预处理器的优缺点有哪些]
  - [设计中使用了非标准的字体，你该如何去实现]
@@ -206,6 +197,7 @@
  - [为什么响应式设计 (responsive design) 和自适应设计 (adaptive design) 不同]
  - [你有兼容 retina 屏幕的经历吗？如果有，在什么地方使用了何种技术？]
  - [请问为何要使用 translate() 而非 absolute positioning，或反之的理由？为什么？]
+ - [贝塞尔曲线]
   
  
  ### html面试题
@@ -233,6 +225,8 @@
  - [为什么通常推荐将 CSS <link> 放置在 <head></head> 之间，而将 JS <script> 放置在 </body> 之前？你知道有哪些例外吗？]
  - [什么是渐进式渲染 (progressive rendering)？]
  - [你用过哪些不同的 HTML 模板语言？]
+ - [在什么时候你会使用 document.write()]
+ - [请指出 document load 和 document DOMContentLoaded 两个事件的区别]
  
  
  ### 计算机网络面试题
@@ -329,11 +323,19 @@
  - [tree-shaking 的工作原理]
  - [code splitting用的是什么插件]
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
+ - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
+ - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  
  ### 安全性能相关
+ - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
+ - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
  - [你会用什么工具来查找代码中的性能问题？]
  - [你会用什么方式来增强网站的页面滚动效能？]
  - [请解释 layout、painting 和 compositing 的区别]
+ - [页面性能监测](https://github.com/LuoShengMen/StudyNotes/issues/242)
+ - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
+ - [canvas优化绘制性能]
+ - [如何解决同步调用代码耗时太高的问题]
 
  ### 其他
  - [代码提交错误时git的命令？gitflow概念？]
