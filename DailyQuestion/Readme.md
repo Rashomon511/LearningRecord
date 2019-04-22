@@ -19,10 +19,18 @@
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
  - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
- - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
- - [请解释 Function.prototype.bind？]
- - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
+ - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思](https://github.com/LuoShengMen/StudyNotes/issues/271)
+ - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
+ - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
+ - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ - [解释 function foo() {} 与 var foo = function() {} 用法的区别](https://github.com/LuoShengMen/StudyNotes/issues/268)
+ - [纯函数的概念？](https://github.com/LuoShengMen/StudyNotes/issues/253)
+ - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
+ - [请解释为什么接下来这段代码不是 IIFE (立即调用的函数表达式)：function foo(){ }();要做哪些改动使它变成 IIFE](https://github.com/LuoShengMen/StudyNotes/issues/269)
+ - [请举出一个匿名函数的典型用例](https://github.com/LuoShengMen/StudyNotes/issues/270)
+ - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？](https://github.com/LuoShengMen/StudyNotes/issues/266)
+ - [caller, callee和arguments分别是什么?](https://github.com/LuoShengMen/StudyNotes/issues/207)
  - [for of , for in 和 forEach,map 的区别](https://github.com/LuoShengMen/StudyNotes/issues/143)
  - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/19)
  - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
@@ -34,19 +42,10 @@
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
- - [caller, callee和arguments分别是什么?](https://github.com/LuoShengMen/StudyNotes/issues/207)
- - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
- - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
- - [解释 function foo() {} 与 var foo = function() {} 用法的区别]
- - [纯函数的概念？](https://github.com/LuoShengMen/StudyNotes/issues/253)
- - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
- - [请解释为什么接下来这段代码不是 IIFE (立即调用的函数表达式)：function foo(){ }();要做哪些改动使它变成 IIFE]
- - [请举出一个匿名函数的典型用例]
- - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思]
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
- - [解释 JavaScript 中 this 是如何工作的]
  - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
+ - [请解释 Function.prototype.bind](https://github.com/LuoShengMen/StudyNotes/issues/267)
  - [new的原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/145)
  - [什么是防抖和节流？有什么区别？如何实现?](https://github.com/LuoShengMen/StudyNotes/issues/17)
  - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/18)
