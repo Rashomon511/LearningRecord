@@ -18,7 +18,7 @@
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
- - [symbol应用]
+ - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
  - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
  - [请解释 Function.prototype.bind？]
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
