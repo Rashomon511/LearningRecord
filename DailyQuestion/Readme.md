@@ -268,6 +268,7 @@
  - [渐进增强和优雅降级](https://github.com/LuoShengMen/StudyNotes/issues/128)
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
  - [如何判断浏览器类型？](https://github.com/LuoShengMen/StudyNotes/issues/246)
+ - [获取URL中参数值（QueryString）的4种方法]
  - [三种减少页面加载时间的方法。(加载时间指感知的时间或者实际加载时间)]
  - [请指出浏览器特性检测，特性推断和浏览器 UA 字符串嗅探的区别]
  - [serviceworker如何保证离线缓存资源更新]
