@@ -11,13 +11,13 @@
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
- - [为什么扩展 JavaScript 内置对象不是好的做法]
+ - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别](https://github.com/LuoShengMen/StudyNotes/issues/264)
+ - [为什么扩展 JavaScript 内置对象不是好的做法](https://github.com/LuoShengMen/StudyNotes/issues/262)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
- - [请解释可变 (mutable) 和不变 (immutable) 对象的区别]
+ - [请解释可变 (mutable) 和不变 (immutable) 对象的区别](https://github.com/LuoShengMen/StudyNotes/issues/263)
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
- - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别]
  - [symbol应用]
  - [请指出以下代码的区别：function Person(){}、var person = Person()、var person = new Person()？]
  - [请解释 Function.prototype.bind？]
