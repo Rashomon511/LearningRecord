@@ -20,6 +20,10 @@
   - [ ] Node与Express开发
   - [ ] js正则表达式迷你书
   - [x] css揭秘
+  
+## Blog
+ * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
+ * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
 
 ## js高级程序设计
 
@@ -57,7 +61,5 @@
  * [正则表达式学习总结(三)](https://github.com/LuoShengMen/StudyNotes/issues/168)
  * [正则表达式学习总结(四)](https://github.com/LuoShengMen/StudyNotes/issues/173)
 
-## Blog
- * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
- * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
+
  - 待续
