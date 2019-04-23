@@ -57,12 +57,11 @@
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
- - [使用 Ajax 都有哪些优劣]
- - [请解释 JSONP 的工作原理，以及它为什么不是真正的 Ajax]
+ - [请解释 JSONP 的工作原理，以及它为什么不是真正的 Ajax](https://github.com/LuoShengMen/StudyNotes/issues/273)
  - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
  - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
  - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
- - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别]
+ - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别](https://github.com/LuoShengMen/StudyNotes/issues/277)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [手写一个promise及其 polyfills 实现,如何实现多个请求并行？]
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
@@ -80,8 +79,8 @@
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
- - [什么是事件循环 (event loop)？]
- - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？]
+ - [什么是事件循环 (event loop)？](https://github.com/LuoShengMen/StudyNotes/issues/278)
+ - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/278)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
  - [代码的复用](https://github.com/LuoShengMen/StudyNotes/issues/151)
@@ -136,6 +135,7 @@
  - [js获取当前时间戳？获取一个月有多少天？](https://github.com/LuoShengMen/StudyNotes/issues/244)
  - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
  - [给定两个数组，写一个方法来计算它们的交集](https://github.com/LuoShengMen/StudyNotes/issues/258)
+ - [如何实现下列代码：[1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]](https://github.com/LuoShengMen/StudyNotes/issues/275)
  - [ES6的Set内部实现]
  - [js实现一个拖拽并和后台通信？]
  
@@ -226,8 +226,8 @@
  - [为什么通常推荐将 CSS <link> 放置在 <head></head> 之间，而将 JS <script> 放置在 </body> 之前？你知道有哪些例外吗？]
  - [什么是渐进式渲染 (progressive rendering)？]
  - [你用过哪些不同的 HTML 模板语言？]
- - [在什么时候你会使用 document.write()]
- - [请指出 document load 和 document DOMContentLoaded 两个事件的区别]
+ - [在什么时候你会使用 document.write()](https://github.com/LuoShengMen/StudyNotes/issues/274)
+ - [请指出 document load 和 document DOMContentLoaded 两个事件的区别](https://github.com/LuoShengMen/StudyNotes/issues/276)
  
  
  ### 计算机网络面试题
