@@ -186,6 +186,7 @@
  - [一个满屏 品 字布局 如何设计?](https://github.com/LuoShengMen/StudyNotes/issues/192)
  - [css多列等高如何实现？](https://github.com/LuoShengMen/StudyNotes/issues/193)
  - [怎么让Chrome支持小于12px 的文字？](https://github.com/LuoShengMen/StudyNotes/issues/198)
+ - [已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改](https://github.com/LuoShengMen/StudyNotes/issues/272)
  - [描述z-index和叠加上下文是如何形成的]
  - [最喜欢的图片替换方法是什么，你如何选择使用]
  - [如何为有功能限制的浏览器提供网页,你会使用哪些技术和处理方法]
