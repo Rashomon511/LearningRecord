@@ -91,9 +91,6 @@
  - [如何在页面上实现一个圆形的可点击区域？](https://github.com/LuoShengMen/StudyNotes/issues/188)
  - [实现不使用 border 画出1px高的线，在不同浏览器的标准模式与怪异模式下都能保持一致的效果](https://github.com/LuoShengMen/StudyNotes/issues/189)
  - [页面重构怎么操作？](https://github.com/LuoShengMen/StudyNotes/issues/205)
- - [请举出 JavaScript 中一个不变性对象 (immutable object) 的例子？]
- - [不变性 (immutability) 有哪些优缺点？]
- - [如何用你自己的代码来实现不变性 (immutability)？]
  - [请解释什么是单页应用 (single page app), 以及如何使其对搜索引擎友好 (SEO-friendly)]
  - [使用一种可以编译成 JavaScript 的语言来写 JavaScript 代码有哪些优缺点]
  - [前端日志]
