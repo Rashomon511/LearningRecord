@@ -136,6 +136,7 @@
  - [如何实现以下函数?柯里化](https://github.com/LuoShengMen/StudyNotes/issues/248)
  - [给定两个数组，写一个方法来计算它们的交集](https://github.com/LuoShengMen/StudyNotes/issues/258)
  - [如何实现下列代码：[1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]](https://github.com/LuoShengMen/StudyNotes/issues/275)
+ - [实现一个乱序数组](https://github.com/LuoShengMen/StudyNotes/issues/279)
  - [ES6的Set内部实现]
  - [js实现一个拖拽并和后台通信？]
  
