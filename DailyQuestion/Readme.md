@@ -138,6 +138,7 @@
  - [实现一个乱序数组](https://github.com/LuoShengMen/StudyNotes/issues/279)
  - [ES6的Set内部实现](https://github.com/LuoShengMen/StudyNotes/issues/289)
  - [js实现一个拖拽？](https://github.com/LuoShengMen/StudyNotes/issues/290)
+ - [如何设计实现无缝轮播](https://github.com/LuoShengMen/StudyNotes/issues/205)
  
  
  ### css面试题
