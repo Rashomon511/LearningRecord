@@ -11,6 +11,7 @@
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
+ - [堆，栈，队列的区别](https://github.com/LuoShengMen/StudyNotes/issues/306)
  - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别](https://github.com/LuoShengMen/StudyNotes/issues/264)
  - [为什么扩展 JavaScript 内置对象不是好的做法](https://github.com/LuoShengMen/StudyNotes/issues/262)
  - [js的类型判断](https://github.com/LuoShengMen/StudyNotes/issues/138)
