@@ -1,116 +1,109 @@
  #  学习资料 #
 
-### js学习文档
-- [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
+### javascripts学习文档
 - [JavaScript教程 ](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-- [js前端书籍]( https://f2edocs.com/books/)
-- [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
-- [js相关]( http://www.zhangxinxu.com/wordpress/category/js/)
 - [ECMAScript 6 入门]( http://es6.ruanyifeng.com/)
 - [TypeScript ](http://www.typescriptlang.org/)
-- [十大经典排序算法总结（JavaScript描述）]( https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- [js前端书籍]( https://f2edocs.com/books/)
+- [js相关]( http://www.zhangxinxu.com/wordpress/category/js/)
 - [JavaScript 语言参考 ]( https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
 - [JS 函数式编程指南 ](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
-- [leetCode ](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
 - [js callback ](http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html)
+- [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 
-### dva学习资料：
+### 算法
+- [十大经典排序算法总结（JavaScript描述）]( https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- [leetCode ](https://leetcode.com/problemset/all/?difficulty=Easy)
+
+
+
+### react学习资料
+- [react官网](https://reactjs.org/)
+- [react 阮一峰React 入门实例教程]( http://www.ruanyifeng.com/blog/2015/03/react.html)
+- [react-routerReact Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
+- [react-router4文档](http://reacttraining.cn/web/example/basic）
 - [umi 五米官网]( https://umijs.org/)
-- [dva 的相关知识点](https://github.com/dvajs/dva-knowledgemap#effects)
-- [dva-cli  的 命令行工具 及相关命令](https://github.com/dvajs/dva-cli)
-- [dva 的 资源管理配置方案 roadhog ](https://github.com/sorrycc/roadhog/blob/master/README.md)
-- [dva effects 的原理 redux-saga]( http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
-- [dva 的api]( https://github.com/dvajs/dva/blob/master/docs/API.md)
-- [基于react，ant-design，dva，Mock 企业级后台管理系统最佳实践]( https://github.com/zuiidea/antd-admin)
-- [dva 的 渐进式学习方案](  https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial)
-- [12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd)]( https://github.com/sorrycc/blog/issues/18)
+- [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
+- [react 优化](https://github.com/jurassix/react-immutable-render-mixin)
+- [immutable的具体应用](https://yq.aliyun.com/articles/69516)
+- [react 表库](https://antv.alipay.com/g2/doc/index.html)
+- [react高阶组件](http://www.cnblogs.com/libin-1/p/7087605.html)
+- [React:ES6 & ES7中的6种this绑定方法](https://github.com/dwqs/blog/issues/10)
+- [react-immutable-render-mixin](https://www.npmjs.com/package/react-immutable-render-mixin)
 
-### markdown富文本编辑器
+### vue学习资料
+- [vue官网](https://vuefe.cn/v2/guide/)
+- [vue-router](https://router.vuejs.org/zh-cn/)
+
+### umi
+- [umi官网](https://umijs.org/zh/)
+
+### 数据流
+- [redux中文文档](http://www.redux.org.cn/)
+- [vuex文档](https://vuex.vuejs.org/zh-cn/)
+- [dva官网](https://dvajs.com/guide/)
+- [mbox](http://cn.mobx.js.org/)
+- [react-saga文档](http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html)
+
+
+### UI库
+- [antd ui库](https://ant.design/components/form-cn/)
+- [element-ui](http://element.eleme.io/#/zh-CN)
+- [vux ui库](https://vux.li/#/)
+- [weex ui库](https://weex.apache.org/guide/index.html)
+
+### 工具
+- [query-string](https://www.npmjs.com/package/query-string)
+
+
+### 移动端高清布局方案
+- [手机端页面自适应解决方案](http://www.jianshu.com/p/985d26b40199#comment-7294037)
+
+### webpack学习资料
+- [webpack官网](https://doc.webpack-china.org/guides/development/)
+- [webpack文章 ](https://github.com/webpack-china/awesome-webpack-cn)
+- [webpack打包体积问题 ](http://www.jianshu.com/p/a64735eb0e2b)
+- [webpack多页面打包 ](https://segmentfault.com/a/1190000006843916)
+- [基于 Webpack 的应用包体尺寸优化 ](http://www.open-open.com/lib/view/open1484709648751.html)
+- [基于webpack的前端工程化开发之多页站点篇（二） ](https://segmentfault.com/a/1190000004516832)
+- [webpack多页应用架构系列（一）：一步一步解决架构痛点 ](https://github.com/454979849/better-webpack-multiple-pages)
+- [webpack热更新 ](https://segmentfault.com/a/1190000011151106)
+- [热更新 ](https://github.com/gaearon/react-transform-boilerplate)
+
+### less文档
+- [less文档](http://lesscss.cn/)
+
+### electron学习资料
+- [electron官网](https://electron.org.cn/doc/index.html)
+- [electron进程通讯 ](https://www.npmjs.com/package/electron-redux)
+- [electron react 入门学习3-自适应布局](http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4)
+
+### loadash 文档
+ - [loadash](http://lodash.think2011.net/getting-started)
+ 
+ ### markdown富文本编辑器
 - [react-markdown]( https://github.com/rexxars/react-markdown)
 - [Draft.js](https://github.com/facebook/draft-js)
-- [react-quill ](https://github.com/zenoamaro/react-quill )
+- [react-quill ](https://github.com/zenoamaro/react-quill)
 
-4.
-- [js函数式编程指南] (https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
-
-5.react全家桶系列
-- react官网 https://reactjs.org/
-- react 阮一峰React 入门实例教程 http://www.ruanyifeng.com/blog/2015/03/react.html
-- React：组件的生命周期 https://segmentfault.com/a/1190000004168886
-- react-routerReact Router 使用教程 http://www.ruanyifeng.com/blog/2016/05/react_router.html
-- react-router4文档 http://reacttraining.cn/web/example/basic
-- query-string https://www.npmjs.com/package/query-string
-- react-router示例 https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js#0
-- antd ui库 https://ant.design/components/form-cn/
-- Immutable 详解及 React 中实践  https://github.com/camsong/blog/issues/3
-- react 优化 https://github.com/jurassix/react-immutable-render-mixin
-- immutable的具体应用 https://yq.aliyun.com/articles/69516
-- react 表库 https://antv.alipay.com/g2/doc/index.html
-- react高阶组件 http://www.cnblogs.com/libin-1/p/7087605.html
-- https://zhuanlan.zhihu.com/p/24776678
-- React 属性验证和默认值, refs, state http://www.jianshu.com/p/8c25c0ec402f
-- React:ES6 & ES7中的6种this绑定方法https://github.com/dwqs/blog/issues/10
-- react中的refs http://blog.csdn.net/win0032/article/details/51516126
-- react学习知道 https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese
-
-- redux简明教程 https://github.com/kenberkeley/redux-simple-tutorial
-- redux 中间件详解 redux middleware 详解
-- redux中文文档 http://www.redux.org.cn/
-- react-saga文档 http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
-- mbox http://cn.mobx.js.org/
-- react-immutable-render-mixin https://www.npmjs.com/package/react-immutable-render-mixin
-
-6.vue学习资料
-- vue官网 https://vuefe.cn/v2/guide/
-- vuex文档 https://vuex.vuejs.org/zh-cn/
-- vue-router https://router.vuejs.org/zh-cn/
-- element-ui http://element.eleme.io/#/zh-CN
-- vux ui库  https://vux.li/#/
-- weex ui库 https://weex.apache.org/guide/index.html
-
-7.移动端高清布局方案
-- 手机端页面自适应解决方案 http://www.jianshu.com/p/985d26b40199#comment-7294037
-
-8.webpack学习资料
-- webpack官网 https://doc.webpack-china.org/guides/development/
-- webpack打包体积问题 http://www.jianshu.com/p/a64735eb0e2b
-- webpack多页面打包 https://segmentfault.com/a/1190000006843916
-- webpack文章 https://github.com/webpack-china/awesome-webpack-cn
-- 基于 Webpack 的应用包体尺寸优化 http://www.open-open.com/lib/view/open1484709648751.html
-- 基于webpack的前端工程化开发之多页站点篇（二） https://segmentfault.com/a/1190000004516832
-- webpack多页应用架构系列（一）：一步一步解决架构痛点 https://github.com/454979849/better-webpack-multiple-pages
-- webpack热更新 https://segmentfault.com/a/1190000011151106
-- 热更新 https://github.com/gaearon/react-transform-boilerplate
-- https://github.com/FortechRomania/react-redux-complete-example
-
-9.less文档
-- http://lesscss.cn/
-
-10.electron学习资料
-- electron官网 https://electron.org.cn/doc/index.html
-- electron进程通讯 https://www.npmjs.com/package/electron-redux
-- electron react 入门学习3-自适应布局 http://blog.leanote.com/post/465524381%40qq.com/electron-react-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0-4
-
-11.loadash 文档
- - loadash http://lodash.think2011.net/getting-started
-
-12. 后台文档
- - express http://www.expressjs.com.cn/
- - express教程 https://github.com/nswbmw/N-blog
- - koa http://koa.bootcss.com/
- - koa project https://github.com/koajs/react-view
- - express中文文档 http://www.runoob.com/w3cnote/express-4-x-api.html
- - Sequelize 中文API文档 https://itbilu.com/nodejs/npm/VJIR1CjMb.html
- - Nedb  https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html
- - node文档 http://nodejs.cn/api/documentation.html
- - node.js教程 https://github.com/alsotang/node-lessons
- - mongose官方文档 http://www.nodeclass.com/api/mongoose.html
- - node+mongoose常用查询 http://www.cnblogs.com/winyh/p/6698803.html
+### 后台文档
+ - [express] http://www.expressjs.com.cn/)
+ - [express教程](https://github.com/nswbmw/N-blog)
+ - [koa](http://koa.bootcss.com/)
+ - [koa project ](https://github.com/koajs/react-view)
+ - [express中文文档 ]http://www.runoob.com/w3cnote/express-4-x-api.html)
+ - [Sequelize 中文API文档 ](https://itbilu.com/nodejs/npm/VJIR1CjMb.html)
+ - [Nedb  ](https://www.w3cschool.cn/nedbintro/nedbintro-t9z327mh.html)
+ - [node文档 ](http://nodejs.cn/api/documentation.html)
+ - [node.js教程 ](https://github.com/alsotang/node-lessons)
+ - [mongose官方文档 ](http://www.nodeclass.com/api/mongoose.html)
+ - [node+mongoose常用查询 ](http://www.cnblogs.com/winyh/p/6698803.html)
 
 
- 13.commonjs
- - common js规范 http://javascript.ruanyifeng.com/nodejs/module.html
- - 很全很全的JavaScript的模块讲解 https://segmentfault.com/a/1190000012464333#articleHeader9
+### commonjs
+ - [common js规范 ](http://javascript.ruanyifeng.com/nodejs/module.html)
+ - [很全很全的JavaScript的模块讲解 ](https://segmentfault.com/a/1190000012464333#articleHeader9)
 
  14.react native学习资料
  - React Native 中文网 http://reactnative.cn/
