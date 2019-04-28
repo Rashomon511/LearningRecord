@@ -408,4 +408,4 @@
  - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
- > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/InterviewQuestions.md),[搜集的前端问题](https://github.com/qiu-deqing/FE-interview),《你不知道的javascript》《javascript高级程序设计》侵删
+ > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md),《你不知道的javascript》《javascript高级程序设计》侵删
