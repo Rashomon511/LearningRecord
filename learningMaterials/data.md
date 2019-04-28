@@ -25,7 +25,7 @@
 - [JS 函数式编程指南 ](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 ### 正则表达式
- - [正则表达式30分钟入门教程 ](http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507)
+ - [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507)
  - [JS正则表达式大全 ](http://www.blogjava.net/onejavaer/articles/79070.html)
  - [正则表达式学习参考 ](http://blog.csdn.net/lxcnn/article/details/4268033)
  
@@ -43,7 +43,7 @@
 - [react官网](https://reactjs.org/)
 - [react 阮一峰React 入门实例教程]( http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [react-routerReact Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
-- [react-router4文档](http://reacttraining.cn/web/example/basic）
+- [react-router4文档](http://reacttraining.cn/web/example/basic)
 - [react源码分析](https://zhuanlan.zhihu.com/p/32520194)
 - [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 - [react 优化](https://github.com/jurassix/react-immutable-render-mixin)
@@ -110,7 +110,7 @@
 ### 后台框架
  - [node文档 ](http://nodejs.cn/api/documentation.html)
  - [node.js教程 ](https://github.com/alsotang/node-lessons)
- - [express] http://www.expressjs.com.cn/)
+ - [express](http://www.expressjs.com.cn/)
  - [express教程](https://github.com/nswbmw/N-blog)
  - [koa](http://koa.bootcss.com/)
  - [koa project ](https://github.com/koajs/react-view)
