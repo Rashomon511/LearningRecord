@@ -4,7 +4,7 @@
 
 - [学习读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
-- [前端知识框架图](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
+- [前端知识结构](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
