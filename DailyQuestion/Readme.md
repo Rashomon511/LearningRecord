@@ -204,6 +204,7 @@
   
  
  ### html面试题
+ - [doctype(文档类型) 的作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/316)
  - [HTML全局属性(global attribute)有哪些](https://github.com/LuoShengMen/StudyNotes/issues/236)
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
