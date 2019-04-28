@@ -207,6 +207,7 @@
  - [HTML全局属性(global attribute)有哪些](https://github.com/LuoShengMen/StudyNotes/issues/236)
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
  - [html5有哪些新特性、移除哪些元素](https://github.com/LuoShengMen/StudyNotes/issues/73)
+ - [将 HTML5 看作成开放的网络平台，什么是 HTML5 的基本构件（building block）？](https://github.com/LuoShengMen/StudyNotes/issues/315)
  - [什么是web语义化,有什么好处](https://github.com/LuoShengMen/StudyNotes/issues/237)
  - [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义?](https://github.com/LuoShengMen/StudyNotes/issues/83)
  - [HTML5 为什么只需要写 <!DOCTYPE HTML>？](https://github.com/LuoShengMen/StudyNotes/issues/183)
