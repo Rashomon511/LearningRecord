@@ -221,13 +221,14 @@
  - [Label的作用是什么？是怎么用的？](https://github.com/LuoShengMen/StudyNotes/issues/184)
  - [HTML5的form如何关闭自动完成功能？](https://github.com/LuoShengMen/StudyNotes/issues/185)
  - [写一个通用的事件侦听器函数](https://github.com/LuoShengMen/StudyNotes/issues/200)
- - [如果页面使用 ‘application/xhtml+xml’ 会有什么问题吗？]
- - [如果网页内容需要支持多语言，你会怎么做？]
- - [使用 data- 属性的好处是什么？]
- - [如果把 HTML5 看作做一个开放平台，那它的构建模块有哪些]
- - [为什么通常推荐将 CSS <link> 放置在 <head></head> 之间，而将 JS <script> 放置在 </body> 之前？你知道有哪些例外吗？]
- - [什么是渐进式渲染 (progressive rendering)？]
- - [你用过哪些不同的 HTML 模板语言？]
+ - [如果页面使用 ‘application/xhtml+xml’ 会有什么问题吗？](https://github.com/LuoShengMen/StudyNotes/issues/307)
+ - [如果网页内容需要支持多语言，你会怎么做？](https://github.com/LuoShengMen/StudyNotes/issues/308)
+ - [使用 data- 属性的好处是什么？](https://github.com/LuoShengMen/StudyNotes/issues/309)
+ - [如果把 HTML5 看作做一个开放平台，那它的构建模块有哪些](https://github.com/LuoShengMen/StudyNotes/issues/310)
+ - [为什么通常推荐将 CSS <link> 放置在 <head></head> 之间，而将 JS <script> 放置在 </body> 之前？你知道有哪些例外吗？](https://github.com/LuoShengMen/StudyNotes/issues/311)
+ - [什么是渐进式渲染 (progressive rendering)？](https://github.com/LuoShengMen/StudyNotes/issues/312)
+ - [你用过哪些不同的 HTML 模板语言？](https://github.com/LuoShengMen/StudyNotes/issues/313)
+ - [请描述<script>、<script async>和<script defer>的区别](https://github.com/LuoShengMen/StudyNotes/issues/314)
  - [在什么时候你会使用 document.write()](https://github.com/LuoShengMen/StudyNotes/issues/274)
  - [请指出 document load 和 document DOMContentLoaded 两个事件的区别](https://github.com/LuoShengMen/StudyNotes/issues/276)
  
