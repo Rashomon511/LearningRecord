@@ -4,34 +4,34 @@
 - [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
 - [JavaScript教程 ](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [js前端书籍]( https://f2edocs.com/books/)
-- JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
-- js相关 http://www.zhangxinxu.com/wordpress/category/js/
-- ECMAScript 6 入门 http://es6.ruanyifeng.com/
-- TypeScript http://www.typescriptlang.org/
-- 十大经典排序算法总结（JavaScript描述） https://juejin.im/post/57dcd394a22b9d00610c5ec8
-- JavaScript 语言参考  https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx
-- JS 函数式编程指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
-- leetCode https://leetcode.com/problemset/all/?difficulty=Easy
-- js callback http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html
+- [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
+- [js相关]( http://www.zhangxinxu.com/wordpress/category/js/)
+- [ECMAScript 6 入门]( http://es6.ruanyifeng.com/)
+- [TypeScript ](http://www.typescriptlang.org/)
+- [十大经典排序算法总结（JavaScript描述）]( https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- [JavaScript 语言参考 ]( https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
+- [JS 函数式编程指南 ](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+- [leetCode ](https://leetcode.com/problemset/all/?difficulty=Easy)
+- [js callback ](http://www.cnblogs.com/yhql/archive/2011/08/08/2131420.html)
 
-2.dva学习资料：
-- umi 五米官网 https://umijs.org/
-- dva 的相关知识点https://github.com/dvajs/dva-knowledgemap#effects
-- dva-cli  的 命令行工具 及相关命令https://github.com/dvajs/dva-cli
-- dva 的 资源管理配置方案 roadhog https://github.com/sorrycc/roadhog/blob/master/README.md
-- dva effects 的原理 redux-saga http://leonshi.com/redux-saga-in-chinese/docs/api/index.html
-- dva 的api https://github.com/dvajs/dva/blob/master/docs/API.md
-- 基于react，ant-design，dva，Mock 企业级后台管理系统最佳实践 https://github.com/zuiidea/antd-admin
-- dva 的 渐进式学习方案  https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial
-- 12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd) https://github.com/sorrycc/blog/issues/18
+### dva学习资料：
+- [umi 五米官网]( https://umijs.org/)
+- [dva 的相关知识点](https://github.com/dvajs/dva-knowledgemap#effects)
+- [dva-cli  的 命令行工具 及相关命令](https://github.com/dvajs/dva-cli)
+- [dva 的 资源管理配置方案 roadhog ](https://github.com/sorrycc/roadhog/blob/master/README.md)
+- [dva effects 的原理 redux-saga]( http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
+- [dva 的api]( https://github.com/dvajs/dva/blob/master/docs/API.md)
+- [基于react，ant-design，dva，Mock 企业级后台管理系统最佳实践]( https://github.com/zuiidea/antd-admin)
+- [dva 的 渐进式学习方案](  https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial)
+- [12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd)]( https://github.com/sorrycc/blog/issues/18)
 
-3.markdown富文本编辑器
-- react-markdown https://github.com/rexxars/react-markdown
-- Draft.js  https://github.com/facebook/draft-js
-- react-quill https://github.com/zenoamaro/react-quill  (我准备用这个)
+### markdown富文本编辑器
+- [react-markdown]( https://github.com/rexxars/react-markdown)
+- [Draft.js](https://github.com/facebook/draft-js)
+- [react-quill ](https://github.com/zenoamaro/react-quill )
 
-4.js函数式编程指南
-- 指南 https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details
+4.
+- [js函数式编程指南] (https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 5.react全家桶系列
 - react官网 https://reactjs.org/
