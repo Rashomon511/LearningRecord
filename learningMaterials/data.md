@@ -16,7 +16,11 @@
 - [十大经典排序算法总结（JavaScript描述）]( https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 - [leetCode ](https://leetcode.com/problemset/all/?difficulty=Easy)
 
+### Flutter
+- [Flutter](https://flutterchina.club/)
 
+### Taro
+- [Taro官网](https://taro.aotu.io/)
 
 ### react学习资料
 - [react官网](https://reactjs.org/)
@@ -31,6 +35,7 @@
 - [react高阶组件](http://www.cnblogs.com/libin-1/p/7087605.html)
 - [React:ES6 & ES7中的6种this绑定方法](https://github.com/dwqs/blog/issues/10)
 - [react-immutable-render-mixin](https://www.npmjs.com/package/react-immutable-render-mixin)
+- [react开发规范](https://github.com/JasonBoy/javascript/tree/master/react)
 
 ### vue学习资料
 - [vue官网](https://vuefe.cn/v2/guide/)
@@ -105,96 +110,78 @@
  - [common js规范 ](http://javascript.ruanyifeng.com/nodejs/module.html)
  - [很全很全的JavaScript的模块讲解 ](https://segmentfault.com/a/1190000012464333#articleHeader9)
 
- 14.react native学习资料
- - React Native 中文网 http://reactnative.cn/
- - React-Native学习指南 https://github.com/reactnativecn/react-native-guide
- - 每天都实战一个React-Native项目 http://blog.edagarli.com/2016/03/22/A%20self-taught%20project%20to%20learn%20React-Native/
- - 学习React Native必看的几个开源项目 http://www.open-open.com/lib/view/open1465268659981.html
+### react native
+ - [React Native 中文网 ](http://reactnative.cn/)
+ - [React-Native学习指南 ](https://github.com/reactnativecn/react-native-guide)
+ - [每天都实战一个React-Native项目 ](http://blog.edagarli.com/2016/03/22/A%20self-taught%20project%20to%20learn%20React-Native/)
+ - [学习React Native必看的几个开源项目 ](http://www.open-open.com/lib/view/open1465268659981.html)
 
- 15.异步编程
- - 同步函数与异步函数 http://blog.csdn.net/ixidof/article/details/7108771
- - Generator 函数的含义与用法 http://www.ruanyifeng.com/blog/2015/04/generator.html
- - async 函数的用法 http://www.ruanyifeng.com/blog/2015/05/async.html
- - 体验异步的终极解决方案-ES7的Async/Await http://blog.csdn.net/z69183787/article/details/60143576
- - Async和Await异步编程的原理 http://blog.csdn.net/dyllove98/article/details/9371839
- - ES7 中引入 async-await http://www.cnblogs.com/wangfupeng1988/p/6532734.html
- -  浅谈node.js 回调函数与事件机制 http://blog.csdn.net/zhouziyu2011/article/details/68928175
+### 异步编程
+ - [同步函数与异步函数 ](http://blog.csdn.net/ixidof/article/details/7108771)
+ - [Generator 函数的含义与用法 ](http://www.ruanyifeng.com/blog/2015/04/generator.html)
+ - [async 函数的用法 ](http://www.ruanyifeng.com/blog/2015/05/async.html)
+ - [体验异步的终极解决方案-ES7的Async/Await ](http://blog.csdn.net/z69183787/article/details/60143576)
+ - [Async和Await异步编程的原理 ](http://blog.csdn.net/dyllove98/article/details/9371839)
+ - [ES7 中引入 async-await ](http://www.cnblogs.com/wangfupeng1988/p/6532734.html)
+ - [ 浅谈node.js 回调函数与事件机制 ](http://blog.csdn.net/zhouziyu2011/article/details/68928175)
 
- 16.正则表达式
- - 正则表达式30分钟入门教程 http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507
- - JS正则表达式大全 http://www.blogjava.net/onejavaer/articles/79070.html
- - 正则表达式学习参考 http://blog.csdn.net/lxcnn/article/details/4268033
+### 正则表达式
+ - [正则表达式30分钟入门教程 ](http://www.jb51.net/tools/zhengze.html http://www.oschina.net/question/12_9507)
+ - [JS正则表达式大全 ](http://www.blogjava.net/onejavaer/articles/79070.html)
+ - [正则表达式学习参考 ](http://blog.csdn.net/lxcnn/article/details/4268033)
 
- 17.GraphQL
+### GraphQL
  - GraphQL官网 https://graphql.org.cn/
 
-18.开发规范
-- react开发规范 https://github.com/JasonBoy/javascript/tree/master/react
 
-19.token,cookie,Session
-- token详解 http://blog.csdn.net/xunfeng13/article/details/52371562
-- jwt token http://www.jianshu.com/p/a7882080c541
-- 基于Token的WEB后台认证机制 http://www.cnblogs.com/xiekeli/p/5607107.html
-- Session和Cookie的定义以及区别 http://www.cnblogs.com/windows/articles/1605634.html
-- content-type http://www.cnblogs.com/52fhy/p/5436673.html
+### token,cookie,Session
+- [token详解 ](http://blog.csdn.net/xunfeng13/article/details/52371562)
+- [jwt token ](http://www.jianshu.com/p/a7882080c541)
+- [基于Token的WEB后台认证机制 ](http://www.cnblogs.com/xiekeli/p/5607107.html)
+- [Session和Cookie的定义以及区别 ](http://www.cnblogs.com/windows/articles/1605634.html)
+- [content-type ](http://www.cnblogs.com/52fhy/p/5436673.html)
 
-20.ajax以及axios
-- axios http://www.jianshu.com/p/df464b26ae58
-- axios gihub https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format
 
-21 函数式编程
-- Ramda（中文文档） http://ramda.cn/docs/
-- Ramda（英文文档）http://ramdajs.com/
-- https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
-- 类似 ClojureScript/PureScript/Elm
+- [axios ](http://www.jianshu.com/p/df464b26ae58)
+- [axios gihub ](https://github.com/axios/axios#using-applicationx-www-form-urlencoded-format)
 
-22.g2和echart图表
-- g2官网 https://antv.alipay.com/zh-cn/g2/3.x/tutorial
-- 图表示例http://antvis.github.io/g2/demo/index.html
-- g2关系图 https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html#_关系图
+### 函数式编程
+-[Ramda（中文文档） ](http://ramda.cn/docs/)
 
-23.brew
-- brew 官网 https://brew.sh/index_zh-cn.html
+### 图表
+- [g2官网](https://antv.alipay.com/zh-cn/g2/3.x/tutorial)
+- [图表示例](http://antvis.github.io/g2/demo/index.html)
+- [g2关系图](https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html#_关系图)
+- [cesium 中文网](http://cesium.xin/)
 
-24.工具
-截整个网页的图：https://github.com/GoogleChrome/puppeteer
+### 攻击
+- [brew 官网](https://brew.sh/index_zh-cn.html)
+- [截整个网页的图](https://github.com/GoogleChrome/puppeteer)
 
-25.react源码解析
-- react源码分析 https://zhuanlan.zhihu.com/p/32520194
-- react源码分析 https://zhuanlan.zhihu.com/p/28697362
+
+- [react源码分析](https://zhuanlan.zhihu.com/p/32520194)
 
 26.深拷贝和浅拷贝
 - https://github.com/wengjq/Blog/issues/3
 
-27，umi官网
-- https://umijs.org/
-- umi demo https://dist-cmqnejpels.now.sh/home.html
+[umi官网](https://umijs.org/)
+- [umi demo](https://dist-cmqnejpels.now.sh/home.html)
 
-28.mobx官网
-- http://cn.mobx.js.org/
+- [mobx官网](http://cn.mobx.js.org/)
 
-29.MySql官网
-- https://github.com/jaywcjlove/mysql-tutorial
-- http://www.cnblogs.com/zhenyulu/articles/204227.html
+- [MySql官网](https://github.com/jaywcjlove/mysql-tutorial)
 
-30.cesium 中文网
-- http://cesium.xin/
 
-31.Fusion Design
-- https://fusion.design/
 
-32.Flutter
-- https://flutterchina.club/
 
-33.Taro
-- https://taro.aotu.io/
+- [Fusion Design](https://fusion.design/)
 
-34.Egg
-- https://eggjs.org/zh-cn/intro/index.html
 
-35.react-coat
-- https://github.com/wooline/react-coat/blob/master/README_zh-CN.md
 
-36.stylelint规则
-- https://segmentfault.com/a/1190000004588228
+- [Egg](https://eggjs.org/zh-cn/intro/index.html)
+
+
+- [react-coat]( https://github.com/wooline/react-coat/blob/master/README_zh-CN.md)
+
+- [stylelint规则](https://segmentfault.com/a/1190000004588228)
 
