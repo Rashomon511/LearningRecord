@@ -1,9 +1,9 @@
  #  学习资料 #
 
-1.js学习文档
-- 深入理解 JavaScript 异步 https://github.com/wangfupeng1988/js-async-tutorial
-- JavaScript教程 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
-- js前端书籍 https://f2edocs.com/books/
+### js学习文档
+- [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
+- [JavaScript教程 ](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [js前端书籍]( https://f2edocs.com/books/)
 - JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
 - js相关 http://www.zhangxinxu.com/wordpress/category/js/
 - ECMAScript 6 入门 http://es6.ruanyifeng.com/
