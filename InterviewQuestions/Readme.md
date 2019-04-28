@@ -20,7 +20,11 @@
 - [面试问题答案综合版](https://github.com/poetries/FE-Interview-Questions/issues/2)
 - [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
 - [“寒冬中”三年前端社招面试经验](https://juejin.im/post/5cb99067f265da038860b239?from=groupmessage&isappinstalled=0)
+- [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 ——————————————
+- [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
+- [2018年间大厂面试考题集锦(拼多多、饿了么、头条、蚂蚁等)](https://juejin.im/post/5c6297626fb9a04a0e2dada7)
+- [记一次前端大厂面试](https://www.zhihu.com/question/41466747/answer/603319365)
 - [三年前端，面试思考（头条蚂蚁美团offer）](https://mp.weixin.qq.com/s?__biz=MzI5MjUxNjA4Mw==&mid=2247484348&idx=1&sn=18f6467ddcb4376be022f72e903f7ebc&chksm=ec017a20db76f33677f5677d53d2a52a5b168fdd758abb967c9be5d5f173ff55276e27b55e1d&scene=0&xtrack=1&ascene=56&devicetype=iOS12.0.1&version=16070322&nettype=WIFI&abtest_cookie=BQABAAoACwANABMAFAAFACOXHgBZmR4AhZkeAIqZHgCMmR4AAAA%3D&lang=zh_CN&fontScale=100&pass_ticket=mvN3L77m1anuvk9fxaZLFPLf2Tmj4Av4WWay1z2eWoAgWd0hb4uj7gNE8vxNGxAn&wx_header=1)
 - [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
 - [2018大厂高级前端面试题汇总](https://mp.weixin.qq.com/s/T9vM95jj1GX3kaCOMCUGIw)
