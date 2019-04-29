@@ -350,6 +350,7 @@
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  - [canvas优化绘制性能]
  - [如何解决同步调用代码耗时太高的问题]
+ - [a.b.c.d 和 a['b']['c']['d']，哪个性能更高？](https://github.com/LuoShengMen/StudyNotes/issues/331)
 
  ### 其他
  - [代码提交错误时git的命令？gitflow概念？]
