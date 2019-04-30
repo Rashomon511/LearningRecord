@@ -30,6 +30,8 @@
  - [正则表达式学习参考 ](http://blog.csdn.net/lxcnn/article/details/4268033)
  
 ### 算法
+- [LeetcodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+- [在Object-C中学习数据结构与算法之排序算法](https://github.com/MisterBooo/Play-With-Sort-OC)
 - [十大经典排序算法总结（JavaScript描述）]( https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 - [leetCode ](https://leetcode.com/problemset/all/?difficulty=Easy)
 
@@ -102,6 +104,7 @@
 - [webpack多页应用架构系列（一）：一步一步解决架构痛点 ](https://github.com/454979849/better-webpack-multiple-pages)
 - [webpack热更新 ](https://segmentfault.com/a/1190000011151106)
 - [热更新 ](https://github.com/gaearon/react-transform-boilerplate)
+- [从零实现一个 Webpack Plugin](https://juejin.im/post/5cc6b457518825634d444365)
 
 ### less文档
 - [less文档](http://lesscss.cn/)
