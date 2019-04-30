@@ -289,10 +289,10 @@
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
  - [react如何区别component和dom](https://github.com/LuoShengMen/StudyNotes/issues/260)
- - [高阶组件和基类如何选择]
- - [forceUpdate经历了哪些生命周期，子组件呢?]
+ - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
+ - [forceUpdate经历了哪些生命周期，子组件呢?](https://github.com/LuoShengMen/StudyNotes/issues/333)
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
- - [HOC]
+ - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
  - [React Hooks]
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
