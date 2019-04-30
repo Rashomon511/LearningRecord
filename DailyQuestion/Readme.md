@@ -299,11 +299,11 @@
  - [redux如何更新组件](https://github.com/LuoShengMen/StudyNotes/issues/259)
  - [redux 为什么要把 reducer 设计成纯函数](https://github.com/LuoShengMen/StudyNotes/issues/282)
  - [redux-saga](https://github.com/LuoShengMen/StudyNotes/issues/256)
- - [dva](https://github.com/LuoShengMen/StudyNotes/issues/335)
+ - [dva](https://github.com/LuoShengMen/StudyNotes/issues/252)
  - [react-redux]
  - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级]
- - [react组件的优化]
- - [react组件的通信]
+ - [react组件的优化](https://github.com/LuoShengMen/StudyNotes/issues/335)
+ - [react组件的通信](https://github.com/LuoShengMen/StudyNotes/issues/336)
  - [react 的virtual dom和diff算法的实现方式]
  - [react的ssr了解么？大概怎么实现]
  - [react和vue更新机制的区别]
