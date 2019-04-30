@@ -1,16 +1,16 @@
  #  前端之路 #  
+ 
+- [前端知识框架](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
 
 - [学习读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
 - [每日面试题学习](//github.com/LuoShengMen/StudyNotes/tree/master/DailyQuestion)
 
-- [前端知识结构](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
+- [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
 - [前端库](https://github.com/XIN-G/awesome-f2e-libs)
-
-- [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
 
 - [解惑之文](https://github.com/LuoShengMen/StudyNotes/blob/master/Article/Readme.md)
 
