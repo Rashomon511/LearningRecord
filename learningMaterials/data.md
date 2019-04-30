@@ -28,6 +28,7 @@
  - [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html)
  - [JS正则表达式大全 ](http://www.blogjava.net/onejavaer/articles/79070.html)
  - [正则表达式学习参考 ](http://blog.csdn.net/lxcnn/article/details/4268033)
+ - [JS常用正则表达式备忘录](https://juejin.im/post/5cc64083f265da038a1480bd?utm_medium=fe&utm_source=weixinqun)
  
 ### 算法
 - [LeetcodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
