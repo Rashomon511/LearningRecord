@@ -9,6 +9,9 @@
 - [JavaScript 语言参考 ]( https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 
+### 技巧
+- [JS无形装逼，最为致命](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
+
 ### 异步编程
  - [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
  - [同步函数与异步函数 ](http://blog.csdn.net/ixidof/article/details/7108771)
