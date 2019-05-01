@@ -301,14 +301,14 @@
  - [redux-saga](https://github.com/LuoShengMen/StudyNotes/issues/256)
  - [dva](https://github.com/LuoShengMen/StudyNotes/issues/252)
  - [react-redux]
- - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级]
+ - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级](https://github.com/LuoShengMen/StudyNotes/issues/337)
  - [react组件的优化](https://github.com/LuoShengMen/StudyNotes/issues/335)
  - [react组件的通信](https://github.com/LuoShengMen/StudyNotes/issues/336)
- - [react 的virtual dom和diff算法的实现方式]
- - [react的ssr了解么？大概怎么实现]
- - [react和vue更新机制的区别]
- - [React的批量更新机制 BatchUpdates？]
- - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式]
+ - [react 的virtual dom和diff算法的实现方式](https://github.com/LuoShengMen/StudyNotes/issues/338)
+ - [react的ssr了解么？大概怎么实现](https://github.com/LuoShengMen/StudyNotes/issues/339)
+ - [react和vue更新机制的区别](https://github.com/LuoShengMen/StudyNotes/issues/340)
+ - [React的批量更新机制 BatchUpdates？](https://github.com/LuoShengMen/StudyNotes/issues/341)
+ - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式](https://github.com/LuoShengMen/StudyNotes/issues/342)
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
  - [Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
@@ -320,11 +320,11 @@
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
  - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
- - [vue 的双向绑定机制？详细介绍]
- - [原生js实现MVVM]
+ - [vue 的双向绑定机制？详细介绍](https://github.com/LuoShengMen/StudyNotes/issues/343)
+ - [原生js实现MVVM](https://github.com/LuoShengMen/StudyNotes/issues/344)
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
- - [react和vue你都使用过，说说它们的区别？]
- - [vue项目中如何约束rxjs数据的类型]
+ - [react和vue你都使用过，说说它们的区别？](https://github.com/LuoShengMen/StudyNotes/issues/345)
+ - [vue项目中如何约束rxjs数据的类型](https://github.com/LuoShengMen/StudyNotes/issues/346)
  
  ### 前端工程
  - [Webpack热更新实现原理?](https://github.com/LuoShengMen/StudyNotes/issues/202)
@@ -343,19 +343,18 @@
  ### 安全性能相关
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
- - [你会用什么工具来查找代码中的性能问题？]
- - [你会用什么方式来增强网站的页面滚动效能？]
- - [请解释 layout、painting 和 compositing 的区别]
+ - [你会用什么工具来查找代码中的性能问题？](https://github.com/LuoShengMen/StudyNotes/issues/347)
+ - [你会用什么方式来增强网站的页面滚动效能？](https://github.com/LuoShengMen/StudyNotes/issues/348)
+ - [请解释 layout、painting 和 compositing 的区别](https://github.com/LuoShengMen/StudyNotes/issues/349)
  - [页面性能监测](https://github.com/LuoShengMen/StudyNotes/issues/242)
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
- - [canvas优化绘制性能]
- - [如何解决同步调用代码耗时太高的问题]
+ - [canvas优化绘制性能](https://github.com/LuoShengMen/StudyNotes/issues/350)
  - [a.b.c.d 和 a['b']['c']['d']，哪个性能更高？](https://github.com/LuoShengMen/StudyNotes/issues/331)
 
  ### 其他
- - [代码提交错误时git的命令？gitflow概念？]
+ - [代码提交错误时git的命令？gitflow概念？](https://github.com/LuoShengMen/StudyNotes/issues/351)
  - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
- - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。]
+ - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。](https://github.com/LuoShengMen/StudyNotes/issues/352)
 
   
  ### Node
