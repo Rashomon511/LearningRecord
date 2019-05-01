@@ -411,8 +411,4 @@
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
  > 面试题来自于
- - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，
- - [面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md),
- - [fe9-interview](https://github.com/frontend9/fe9-interview)
- - [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
- -《你不知道的javascript》《javascript高级程序设计》侵删
+ - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md),[fe9-interview](https://github.com/frontend9/fe9-interview),[Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview),《你不知道的javascript》《javascript高级程序设计》侵删
