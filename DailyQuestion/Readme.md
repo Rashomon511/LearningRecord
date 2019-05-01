@@ -377,12 +377,12 @@
  - [apache,nginx有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/221)
 
  ### 测试相关
- - [对代码进行测试的有什么优缺点？]
- - [你会用什么工具测试你的代码功能？]
- - [单元测试与功能/集成测试的区别是什么？]
- - [代码风格 linting 工具的作用是什么？]
- - [单元测试编写有哪些原则]
- - [讲一讲自动化测试？]
+ - [对代码进行测试的有什么优缺点？](https://github.com/LuoShengMen/StudyNotes/issues/353)
+ - [你会用什么工具测试你的代码功能？](https://github.com/LuoShengMen/StudyNotes/issues/354)
+ - [单元测试与功能/集成测试的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/355)
+ - [代码风格 linting 工具的作用是什么？](https://github.com/LuoShengMen/StudyNotes/issues/356)
+ - [单元测试编写有哪些原则](https://github.com/LuoShengMen/StudyNotes/issues/357)
+ - [讲一讲自动化测试？](https://github.com/LuoShengMen/StudyNotes/issues/358)
 
  ### 开放性题目
  - [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
