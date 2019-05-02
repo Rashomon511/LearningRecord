@@ -70,6 +70,7 @@
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
  - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
+ - [简单实现async/await中的async函数](https://github.com/LuoShengMen/StudyNotes/issues/364)
  - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
@@ -167,6 +168,7 @@
  - [介绍下栅格系统 (grid system) ](https://github.com/LuoShengMen/StudyNotes/issues/291)
  - [flex布局介绍](https://github.com/LuoShengMen/StudyNotes/issues/292)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
+ - [1000-div问题](https://github.com/LuoShengMen/StudyNotes/issues/365)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
  - [css3有哪些新特性](https://github.com/LuoShengMen/StudyNotes/issues/94)
@@ -239,6 +241,9 @@
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
  - [请解释 HTTP status 301 与 302 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/317)
+ - [http的状态码中，499是什么？如何出现499，如何排查跟解决](https://github.com/LuoShengMen/StudyNotes/issues/359)
+ - [讲解一下HTTPS的工作原理](https://github.com/LuoShengMen/StudyNotes/issues/360)
+ - [讲解一下https对称加密和非对称加密](https://github.com/LuoShengMen/StudyNotes/issues/361)
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
@@ -342,6 +347,7 @@
  
  ### 安全性能相关
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
+ - [前后端分离的项目如何seo](https://github.com/LuoShengMen/StudyNotes/issues/363)
  - [如何进行网站性能优化](https://github.com/LuoShengMen/StudyNotes/issues/67)
  - [你会用什么工具来查找代码中的性能问题？](https://github.com/LuoShengMen/StudyNotes/issues/347)
  - [你会用什么方式来增强网站的页面滚动效能？](https://github.com/LuoShengMen/StudyNotes/issues/348)
@@ -350,11 +356,14 @@
  - [网页验证码是干嘛的，是为了解决什么安全问题](https://github.com/LuoShengMen/StudyNotes/issues/190)
  - [canvas优化绘制性能](https://github.com/LuoShengMen/StudyNotes/issues/350)
  - [a.b.c.d 和 a['b']['c']['d']，哪个性能更高？](https://github.com/LuoShengMen/StudyNotes/issues/331)
+ - [2万小球问题：在浏览器端，用js存储2万个小球的信息，包含小球的大小，位置，颜色等，如何做到对这2万条小球信息进行最优检索和存储](https://github.com/LuoShengMen/StudyNotes/issues/366)
+ - [100亿排序问题：内存不足，一次只允许你装载和操作1亿条数据，如何对100亿条数据进行排序](https://github.com/LuoShengMen/StudyNotes/issues/367)
 
  ### 其他
  - [代码提交错误时git的命令？gitflow概念？](https://github.com/LuoShengMen/StudyNotes/issues/351)
  - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。](https://github.com/LuoShengMen/StudyNotes/issues/352)
+ - [git时光机问题](https://github.com/airuikun/blog/issues/5)
 
   
  ### Node
