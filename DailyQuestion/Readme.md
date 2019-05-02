@@ -21,6 +21,7 @@
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
  - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
+ - [Object.is() 与比较操作符 ===、== 有什么区别](https://github.com/LuoShengMen/StudyNotes/issues/374)
  - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思](https://github.com/LuoShengMen/StudyNotes/issues/271)
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
  - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
@@ -68,21 +69,27 @@
  - [手写一个promise及其 polyfills 实现,如何实现多个请求并行？]
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
  - [如何实现 Promise.finally ](https://github.com/LuoShengMen/StudyNotes/issues/148)
+ - [如何实现 Promise.race](https://github.com/LuoShengMen/StudyNotes/issues/369)
  - [Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/LuoShengMen/StudyNotes/issues/33)
  - [setTimeout、Promise、Async/Await 的区别](https://github.com/LuoShengMen/StudyNotes/issues/22)
  - [简单实现async/await中的async函数](https://github.com/LuoShengMen/StudyNotes/issues/364)
+ - [使用 async/await 需要注意什么？](https://github.com/LuoShengMen/StudyNotes/issues/368)
  - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [手写 Proxy / Object.defineProperty]
+ - [实现双向绑定 Proxy 与 Object.defineProperty 相比优劣如何]
+ - [简述下对 webWorker 的理解？](https://github.com/LuoShengMen/StudyNotes/issues/370)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
+ - [ES6模块和CommonJS模块的差异？](https://github.com/LuoShengMen/StudyNotes/issues/371)
  - [介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块](https://github.com/LuoShengMen/StudyNotes/issues/40)
  - [线性顺序存储结构和链式存储结构有什么区别？以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/171)
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
  - [什么是事件循环 (event loop)？](https://github.com/LuoShengMen/StudyNotes/issues/278)
+ - [js如何自定义事件？](https://github.com/LuoShengMen/StudyNotes/issues/373)
  - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/278)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/78)
@@ -285,6 +292,7 @@
  - [请指出浏览器特性检测，特性推断和浏览器 UA 字符串嗅探的区别](https://github.com/LuoShengMen/StudyNotes/issues/325)
  - [serviceworker如何保证离线缓存资源更新](https://github.com/LuoShengMen/StudyNotes/issues/328)
  - [CI/CD流程](https://github.com/LuoShengMen/StudyNotes/issues/329)
+ - [浏览器事件代理机制的原理是什么？](https://github.com/LuoShengMen/StudyNotes/issues/372)
   
   
  ### 框架面试题
