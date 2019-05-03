@@ -79,6 +79,7 @@
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
  - [手写 Proxy / Object.defineProperty]
  - [实现双向绑定 Proxy 与 Object.defineProperty 相比优劣如何]
+ - [Web Worker 通常应用于哪些方面](https://github.com/LuoShengMen/StudyNotes/issues/375)
  - [简述下对 webWorker 的理解？](https://github.com/LuoShengMen/StudyNotes/issues/370)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
  - [AMD、CMD的分别](https://github.com/LuoShengMen/StudyNotes/issues/120)
