@@ -24,6 +24,10 @@
 ## Blog
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
+ * [你得搞明白的浏览器的运行机制]
+ * [从头手写一个Promise]
+ * [你不知道的类型转换]
+ 
 
 ## js高级程序设计
 
