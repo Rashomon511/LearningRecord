@@ -297,17 +297,25 @@
   
   
  ### 框架面试题
+ - [react 的virtual dom和diff算法的实现方式](https://github.com/LuoShengMen/StudyNotes/issues/338)
  - [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  - [实现组件有哪些方式？](https://github.com/LuoShengMen/StudyNotes/issues/330)
  - [写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/15)
  - [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/LuoShengMen/StudyNotes/issues/38)
  - [React setState 笔试题，下面的代码输出什么？](https://github.com/LuoShengMen/StudyNotes/issues/39)
+ - [React的批量更新机制 BatchUpdates？](https://github.com/LuoShengMen/StudyNotes/issues/341)
  - [react如何区别component和dom](https://github.com/LuoShengMen/StudyNotes/issues/260)
- - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
+ - [react组件的通信](https://github.com/LuoShengMen/StudyNotes/issues/336)
+ - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级](https://github.com/LuoShengMen/StudyNotes/issues/337)
+ - [react组件的优化](https://github.com/LuoShengMen/StudyNotes/issues/335)
  - [forceUpdate经历了哪些生命周期，子组件呢?](https://github.com/LuoShengMen/StudyNotes/issues/333)
+ - [react事件机制](https://github.com/LuoShengMen/StudyNotes/issues/376)
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
- - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
  - [React Hooks]
+ - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
+ - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
+ - [react的ssr了解么？大概怎么实现](https://github.com/LuoShengMen/StudyNotes/issues/339)
+ - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
  - [redux如何更新组件](https://github.com/LuoShengMen/StudyNotes/issues/259)
@@ -315,15 +323,10 @@
  - [redux-saga](https://github.com/LuoShengMen/StudyNotes/issues/256)
  - [dva](https://github.com/LuoShengMen/StudyNotes/issues/252)
  - [react-redux]
- - [a组件在b组件内，c组件在a组件内，如何让他渲染出来，a组件和c组件同级](https://github.com/LuoShengMen/StudyNotes/issues/337)
- - [react组件的优化](https://github.com/LuoShengMen/StudyNotes/issues/335)
- - [react组件的通信](https://github.com/LuoShengMen/StudyNotes/issues/336)
- - [react 的virtual dom和diff算法的实现方式](https://github.com/LuoShengMen/StudyNotes/issues/338)
- - [react的ssr了解么？大概怎么实现](https://github.com/LuoShengMen/StudyNotes/issues/339)
+ - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
+ - [react和vue你都使用过，说说它们的区别？](https://github.com/LuoShengMen/StudyNotes/issues/345)
  - [react和vue更新机制的区别](https://github.com/LuoShengMen/StudyNotes/issues/340)
- - [React的批量更新机制 BatchUpdates？](https://github.com/LuoShengMen/StudyNotes/issues/341)
  - [MVC、MVVM了区别，数据双向绑定和单向绑定实现方式](https://github.com/LuoShengMen/StudyNotes/issues/342)
- - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [virtual dom 原理实现](https://github.com/LuoShengMen/StudyNotes/issues/158)
  - [Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](https://github.com/LuoShengMen/StudyNotes/issues/52)
  - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/LuoShengMen/StudyNotes/issues/68)
@@ -333,11 +336,9 @@
  - [双向绑定和 vuex 是否冲突](https://github.com/LuoShengMen/StudyNotes/issues/82)
  - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/136)
  - [Proxy 相比于 defineProperty 的优势](https://github.com/LuoShengMen/StudyNotes/issues/159)
- - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
  - [vue 的双向绑定机制？详细介绍](https://github.com/LuoShengMen/StudyNotes/issues/343)
  - [原生js实现MVVM](https://github.com/LuoShengMen/StudyNotes/issues/344)
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
- - [react和vue你都使用过，说说它们的区别？](https://github.com/LuoShengMen/StudyNotes/issues/345)
  - [vue项目中如何约束rxjs数据的类型](https://github.com/LuoShengMen/StudyNotes/issues/346)
  
  ### 前端工程
@@ -350,6 +351,7 @@
  - [tree-shaking 的工作原理]
  - [code splitting用的是什么插件]
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
+ - [webpack优化问题：多页面提取公共资源](https://github.com/LuoShengMen/StudyNotes/issues/377)
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  - [babel、babel-polyfill的区别](https://github.com/LuoShengMen/StudyNotes/issues/261)
