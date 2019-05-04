@@ -369,6 +369,8 @@
  - [a.b.c.d 和 a['b']['c']['d']，哪个性能更高？](https://github.com/LuoShengMen/StudyNotes/issues/331)
  - [2万小球问题：在浏览器端，用js存储2万个小球的信息，包含小球的大小，位置，颜色等，如何做到对这2万条小球信息进行最优检索和存储](https://github.com/LuoShengMen/StudyNotes/issues/366)
  - [100亿排序问题：内存不足，一次只允许你装载和操作1亿条数据，如何对100亿条数据进行排序](https://github.com/LuoShengMen/StudyNotes/issues/367)
+ - [负载均衡](https://github.com/LuoShengMen/StudyNotes/issues/378)
+ - [什么是CDN缓存](https://github.com/LuoShengMen/StudyNotes/issues/379)
 
  ### 其他
  - [代码提交错误时git的命令？gitflow概念？](https://github.com/LuoShengMen/StudyNotes/issues/351)
