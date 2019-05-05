@@ -352,6 +352,7 @@
  - [code splitting用的是什么插件]
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
  - [webpack优化问题：多页面提取公共资源](https://github.com/LuoShengMen/StudyNotes/issues/377)
+ - [ES6 代码转成 ES5 代码的实现思路是什么](https://github.com/LuoShengMen/StudyNotes/issues/380)
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  - [babel、babel-polyfill的区别](https://github.com/LuoShengMen/StudyNotes/issues/261)
