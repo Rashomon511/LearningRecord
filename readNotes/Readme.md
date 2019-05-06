@@ -27,6 +27,7 @@
  * [你得搞明白的浏览器的运行机制]
  * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
  * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
+ * [AMD、CMD、CommonJS浅析]
  
 
 ## js高级程序设计
