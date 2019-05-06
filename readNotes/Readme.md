@@ -59,6 +59,9 @@
 * [前端数据流管理方案之三——mbox](https://github.com/LuoShengMen/StudyNotes/issues/249)
 * [端数据流管理方案之四——Vuex](https://github.com/LuoShengMen/StudyNotes/issues/251)
 
+## webpack
+* [webpack4学习笔记(一)](https://github.com/LuoShengMen/StudyNotes/issues/383)
+
 ## js正则表达式迷你书
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
  * [正则表达式学习总结(二)](https://github.com/LuoShengMen/StudyNotes/issues/166)
@@ -66,4 +69,5 @@
  * [正则表达式学习总结(四)](https://github.com/LuoShengMen/StudyNotes/issues/173)
 
 
- - 待续
+
+———— 待续
