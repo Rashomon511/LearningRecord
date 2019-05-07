@@ -108,6 +108,7 @@
  - [前端跟踪](https://github.com/LuoShengMen/StudyNotes/issues/288)
  - [JWT优缺点](https://github.com/LuoShengMen/StudyNotes/issues/286)
  - [介绍下如何实现 token 加密](https://github.com/LuoShengMen/StudyNotes/issues/281)
+ - [100 * 100 的 Canvas 占内存多大？](https://github.com/LuoShengMen/StudyNotes/issues/385)
 
  
   ### js笔试题
@@ -410,6 +411,7 @@
  - [讲一讲自动化测试？](https://github.com/LuoShengMen/StudyNotes/issues/358)
 
  ### 开放性题目
+ - [技术选型、前端工程化、架构、设计模式、复杂模块、性能、安全问题、团队管理]
  - [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
  - [你最熟悉哪一套版本控制系统？]
  - [你能描述当你制作一个网页的工作流程吗]
@@ -426,7 +428,21 @@
  - [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
  - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
  - [你使用哪些工具和技术来调试 JavaScript 代码]
+ 
+ ### 反问环节
+ - [目前咱们的业务，有一个什么样时间规划，这期间有哪些milestone]
+ - [我的过往工作经历，有哪些是对咱们团队有帮助的？]
+ - [您对我在团队中的定位是怎么样的]
+ - [对于团队成员的成长，您有哪些方案]
 
+### 技巧
+- 确定核心诉求、筛选目标公司
+- 一份确保可以拿到 offer 的简历
+- 打磨自我介绍
+- 打磨项目介绍
+- 面试录音（征得许可后）、面后复盘
+- 私下与业务负责人互动
+- offer 谈判
 
  ### 算法学习
  - [动画学习算法](https://github.com/MisterBooo/LeetCodeAnimation)
