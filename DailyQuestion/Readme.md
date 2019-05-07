@@ -213,6 +213,7 @@
  - [请问为何要使用 translate() 而非 absolute positioning，或反之的理由？为什么？](https://github.com/LuoShengMen/StudyNotes/issues/302)
  - [你用过媒体查询，或针对移动端的布局/CSS吗？](https://github.com/LuoShengMen/StudyNotes/issues/327)
  - [贝塞尔曲线](https://github.com/LuoShengMen/StudyNotes/issues/303)
+ - [如何解决移动端 Retina 屏 1px 像素问题](https://github.com/LuoShengMen/StudyNotes/issues/384)
   
  
  ### html面试题
