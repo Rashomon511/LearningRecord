@@ -18,7 +18,7 @@
   - [ ] 深入浅出Node.js
   - [ ] Node.js实战
   - [ ] Node与Express开发
-  - [ ] js正则表达式迷你书
+  - [x] js正则表达式迷你书
   - [x] css揭秘
   
 ## Blog
