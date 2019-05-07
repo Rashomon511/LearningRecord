@@ -22,11 +22,13 @@
   - [x] css揭秘
   
 ## Blog
+ * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
+ * [this指向](https://github.com/LuoShengMen/StudyNotes/issues/25)
+ * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
+ * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
  * [你得搞明白的浏览器的运行机制]
- * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
- * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
  * [AMD、CMD、CommonJS浅析]
  
 
@@ -42,9 +44,7 @@
  * [你不知道的js(上)](https://github.com/LuoShengMen/StudyNotes/issues/224)
  * [你不知道的js(中)](https://github.com/LuoShengMen/StudyNotes/issues/225)
  * [你不知道的js(下)](https://github.com/LuoShengMen/StudyNotes/issues/80)
- * [this指向](https://github.com/LuoShengMen/StudyNotes/issues/25)
  * [js中容易忽略的小点](https://github.com/LuoShengMen/StudyNotes/issues/26)
- * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
  
 ## React
  * [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
