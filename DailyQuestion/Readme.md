@@ -109,6 +109,7 @@
  - [JWT优缺点](https://github.com/LuoShengMen/StudyNotes/issues/286)
  - [介绍下如何实现 token 加密](https://github.com/LuoShengMen/StudyNotes/issues/281)
  - [100 * 100 的 Canvas 占内存多大？](https://github.com/LuoShengMen/StudyNotes/issues/385)
+ - [说说svg和canvas各自的优缺点？](https://github.com/LuoShengMen/StudyNotes/issues/395)
 
  
   ### js笔试题
@@ -152,7 +153,9 @@
  - [如何设计实现无缝轮播](https://github.com/LuoShengMen/StudyNotes/issues/205)
  - [随机生成一个长度为 10 的整数类型的数组，例如 [2, 10, 3, 4, 5, 11, 10, 11, 20]，将其排列成一个新数组，要求新数组形式如下，例如 [[2, 3, 4, 5], [10, 11], [20]]](https://github.com/LuoShengMen/StudyNotes/issues/382)
  - [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' ](https://github.com/LuoShengMen/StudyNotes/issues/386)
- 
+ - [实现Storage，使得该对象为单例，并对localStorage进行封装设置值setItem(key,value)和getItem(key)](https://github.com/LuoShengMen/StudyNotes/issues/388)
+ - [数组[1,2,3,4]，请实现算法，得到这个数组的全排列的数组，如[2,1,3,4]，[2,1,4,3]。。。。](https://github.com/LuoShengMen/StudyNotes/issues/392)
+ - [我现在有一个背包，容量为m，然后有n个货物，重量分别为w1,w2,w3...wn，每个货物的价值是v1,v2,v3...vn，w和v没有任何关系，请求背包能装下的最大价值]
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -216,6 +219,7 @@
  - [你用过媒体查询，或针对移动端的布局/CSS吗？](https://github.com/LuoShengMen/StudyNotes/issues/327)
  - [贝塞尔曲线](https://github.com/LuoShengMen/StudyNotes/issues/303)
  - [如何解决移动端 Retina 屏 1px 像素问题](https://github.com/LuoShengMen/StudyNotes/issues/384)
+ - [我现在有一个进度条，进度条中间有一串文字，当我的进度条覆盖了文字之后，文字要与进度条反色，怎么实现？](https://github.com/LuoShengMen/StudyNotes/issues/391)
   
  
  ### html面试题
@@ -232,6 +236,7 @@
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
  - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系](https://github.com/LuoShengMen/StudyNotes/issues/238)
  - [DOM事件中target和currentTarget的区别](https://github.com/LuoShengMen/StudyNotes/issues/243)
+ - [事件流](https://github.com/LuoShengMen/StudyNotes/issues/390)
  - [focus/blur与focusin/focusout的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/240)
  - [mouseover/mouseout与mouseenter/mouseleave的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/241)
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
@@ -248,7 +253,8 @@
  - [请描述<script>、<script async>和<script defer>的区别](https://github.com/LuoShengMen/StudyNotes/issues/314)
  - [在什么时候你会使用 document.write()](https://github.com/LuoShengMen/StudyNotes/issues/274)
  - [请指出 document load 和 document DOMContentLoaded 两个事件的区别](https://github.com/LuoShengMen/StudyNotes/issues/276)
- 
+ - [实现效果，点击容器内的图标，图标边框变成border 1px solid red，点击空白处重置](https://github.com/LuoShengMen/StudyNotes/issues/387)
+ - [现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？](https://github.com/LuoShengMen/StudyNotes/issues/394)
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
@@ -275,6 +281,8 @@
  
  ### 浏览器面试题
  - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
+ - [说一下浏览器的缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/393)
+ - [ ETag是这个字符串是怎么生成的？]
  - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
  - [Web Worker](https://github.com/LuoShengMen/StudyNotes/issues/155)
@@ -319,6 +327,7 @@
  - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
  - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
  - [react的ssr了解么？大概怎么实现](https://github.com/LuoShengMen/StudyNotes/issues/339)
+ - [react有什么坑点 ](https://github.com/LuoShengMen/StudyNotes/issues/389)
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
@@ -413,6 +422,7 @@
 
  ### 开放性题目
  - [技术选型、前端工程化、架构、设计模式、复杂模块、性能、安全问题、团队管理]
+ - [公司的研发发布流程]
  - [你用的得心应手用的熟练地编辑器&开发环境是什么样子？]
  - [你最熟悉哪一套版本控制系统？]
  - [你能描述当你制作一个网页的工作流程吗]
@@ -423,12 +433,14 @@
  - [除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？]
  - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
  - [你在现在的团队处于什么样的角色，起到了什么明显的作用？]
- - [介绍一个你最得意的作品吧？]
  - [你有自己的技术博客吗，用了哪些技术？]
  - [你的优点是什么？缺点是什么？]
  - [最近在学什么？能谈谈你未来3，5年给自己的规划吗？]
  - [对前端工程师这个职位是怎么样理解的？它的前景会怎么样？]
  - [你使用哪些工具和技术来调试 JavaScript 代码]
+ - [你的技术有什么特点]
+ - [说一下你觉得你最得意的一个项目？你这个项目有什么缺陷，弊端吗？]
+ - [说一下你上一家公司的主要业务流程，你参与到其中了吗？]
  
  ### 反问环节
  - [目前咱们的业务，有一个什么样时间规划，这期间有哪些milestone]
