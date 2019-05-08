@@ -110,7 +110,8 @@
  - [介绍下如何实现 token 加密](https://github.com/LuoShengMen/StudyNotes/issues/281)
  - [100 * 100 的 Canvas 占内存多大？](https://github.com/LuoShengMen/StudyNotes/issues/385)
  - [说说svg和canvas各自的优缺点？](https://github.com/LuoShengMen/StudyNotes/issues/395)
-
+ - [描述二叉树的几种遍历方式？](https://github.com/LuoShengMen/StudyNotes/issues/396)
+ - [CDN的原理](https://github.com/LuoShengMen/StudyNotes/issues/397)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
