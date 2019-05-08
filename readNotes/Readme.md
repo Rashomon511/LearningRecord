@@ -30,6 +30,7 @@
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
  * [你得搞明白的浏览器的运行机制]
  * [AMD、CMD、CommonJS浅析]
+ * [柯里化函数]
  
 
 ## js高级程序设计
