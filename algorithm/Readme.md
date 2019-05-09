@@ -18,3 +18,5 @@
 - [第 16 题：最后一个单词的长度](https://github.com/LuoShengMen/StudyNotes/issues/10)
 - [第 17 题：有n个硬币，其中1个为假币，假币重量较轻，你有一把天平，请问，至少需要称多少次能保证一定找到假币?](https://github.com/LuoShengMen/StudyNotes/issues/162)
 - [第 18题：加一](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E5%85%AB%E9%A2%98.md)
+- [数组[1,2,3,4]，请实现算法，得到这个数组的全排列的数组，如[2,1,3,4]，[2,1,4,3]](https://github.com/LuoShengMen/StudyNotes/issues/392)
+- [我现在有一个背包，容量为m，然后有n个货物，重量分别为w1,w2,w3...wn，每个货物的价值是v1,v2,v3...vn，w和v没有任何关系，请求背包能装下的最大价值](https://github.com/LuoShengMen/StudyNotes/issues/398)
