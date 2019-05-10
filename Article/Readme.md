@@ -11,3 +11,4 @@
  - [如何衡量一个人的 JavaScript 水平？](https://www.zhihu.com/question/22855484/answer/657320514)
  - [那些年的体验技术部](https://www.yuque.com/afx/blog/those-days?from=timeline&isappinstalled=0)
  - [面试思考](https://mp.weixin.qq.com/s?__biz=MzI5MjUxNjA4Mw==&mid=2247484348&idx=1&sn=18f6467ddcb4376be022f72e903f7ebc&chksm=ec017a20db76f33677f5677d53d2a52a5b168fdd758abb967c9be5d5f173ff55276e27b55e1d&scene=0&xtrack=1&ascene=56&devicetype=iOS12.0.1&version=16070322&nettype=WIFI&abtest_cookie=BQABAAoACwANABMAFAAFACOXHgBZmR4AhZkeAIqZHgCMmR4AAAA%3D&lang=zh_CN&fontScale=100&pass_ticket=mvN3L77m1anuvk9fxaZLFPLf2Tmj4Av4WWay1z2eWoAgWd0hb4uj7gNE8vxNGxAn&wx_header=1)
+ - [一名【合格】前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64098516)
