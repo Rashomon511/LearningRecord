@@ -38,6 +38,7 @@
  - [Object.assion()和...解构的区别](https://github.com/LuoShengMen/StudyNotes/issues/283)
  - [何为作用域链](https://github.com/LuoShengMen/StudyNotes/issues/59)
  - [执行上下文(EC)](https://github.com/LuoShengMen/StudyNotes/issues/150)
+ - [为什么 var 可以重复声明](https://github.com/LuoShengMen/StudyNotes/issues/402)
  - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
  - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
  - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
@@ -149,6 +150,7 @@
  - [如何设计实现无缝轮播](https://github.com/LuoShengMen/StudyNotes/issues/205)
  - [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' ](https://github.com/LuoShengMen/StudyNotes/issues/386)
  - [实现Storage，使得该对象为单例，并对localStorage进行封装设置值setItem(key,value)和getItem(key)](https://github.com/LuoShengMen/StudyNotes/issues/388)
+ - [实现一个持续的动画效果](https://github.com/LuoShengMen/StudyNotes/issues/400)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -171,6 +173,7 @@
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
+ - [右边宽度固定，左边自适应]()
  - [常见的几种布局？垂直水平居中的多种实现方法？等高栏的几种实现方法？](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [介绍下栅格系统 (grid system) ](https://github.com/LuoShengMen/StudyNotes/issues/291)
  - [flex布局介绍](https://github.com/LuoShengMen/StudyNotes/issues/292)
