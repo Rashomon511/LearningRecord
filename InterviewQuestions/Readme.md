@@ -31,7 +31,6 @@
 - [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
 - [2018大厂高级前端面试题汇总](https://mp.weixin.qq.com/s/T9vM95jj1GX3kaCOMCUGIw)
 - [2018阿里巴巴前端面试总结](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
-- ——————————————
 - [19秋招面经续](https://juejin.im/post/5b7432076fb9a009820daa37)
 - [19秋招面经](https://juejin.im/post/5b5193e6e51d4519133fa700)
 - [百度阿里网易大疆等大小厂前端校招面筋 | 掘金技术征文](https://juejin.im/post/5bb470295188255c5e66f88f)
@@ -39,4 +38,3 @@
 - [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://segmentfault.com/a/1190000015591521)
 - [一点感悟：当走完所有大厂的实习面试后](https://juejin.im/post/5b68f384f265da0fa00a3df0)
 - [新鲜出炉的8月前端面试题](https://segmentfault.com/a/1190000015916686)
-- [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/603319365)
