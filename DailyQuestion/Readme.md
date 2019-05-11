@@ -123,7 +123,7 @@
  - [二维码怎么工作的，扫描pc端的二维码，怎么让pc端登录](https://github.com/LuoShengMen/StudyNotes/issues/414)
  - [Object.freeze和Object.seal的区别](https://github.com/LuoShengMen/StudyNotes/issues/417)
  - [mouseover和mouseenter的区别](https://github.com/LuoShengMen/StudyNotes/issues/420)
- - [一个图片url访问后直接下载怎样实现？]
+ - [一个图片url访问后直接下载怎样实现？](https://github.com/LuoShengMen/StudyNotes/issues/440)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
