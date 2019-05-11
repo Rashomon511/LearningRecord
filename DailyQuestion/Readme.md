@@ -8,6 +8,7 @@
   3.题目类型涉及js,css,html理论知识，浏览器知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
   
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
+  > 高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
