@@ -1,6 +1,6 @@
  #  学习阅读笔记 #
  
- ## 书单
+ ## 书单 —— > 不是爱书即欲死，任从人笑作书颠
   - [ ] JavaScript基础教程
   - [ ] JavaScript DOM编程艺术
   - [ ] JavaScript编程全解
