@@ -27,3 +27,5 @@
  - [第 25 题：如何实现下列代码：[1,2,3,4,5].duplicator(); // [1,2,3,4,5,1,2,3,4,5]](https://github.com/LuoShengMen/StudyNotes/issues/275)
  - [第 26 题：实现一个乱序数组](https://github.com/LuoShengMen/StudyNotes/issues/279)
  - [第 27 题：随机生成一个长度为 10 的整数类型的数组，例如 [2, 10, 3, 4, 5, 11, 10, 11, 20]，将其排列成一个新数组，要求新数组形式如下，例如 [[2, 3, 4, 5], [10, 11], [20]]](https://github.com/LuoShengMen/StudyNotes/issues/382)
+ - [在一个无序数组中，寻找连续两个及两个以上的相同元素的个数]
+ - [判断一棵二叉树是对称的]
