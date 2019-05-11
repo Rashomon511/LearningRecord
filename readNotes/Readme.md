@@ -29,6 +29,7 @@
  * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
  * [你得搞明白的浏览器的运行机制]
+ * [手写 Proxy / Object.defineProperty]
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
  * [webpack构建优化和性能优化]
