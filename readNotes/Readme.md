@@ -32,7 +32,8 @@
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
  * [webpack构建优化和性能优化]
-  * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
+ * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
+ * [解构赋值搞一搞]
  
 
 ## js高级程序设计
