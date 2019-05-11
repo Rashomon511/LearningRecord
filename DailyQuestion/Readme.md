@@ -113,6 +113,11 @@
  - [说说svg和canvas各自的优缺点？](https://github.com/LuoShengMen/StudyNotes/issues/395)
  - [描述二叉树的几种遍历方式？](https://github.com/LuoShengMen/StudyNotes/issues/396)
  - [CDN的原理](https://github.com/LuoShengMen/StudyNotes/issues/397)
+ - [用过哪些设计模式](https://github.com/LuoShengMen/StudyNotes/issues/407)
+ - [重载和重写有什么区别](https://github.com/LuoShengMen/StudyNotes/issues/408)
+ - [怎么计算在一个页面上的停留时间](https://github.com/LuoShengMen/StudyNotes/issues/413)
+ - [二维码怎么工作的，扫描pc端的二维码，怎么让pc端登录](https://github.com/LuoShengMen/StudyNotes/issues/414)
+ - [Object.freeze和Object.seal的区别](https://github.com/LuoShengMen/StudyNotes/issues/417)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -151,6 +156,8 @@
  - [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' ](https://github.com/LuoShengMen/StudyNotes/issues/386)
  - [实现Storage，使得该对象为单例，并对localStorage进行封装设置值setItem(key,value)和getItem(key)](https://github.com/LuoShengMen/StudyNotes/issues/388)
  - [实现一个持续的动画效果](https://github.com/LuoShengMen/StudyNotes/issues/400)
+ - [如何每隔三个数加一个逗号，还要考虑小数点的情况](https://github.com/LuoShengMen/StudyNotes/issues/410)
+ - [手写indexOf](https://github.com/LuoShengMen/StudyNotes/issues/411)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -173,10 +180,11 @@
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
- - [右边宽度固定，左边自适应]()
+ - [右边宽度固定，左边自适应](https://github.com/LuoShengMen/StudyNotes/issues/401)
  - [常见的几种布局？垂直水平居中的多种实现方法？等高栏的几种实现方法？](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [介绍下栅格系统 (grid system) ](https://github.com/LuoShengMen/StudyNotes/issues/291)
  - [flex布局介绍](https://github.com/LuoShengMen/StudyNotes/issues/292)
+ - [align-items和justify-content的区别](https://github.com/LuoShengMen/StudyNotes/issues/409)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [1000-div问题](https://github.com/LuoShengMen/StudyNotes/issues/365)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
@@ -219,6 +227,7 @@
   
  
  ### html面试题
+ - [meta标签](https://github.com/LuoShengMen/StudyNotes/issues/405)
  - [doctype(文档类型) 的作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/316)
  - [HTML全局属性(global attribute)有哪些](https://github.com/LuoShengMen/StudyNotes/issues/236)
  - [HTML元素介绍](https://github.com/LuoShengMen/StudyNotes/issues/84)
@@ -251,6 +260,8 @@
  - [请指出 document load 和 document DOMContentLoaded 两个事件的区别](https://github.com/LuoShengMen/StudyNotes/issues/276)
  - [实现效果，点击容器内的图标，图标边框变成border 1px solid red，点击空白处重置](https://github.com/LuoShengMen/StudyNotes/issues/387)
  - [现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？](https://github.com/LuoShengMen/StudyNotes/issues/394)
+ - [怎么从十万个节点中找到想要的节点，怎么快速在某个节点前插入一个节点](https://github.com/LuoShengMen/StudyNotes/issues/404)
+ - [操作dom有哪些方法](https://github.com/LuoShengMen/StudyNotes/issues/412)
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
@@ -273,12 +284,13 @@
  - [TCP有哪些手段保证可靠交付](https://github.com/LuoShengMen/StudyNotes/issues/320)
  - [DNS 解析过程,DNS解析会出错吗，为什么](https://github.com/LuoShengMen/StudyNotes/issues/321)
  - [如何应对流量劫持](https://github.com/LuoShengMen/StudyNotes/issues/322)
+ - [画一下OSI七层模型](https://github.com/LuoShengMen/StudyNotes/issues/406)
  
  
  ### 浏览器面试题
  - [浏览器的工作流程，从Url输入发生了什么](https://github.com/LuoShengMen/StudyNotes/issues/61)
  - [说一下浏览器的缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/393)
- - [ ETag是这个字符串是怎么生成的？]
+ - [ ETag是这个字符串是怎么生成的？](https://github.com/LuoShengMen/StudyNotes/issues/403)
  - [介绍一下你对浏览器内核的理解？](https://github.com/LuoShengMen/StudyNotes/issues/72)
  - [浏览器缓存可以分成 Service Worker、Memory Cache、Disk Cache 和 Push Cache，那请求的时候 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/LuoShengMen/StudyNotes/issues/60)
  - [Web Worker](https://github.com/LuoShengMen/StudyNotes/issues/155)
@@ -302,6 +314,7 @@
  - [serviceworker如何保证离线缓存资源更新](https://github.com/LuoShengMen/StudyNotes/issues/328)
  - [CI/CD流程](https://github.com/LuoShengMen/StudyNotes/issues/329)
  - [浏览器事件代理机制的原理是什么？](https://github.com/LuoShengMen/StudyNotes/issues/372)
+ - [浏览器内核有哪些，移动端用的是哪个](https://github.com/LuoShengMen/StudyNotes/issues/415)
   
   
  ### 框架面试题
@@ -365,6 +378,7 @@
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  - [babel、babel-polyfill的区别](https://github.com/LuoShengMen/StudyNotes/issues/261)
+ - [简单说一下pwa]
  
  ### 安全性能相关
  - [前端需要注意哪些SEO](https://github.com/LuoShengMen/StudyNotes/issues/2)
@@ -387,6 +401,7 @@
  - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。](https://github.com/LuoShengMen/StudyNotes/issues/352)
  - [git时光机问题](https://github.com/airuikun/blog/issues/5)
+ - [git push -u 是什么意思](https://github.com/LuoShengMen/StudyNotes/issues/416)
 
   
  ### Node
