@@ -20,6 +20,7 @@
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
  - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
+ - [深浅拷贝](https://github.com/LuoShengMen/StudyNotes/issues/432)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
  - [Object.is() 与比较操作符 ===、== 有什么区别](https://github.com/LuoShengMen/StudyNotes/issues/374)
  - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思](https://github.com/LuoShengMen/StudyNotes/issues/271)
@@ -47,6 +48,7 @@
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
+ - [Function.__proto__(getPrototypeOf)是什么？](https://github.com/LuoShengMen/StudyNotes/issues/423)
  - [this的用法以及优先级](https://github.com/LuoShengMen/StudyNotes/issues/58)
  - [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/LuoShengMen/StudyNotes/issues/85)
  - [请解释 Function.prototype.bind](https://github.com/LuoShengMen/StudyNotes/issues/267)
@@ -90,6 +92,7 @@
  - [解释一下何为面向对象编程](https://github.com/LuoShengMen/StudyNotes/issues/63)
  - [什么是面向对象编程及面向过程编程，它们的异同和优缺点](https://github.com/LuoShengMen/StudyNotes/issues/131)
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
+ - [事件流](https://github.com/LuoShengMen/StudyNotes/issues/390)
  - [什么是事件循环 (event loop)？](https://github.com/LuoShengMen/StudyNotes/issues/278)
  - [js如何自定义事件？](https://github.com/LuoShengMen/StudyNotes/issues/373)
  - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/278)
@@ -118,6 +121,8 @@
  - [怎么计算在一个页面上的停留时间](https://github.com/LuoShengMen/StudyNotes/issues/413)
  - [二维码怎么工作的，扫描pc端的二维码，怎么让pc端登录](https://github.com/LuoShengMen/StudyNotes/issues/414)
  - [Object.freeze和Object.seal的区别](https://github.com/LuoShengMen/StudyNotes/issues/417)
+ - [mouseover和mouseenter的区别](https://github.com/LuoShengMen/StudyNotes/issues/420)
+ - [一个图片url访问后直接下载怎样实现？]
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -158,6 +163,8 @@
  - [实现一个持续的动画效果](https://github.com/LuoShengMen/StudyNotes/issues/400)
  - [如何每隔三个数加一个逗号，还要考虑小数点的情况](https://github.com/LuoShengMen/StudyNotes/issues/410)
  - [手写indexOf](https://github.com/LuoShengMen/StudyNotes/issues/411)
+ - [用setTimeout来实现setInterval](https://github.com/LuoShengMen/StudyNotes/issues/421)
+ - [js怎么控制一次加载一张图片，加载完后再加载下一张](https://github.com/LuoShengMen/StudyNotes/issues/422)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -183,6 +190,7 @@
  - [右边宽度固定，左边自适应](https://github.com/LuoShengMen/StudyNotes/issues/401)
  - [常见的几种布局？垂直水平居中的多种实现方法？等高栏的几种实现方法？](https://github.com/LuoShengMen/StudyNotes/issues/139)
  - [介绍下栅格系统 (grid system) ](https://github.com/LuoShengMen/StudyNotes/issues/291)
+ - [三栏式布局](https://github.com/LuoShengMen/StudyNotes/issues/431)
  - [flex布局介绍](https://github.com/LuoShengMen/StudyNotes/issues/292)
  - [align-items和justify-content的区别](https://github.com/LuoShengMen/StudyNotes/issues/409)
  - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
@@ -197,9 +205,11 @@
  - [外边距折叠(collapsing margins)](https://github.com/LuoShengMen/StudyNotes/issues/234)
  - [如何确定一个元素的包含块(containing block)](https://github.com/LuoShengMen/StudyNotes/issues/235)
  - [CSS 普通流 和 行格式化上下文 IFC](https://github.com/LuoShengMen/StudyNotes/issues/181)
+ - [多行元素的文本省略号](https://github.com/LuoShengMen/StudyNotes/issues/429)
  - [如果需要手动写动画，你认为最小时间间隔是多久，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/104)
  - [CSS在性能优化方面的实践](https://github.com/LuoShengMen/StudyNotes/issues/107)
  - [CSS3动画（简单动画的实现，如旋转等）](https://github.com/LuoShengMen/StudyNotes/issues/108)
+ - [关于js动画和css3动画的差异性](https://github.com/LuoShengMen/StudyNotes/issues/428)
  - [PNG,GIF,JPG的区别及如何选](https://github.com/LuoShengMen/StudyNotes/issues/101)
  - [base64的原理及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/109)
  - [stylus/sass/less区别](https://github.com/LuoShengMen/StudyNotes/issues/111)
@@ -224,6 +234,8 @@
  - [贝塞尔曲线](https://github.com/LuoShengMen/StudyNotes/issues/303)
  - [如何解决移动端 Retina 屏 1px 像素问题](https://github.com/LuoShengMen/StudyNotes/issues/384)
  - [我现在有一个进度条，进度条中间有一串文字，当我的进度条覆盖了文字之后，文字要与进度条反色，怎么实现？](https://github.com/LuoShengMen/StudyNotes/issues/391)
+ - [画一条0.5px的线](https://github.com/LuoShengMen/StudyNotes/issues/430)
+
   
  
  ### html面试题
@@ -241,7 +253,6 @@
  - [attribute和property的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/130)
  - [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系](https://github.com/LuoShengMen/StudyNotes/issues/238)
  - [DOM事件中target和currentTarget的区别](https://github.com/LuoShengMen/StudyNotes/issues/243)
- - [事件流](https://github.com/LuoShengMen/StudyNotes/issues/390)
  - [focus/blur与focusin/focusout的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/240)
  - [mouseover/mouseout与mouseenter/mouseleave的区别与联系](https://github.com/LuoShengMen/StudyNotes/issues/241)
  - [iframe有那些缺点？](https://github.com/LuoShengMen/StudyNotes/issues/76)
@@ -265,11 +276,14 @@
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
+ - [get请求传参长度的误区](https://github.com/LuoShengMen/StudyNotes/issues/418)
+ - [get和post请求在缓存方面的区别](https://github.com/LuoShengMen/StudyNotes/issues/419)
  - [请解释 HTTP status 301 与 302 的区别？](https://github.com/LuoShengMen/StudyNotes/issues/317)
  - [http的状态码中，499是什么？如何出现499，如何排查跟解决](https://github.com/LuoShengMen/StudyNotes/issues/359)
  - [讲解一下HTTPS的工作原理](https://github.com/LuoShengMen/StudyNotes/issues/360)
  - [讲解一下https对称加密和非对称加密](https://github.com/LuoShengMen/StudyNotes/issues/361)
  - [谈谈你对TCP三次握手和四次挥手的理解](https://github.com/LuoShengMen/StudyNotes/issues/36)
+ - [TCP和UDP的区别](https://github.com/LuoShengMen/StudyNotes/issues/424)
  - [A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](https://github.com/LuoShengMen/StudyNotes/issues/37)
  - [Websocket](https://github.com/LuoShengMen/StudyNotes/issues/157)
  - [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/LuoShengMen/StudyNotes/issues/47)
@@ -285,6 +299,8 @@
  - [DNS 解析过程,DNS解析会出错吗，为什么](https://github.com/LuoShengMen/StudyNotes/issues/321)
  - [如何应对流量劫持](https://github.com/LuoShengMen/StudyNotes/issues/322)
  - [画一下OSI七层模型](https://github.com/LuoShengMen/StudyNotes/issues/406)
+ - [WebSocket的实现和应用](https://github.com/LuoShengMen/StudyNotes/issues/425)
+ - [fetch发送2次请求的原因](https://github.com/LuoShengMen/StudyNotes/issues/427)
  
  
  ### 浏览器面试题
@@ -315,6 +331,7 @@
  - [CI/CD流程](https://github.com/LuoShengMen/StudyNotes/issues/329)
  - [浏览器事件代理机制的原理是什么？](https://github.com/LuoShengMen/StudyNotes/issues/372)
  - [浏览器内核有哪些，移动端用的是哪个](https://github.com/LuoShengMen/StudyNotes/issues/415)
+ - [几个很实用的BOM属性对象方法?](https://github.com/LuoShengMen/StudyNotes/issues/426)
   
   
  ### 框架面试题
