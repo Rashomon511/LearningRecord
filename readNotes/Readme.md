@@ -32,12 +32,12 @@
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
  * [webpack构建优化和性能优化]
+  * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
  
 
 ## js高级程序设计
 
  * [读书笔记](https://github.com/LuoShengMen/StudyNotes/issues/226)
- * [call,apply,bind](https://github.com/LuoShengMen/StudyNotes/issues/28)
  * [javascript继承方式](https://github.com/LuoShengMen/StudyNotes/issues/227)
  * [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  
