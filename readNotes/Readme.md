@@ -24,6 +24,7 @@
   - [x] css揭秘
   
 ## Blog
+ * [解构赋值搞一搞]
  * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
  * [this指向](https://github.com/LuoShengMen/StudyNotes/issues/25)
  * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
@@ -36,7 +37,7 @@
  * [柯里化函数]
  * [webpack构建优化和性能优化]
  * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
- * [解构赋值搞一搞]
+ * [初解PWA]
  
 
 ## js高级程序设计
