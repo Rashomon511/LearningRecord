@@ -360,8 +360,8 @@
  - [React Hooks]
  - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
  - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
- - [React.Component和React.pureComponent区别]
- - [React状态组件和无状态组件区别]
+ - [React.Component和React.pureComponent区别](https://github.com/LuoShengMen/StudyNotes/issues/442)
+ - [React状态组件和无状态组件区别](https://github.com/LuoShengMen/StudyNotes/issues/443)
  - [react的ssr了解么？大概怎么实现](https://github.com/LuoShengMen/StudyNotes/issues/339)
  - [react有什么坑点 ](https://github.com/LuoShengMen/StudyNotes/issues/389)
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
@@ -430,7 +430,7 @@
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。](https://github.com/LuoShengMen/StudyNotes/issues/352)
  - [git时光机问题](https://github.com/airuikun/blog/issues/5)
  - [git push -u 是什么意思](https://github.com/LuoShengMen/StudyNotes/issues/416)
- - [git stash是什么]
+ - [git stash是什么](https://github.com/LuoShengMen/StudyNotes/issues/444)
 
   
  ### Node
