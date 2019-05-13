@@ -26,6 +26,7 @@
  - [Object.is() 与比较操作符 ===、== 有什么区别](https://github.com/LuoShengMen/StudyNotes/issues/374)
  - [什么是三元表达式 (Ternary expression)？“三元 (Ternary)” 表示什么意思](https://github.com/LuoShengMen/StudyNotes/issues/271)
  - [从内存来看 null 和 undefined 本质的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/66)
+ - [为什么普通 for 循环的性能远远高于 forEach 的性能，请解释其中的原因](https://github.com/LuoShengMen/StudyNotes/issues/441)
  - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
  - [解释 function foo() {} 与 var foo = function() {} 用法的区别](https://github.com/LuoShengMen/StudyNotes/issues/268)
