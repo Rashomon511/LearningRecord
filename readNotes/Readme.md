@@ -26,11 +26,11 @@
 ## Blog
  * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
  * [this指向](https://github.com/LuoShengMen/StudyNotes/issues/25)
- * [react的BatchUpdate](https://github.com/LuoShengMen/StudyNotes/issues/445)
  * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
  * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
+ * [react的BatchUpdate](https://github.com/LuoShengMen/StudyNotes/issues/445)
  * [你得搞明白的浏览器的运行机制]
  * [手写 Proxy / Object.defineProperty]
  * [AMD、CMD、CommonJS浅析]
@@ -70,6 +70,7 @@
 ## webpack
 * [webpack4学习笔记(一)](https://github.com/LuoShengMen/StudyNotes/issues/383)
 * [webpack4学习笔记(二)](https://github.com/LuoShengMen/StudyNotes/issues/446)
+* [webpack4学习笔记(三)]
 
 ## js正则表达式迷你书
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
