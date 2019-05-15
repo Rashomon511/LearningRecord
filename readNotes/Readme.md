@@ -31,7 +31,7 @@
  * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
  * [react的BatchUpdate](https://github.com/LuoShengMen/StudyNotes/issues/445)
- * [你得搞明白的浏览器的运行机制]
+ * [你得搞明白的浏览器的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/448)
  * [手写 Proxy / Object.defineProperty]
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
@@ -70,7 +70,7 @@
 ## webpack
 * [webpack4学习笔记(一)](https://github.com/LuoShengMen/StudyNotes/issues/383)
 * [webpack4学习笔记(二)](https://github.com/LuoShengMen/StudyNotes/issues/446)
-* [webpack4学习笔记(三)]
+* [webpack4学习笔记(三)](https://github.com/LuoShengMen/StudyNotes/issues/449)
 
 ## js正则表达式迷你书
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
