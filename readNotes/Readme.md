@@ -26,6 +26,7 @@
 ## Blog
  * [你不知道的类型转换](https://github.com/LuoShengMen/StudyNotes/issues/381)
  * [this指向](https://github.com/LuoShengMen/StudyNotes/issues/25)
+ * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
  * [es6类的继承与对象关联](https://github.com/LuoShengMen/StudyNotes/issues/27)
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/StudyNotes/issues/167)
  * [从头手写一个Promise](https://github.com/LuoShengMen/StudyNotes/issues/280)
@@ -36,7 +37,7 @@
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
  * [webpack构建优化和性能优化]
- * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/StudyNotes/issues/28)
+ * [babel-profilly和babel-transform-runtime的区别]
  * [初解PWA]
  
 
