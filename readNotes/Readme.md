@@ -6,7 +6,7 @@
   - [x] JavaScript高级程序设计
   - [x] 你不知道的javascript
   - [ ] javascript忍者秘籍
-  - [ ] ES6入门
+  - [x] ES6入门
   - [ ] ES6深入理解
   - [ ] JavaScript基础教程
   - [ ] JavaScript DOM编程艺术
