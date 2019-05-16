@@ -38,6 +38,8 @@
  * [柯里化函数]
  * [webpack构建优化和性能优化]
  * [babel-profilly和babel-transform-runtime的区别]
+ * [webpack 是如何实现 HMR 的以及实现的原理]
+ * [babel的实现原理]
  * [初解PWA]
  
 
