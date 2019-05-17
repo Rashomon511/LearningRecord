@@ -341,6 +341,7 @@
  - [浏览器事件代理机制的原理是什么？](https://github.com/LuoShengMen/StudyNotes/issues/372)
  - [浏览器内核有哪些，移动端用的是哪个](https://github.com/LuoShengMen/StudyNotes/issues/415)
  - [几个很实用的BOM属性对象方法?](https://github.com/LuoShengMen/StudyNotes/issues/426)
+ - [什么是白屏和FOUC（无样式内容闪烁）?](https://github.com/LuoShengMen/StudyNotes/issues/454)
   
   
  ### 框架面试题
