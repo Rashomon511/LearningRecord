@@ -60,6 +60,7 @@
 - [react-immutable-render-mixin](https://www.npmjs.com/package/react-immutable-render-mixin)
 - [react开发规范](https://github.com/JasonBoy/javascript/tree/master/react)
 - [react-coat]( https://github.com/wooline/react-coat/blob/master/README_zh-CN.md)
+- [十个案例学会 React Hooks](https://github.com/happylindz/blog/issues/19)
 
 ### vue学习资料
 - [vue官网](https://vuefe.cn/v2/guide/)
