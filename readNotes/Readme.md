@@ -36,7 +36,7 @@
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/StudyNotes/issues/278)
  * [react的BatchUpdate](https://github.com/LuoShengMen/StudyNotes/issues/445)
  * [你得搞明白的浏览器的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/448)
- * [手写 Proxy / Object.defineProperty]
+ * [手写 Proxy / Object.defineProperty](https://github.com/LuoShengMen/StudyNotes/issues/455)
  * [AMD、CMD、CommonJS浅析]
  * [柯里化函数]
  * [webpack构建优化和性能优化]
