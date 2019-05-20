@@ -1,5 +1,7 @@
 # 算法学习
-
+一.数组结构：数组、链表、队列、栈、散列表、二叉树、堆、跳表、图、Trie树
+二.算法思想：递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配
+### 题目
 - [第 1 题： 扑克牌排序](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%B8%80%E9%A2%98.md)
 - [第 2 题：各种排序](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%BA%8C%E9%A2%98.md)
 - [第 3 题：两数之和](https://github.com/LuoShengMen/StudyNotes/blob/master/algorithm/%E7%AC%AC%E4%B8%89%E9%A2%98.md)
