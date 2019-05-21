@@ -86,7 +86,7 @@
  * [正则表达式学习总结(三)](https://github.com/LuoShengMen/StudyNotes/issues/168)
  * [正则表达式学习总结(四)](https://github.com/LuoShengMen/StudyNotes/issues/173)
 
-## 思想
+## 方法论
 * [如何书写高质量代码](https://github.com/LuoShengMen/StudyNotes/issues/456)
 
 ———— 待续
