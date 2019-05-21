@@ -392,6 +392,7 @@
  - [原生js实现MVVM](https://github.com/LuoShengMen/StudyNotes/issues/344)
  - [实现 vue 中的 on,emit,off,once，手写代码](https://github.com/LuoShengMen/StudyNotes/issues/232)
  - [vue项目中如何约束rxjs数据的类型](https://github.com/LuoShengMen/StudyNotes/issues/346)
+ - [Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/LuoShengMen/StudyNotes/issues/459)
  
  ### 前端工程
  - [Webpack热更新实现原理? 是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/LuoShengMen/StudyNotes/issues/202)
@@ -402,8 +403,8 @@
  - [sourceMap的原理]
  - [gulp和webpack区别]
  - [loader plugin 的区别](https://github.com/LuoShengMen/StudyNotes/issues/447)
- - [tree-shaking 的工作原理]
- - [code splitting用的是什么插件]
+ - [tree-shaking 的工作原理](https://github.com/LuoShengMen/StudyNotes/issues/460)
+ - [code splitting用的是什么插件](https://github.com/LuoShengMen/StudyNotes/issues/461)
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
  - [webpack优化问题：多页面提取公共资源](https://github.com/LuoShengMen/StudyNotes/issues/377)
  - [ES6 代码转成 ES5 代码的实现思路是什么](https://github.com/LuoShengMen/StudyNotes/issues/380)
