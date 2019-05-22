@@ -128,6 +128,7 @@
  - [Object.freeze和Object.seal的区别](https://github.com/LuoShengMen/StudyNotes/issues/417)
  - [mouseover和mouseenter的区别](https://github.com/LuoShengMen/StudyNotes/issues/420)
  - [一个图片url访问后直接下载怎样实现？](https://github.com/LuoShengMen/StudyNotes/issues/440)
+ - [input 搜索如何防抖，如何处理中文输入](https://github.com/LuoShengMen/StudyNotes/issues/463)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -176,6 +177,7 @@
  - [下面的输出是什么？](https://github.com/LuoShengMen/StudyNotes/issues/438)
  - [实现鼠标滑过头像显示简介](https://github.com/LuoShengMen/StudyNotes/issues/439)
  - [分析下列输出结果](https://github.com/LuoShengMen/StudyNotes/issues/453)
+ - [一行代码实现100个值的数组，并且值是数组下标](https://github.com/LuoShengMen/StudyNotes/issues/462)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
