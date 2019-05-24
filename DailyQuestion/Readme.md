@@ -179,6 +179,7 @@
  - [分析下列输出结果](https://github.com/LuoShengMen/StudyNotes/issues/453)
  - [一行代码实现100个值的数组，并且值是数组下标](https://github.com/LuoShengMen/StudyNotes/issues/462)
  - [实现以下代码](https://github.com/LuoShengMen/StudyNotes/issues/464)
+ - [打印出 1 - 10000 之间的所有对称数](https://github.com/LuoShengMen/StudyNotes/issues/466)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
