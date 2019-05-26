@@ -79,6 +79,7 @@
 * [webpack4学习笔记(二)](https://github.com/LuoShengMen/StudyNotes/issues/446)
 * [webpack4学习笔记(三)](https://github.com/LuoShengMen/StudyNotes/issues/449)
 * [webpack4学习笔记(四)](https://github.com/LuoShengMen/StudyNotes/issues/457)
+* [webpack4学习笔记(五)](https://github.com/LuoShengMen/StudyNotes/issues/466)
 
 ## js正则表达式迷你书
  * [正则表达式学习总结(一)](https://github.com/LuoShengMen/StudyNotes/issues/165)
