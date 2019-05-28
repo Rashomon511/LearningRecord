@@ -46,6 +46,7 @@
  - [执行上下文(EC)](https://github.com/LuoShengMen/StudyNotes/issues/150)
  - [为什么 var 可以重复声明](https://github.com/LuoShengMen/StudyNotes/issues/402)
  - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
+ - [var、let 和 const 区别的实现原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/473)
  - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
  - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
