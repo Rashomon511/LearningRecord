@@ -86,8 +86,8 @@
  - [装饰器的原理](https://github.com/LuoShengMen/StudyNotes/issues/229)
  - [如何解决跨域问题?](https://github.com/LuoShengMen/StudyNotes/issues/122)
  - [javascript跨域通信](https://github.com/LuoShengMen/StudyNotes/issues/179)
- - [手写 Proxy / Object.defineProperty]
- - [实现双向绑定 Proxy 与 Object.defineProperty 相比优劣如何]
+ - [Proxy / Object.defineProperty相比优劣如何](https://github.com/LuoShengMen/StudyNotes/issues/455)
+ - [用Proxy 与 Object.defineProperty实现双向绑定](https://github.com/LuoShengMen/StudyNotes/issues/474)
  - [Web Worker 通常应用于哪些方面](https://github.com/LuoShengMen/StudyNotes/issues/375)
  - [简述下对 webWorker 的理解？](https://github.com/LuoShengMen/StudyNotes/issues/370)
  - [从IIFE、AMD、CMD、CommonJS、UMD、webpack(require.ensure)、ES Module等模块化介绍发展历程](https://github.com/LuoShengMen/StudyNotes/issues/79)
