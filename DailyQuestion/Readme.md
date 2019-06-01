@@ -10,8 +10,7 @@
   4.在学习时，不仅要知道表面的答案，还需要注意学会深层次的原理或者与之相关的扩展知识，以扩展知识深度与广度
   
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
-  
-  > 高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
+  高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
