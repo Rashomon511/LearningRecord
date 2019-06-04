@@ -39,7 +39,7 @@
  * [Proxy 与 Object.defineProperty的对比](https://github.com/LuoShengMen/StudyNotes/issues/455)
  * [用Proxy/Object.defineProperty实现双向绑定](https://github.com/LuoShengMen/StudyNotes/issues/474)
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
- * [柯里化函数]
+ * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
  * [webpack构建优化和性能优化]
  * [babel-profilly和babel-transform-runtime的区别]
  * [webpack 是如何实现 HMR 的以及实现的原理]
