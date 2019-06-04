@@ -5,6 +5,7 @@
 ##### [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
 ##### [fe-interview](https://github.com/haizlin/fe-interview)
 ##### [Step-By-Step](https://github.com/YvetteLau/Step-By-Step)
+- [2019年前端面试都聊啥](https://mp.weixin.qq.com/s/e-IC588SZPJK2QRBm3KuHA)
 - [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 - [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [在GitHub上收集的最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
