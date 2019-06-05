@@ -181,6 +181,7 @@
  - [实现以下代码](https://github.com/LuoShengMen/StudyNotes/issues/464)
  - [打印出 1 - 10000 之间的所有对称数](https://github.com/LuoShengMen/StudyNotes/issues/466)
  - [请实现一个 add 函数，满足以下功能](https://github.com/LuoShengMen/StudyNotes/issues/476)
+ - [使以下代码正常运行](https://github.com/LuoShengMen/StudyNotes/issues/483)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
