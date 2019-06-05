@@ -44,3 +44,4 @@
 - [新鲜出炉的8月前端面试题](https://segmentfault.com/a/1190000015916686)
 - [前端工程师面试必备](https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c)
 - [前端面试那些事](https://juejin.im/post/5a59db5a518825732d7f8ce5)
+- [中级前端工程师必须要掌握的 JavaScript 技巧](https://github.com/yeyan1996/JavaScript)
