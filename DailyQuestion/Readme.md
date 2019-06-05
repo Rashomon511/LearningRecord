@@ -200,6 +200,7 @@
  - [分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/LuoShengMen/StudyNotes/issues/88)
  - [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/LuoShengMen/StudyNotes/issues/197)
  - [CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/196)
+ - [如何隐藏页面中的某个元素？](https://github.com/LuoShengMen/StudyNotes/issues/482)
  - [介绍一下标准的CSS的盒子模型？低版本IE的盒子模型有什么不同的？](https://github.com/LuoShengMen/StudyNotes/issues/96)
  - [谈谈浮动和清除浮动](https://github.com/LuoShengMen/StudyNotes/issues/98)
  - [几种常见的CSS布局](https://github.com/LuoShengMen/StudyNotes/issues/110)
