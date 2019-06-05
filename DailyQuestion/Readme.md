@@ -68,6 +68,7 @@
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
  - [介绍Ajax](https://github.com/LuoShengMen/StudyNotes/issues/116)
  - [防止重复发送Ajax请求](https://github.com/LuoShengMen/StudyNotes/issues/176)
+ - [Fetch API 相对于传统的 Ajax 有哪些改进？]
  - [请解释 JSONP 的工作原理，以及它为什么不是真正的 Ajax](https://github.com/LuoShengMen/StudyNotes/issues/273)
  - [requestAnimationFrame 原理？是同步还是异步](https://github.com/LuoShengMen/StudyNotes/issues/231)
  - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
@@ -99,6 +100,7 @@
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
  - [事件流](https://github.com/LuoShengMen/StudyNotes/issues/390)
  - [什么是事件循环 (event loop)？](https://github.com/LuoShengMen/StudyNotes/issues/278)
+ - [解释 JavaScript 并发模型]
  - [js如何自定义事件？](https://github.com/LuoShengMen/StudyNotes/issues/373)
  - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/278)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
