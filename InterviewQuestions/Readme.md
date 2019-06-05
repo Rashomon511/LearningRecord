@@ -45,3 +45,4 @@
 - [前端工程师面试必备](https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c)
 - [前端面试那些事](https://juejin.im/post/5a59db5a518825732d7f8ce5)
 - [中级前端工程师必须要掌握的 JavaScript 技巧](https://github.com/yeyan1996/JavaScript)
+- [寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
