@@ -100,7 +100,7 @@
  - [什么是事件代理](https://github.com/LuoShengMen/StudyNotes/issues/114)
  - [事件流](https://github.com/LuoShengMen/StudyNotes/issues/390)
  - [什么是事件循环 (event loop)？](https://github.com/LuoShengMen/StudyNotes/issues/278)
- - [解释 JavaScript 并发模型]
+ - [解释 JavaScript 并发模型](https://github.com/LuoShengMen/StudyNotes/issues/484)
  - [js如何自定义事件？](https://github.com/LuoShengMen/StudyNotes/issues/373)
  - [请问调用栈 (call stack) 和任务队列 (task queue) 的区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/278)
  - [事件模型](https://github.com/LuoShengMen/StudyNotes/issues/115)
