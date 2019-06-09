@@ -1,7 +1,7 @@
 ## 职业发展之路
 
  ———— 不仅仅是学习别人的路，也要走出自己的路
-
+ - [高效学习 & 程序员练级攻略](https://www.yuque.com/fe9/basic/qvoo0d)
  - [一个程序员的成长之路](https://github.com/fouber/blog/blob/master/201805/01.md)
  - [前端之问，程序员之问，职业之问](https://github.com/youngwind/blog/issues/114)
  - [我如何零基础转行成为一个自信的前端](https://www.yuque.com/fe9/basic/mchxkr)
