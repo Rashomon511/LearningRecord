@@ -2,6 +2,8 @@
  
  > 不是爱书即欲死，任从人笑作书颠  ————陆游
  
+  - [高效学习 & 程序员练级攻略](https://www.yuque.com/fe9/basic/qvoo0d)
+ 
  ## 书单 
   - [x] JavaScript高级程序设计
   - [x] 你不知道的javascript
