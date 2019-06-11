@@ -8,14 +8,13 @@
   3.题目类型涉及js,css,html理论知识，浏览器知识，计算机网络知识，前端框架，前端工程，服务端知识，笔试题，算法等
   
   4.在学习时，不仅要知道表面的答案，还需要注意学会深层次的原理或者与之相关的扩展知识，以扩展知识深度与广度
-  
-  5.将会通过⭐️来综合评价面试题的重要性和出现的频率
+ 
   
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
   高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
  
  ### javascript面试题
- - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)⭐️⭐️⭐️
+ - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [堆，栈，队列的区别](https://github.com/LuoShengMen/StudyNotes/issues/306)
  - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别](https://github.com/LuoShengMen/StudyNotes/issues/264)
  - [为什么扩展 JavaScript 内置对象不是好的做法](https://github.com/LuoShengMen/StudyNotes/issues/262)
