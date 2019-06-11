@@ -1,4 +1,4 @@
- #  每日面试题学习🌟🌟🌟🌟🌟 #
+ #  每日面试题学习 #
  
  ## 面试题学习介绍
   1.希望在学习面试题的过程中弥补不足，提升自己的竞争力
@@ -15,7 +15,7 @@
   高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
  
  ### javascript面试题
- - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
+ - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)⭐️⭐️⭐️
  - [堆，栈，队列的区别](https://github.com/LuoShengMen/StudyNotes/issues/306)
  - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别](https://github.com/LuoShengMen/StudyNotes/issues/264)
  - [为什么扩展 JavaScript 内置对象不是好的做法](https://github.com/LuoShengMen/StudyNotes/issues/262)
