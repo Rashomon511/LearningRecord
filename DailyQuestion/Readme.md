@@ -186,6 +186,7 @@
  - [请实现一个 add 函数，满足以下功能](https://github.com/LuoShengMen/StudyNotes/issues/476)
  - [使以下代码正常运行](https://github.com/LuoShengMen/StudyNotes/issues/483)
  - [在输入框中如何判断输入的是一个正确的网址](https://github.com/LuoShengMen/StudyNotes/issues/489)
+ - [实现 convert 方法，把原始 list 转换成树形结构，要求尽可能降低时间复杂度](https://github.com/LuoShengMen/StudyNotes/issues/490)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
