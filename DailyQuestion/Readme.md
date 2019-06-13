@@ -474,6 +474,7 @@
  - [mongodb与mongoose](https://github.com/LuoShengMen/StudyNotes/issues/223)
  - [redis最简单的应用](https://github.com/LuoShengMen/StudyNotes/issues/222)
  - [apache,nginx有什么区别?](https://github.com/LuoShengMen/StudyNotes/issues/221)
+ - [path.join 与 path.resolve 的区别](https://github.com/LuoShengMen/StudyNotes/issues/491)
 
  ### 测试相关
  - [对代码进行测试的有什么优缺点？](https://github.com/LuoShengMen/StudyNotes/issues/353)
