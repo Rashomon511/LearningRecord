@@ -41,10 +41,10 @@
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
  * [执行栈上下文]
- * [webpack模块热更新原理]
+ * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [webpack构建优化和性能优化]
  * [babel-profilly和babel-transform-runtime的区别]
- * [webpack 是如何实现 HMR 的以及实现的原理]
+
  * [babel的实现原理]
  * [初解PWA]
  * [了解serverless]
