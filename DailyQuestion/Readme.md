@@ -417,7 +417,7 @@
  - [webpack如何配置跨域？](https://github.com/LuoShengMen/StudyNotes/issues/452)
  - [webpack如何只打包更新修改过的文件](https://github.com/LuoShengMen/StudyNotes/issues/451)
  - [编写过webpack的扩展嘛，Plugin或者loader](https://github.com/LuoShengMen/StudyNotes/issues/487)
- - [sourceMap的原理]
+ - [sourceMap的原理](https://github.com/LuoShengMen/StudyNotes/issues/494)
  - [gulp和webpack区别](https://github.com/LuoShengMen/StudyNotes/issues/493)
  - [loader plugin 的区别](https://github.com/LuoShengMen/StudyNotes/issues/447)
  - [tree-shaking 的工作原理](https://github.com/LuoShengMen/StudyNotes/issues/460)
