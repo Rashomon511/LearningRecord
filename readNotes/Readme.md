@@ -43,8 +43,6 @@
  * [执行栈上下文]
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [webpack构建优化和性能优化]
- * [babel-profilly和babel-transform-runtime的区别]
-
  * [babel的实现原理]
  * [初解PWA]
  * [了解serverless]
