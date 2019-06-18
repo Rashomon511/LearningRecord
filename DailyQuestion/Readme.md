@@ -429,7 +429,7 @@
  - [如何提高 webpack 构件速度的](https://github.com/LuoShengMen/StudyNotes/issues/254)
  - [webpack优化问题：多页面提取公共资源](https://github.com/LuoShengMen/StudyNotes/issues/377)
  - [ES6 代码转成 ES5 代码的实现思路是什么](https://github.com/LuoShengMen/StudyNotes/issues/380)
-  - [babel-profilly和babel-transform-runtime的区别]
+ - [babel-profilly和babel-transform-runtime的区别](https://github.com/LuoShengMen/StudyNotes/issues/499)
  - [何为AST](https://github.com/LuoShengMen/StudyNotes/issues/152)
  - [babel编译原理](https://github.com/LuoShengMen/StudyNotes/issues/153)
  - [babel、babel-polyfill的区别](https://github.com/LuoShengMen/StudyNotes/issues/261)
@@ -452,7 +452,7 @@
  - [什么是CDN缓存](https://github.com/LuoShengMen/StudyNotes/issues/379)
  - [数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少](https://github.com/LuoShengMen/StudyNotes/issues/450)
 
- ### git
+ ### 版本控制
  - [代码提交错误时git的命令？gitflow概念？](https://github.com/LuoShengMen/StudyNotes/issues/351)
  - [git rebase vs git merge](https://github.com/LuoShengMen/StudyNotes/issues/255)
  - [请解释什么是 ARIA 和屏幕阅读器 (screenreaders)，以及如何使网站实现无障碍访问 (accessible)。](https://github.com/LuoShengMen/StudyNotes/issues/352)
