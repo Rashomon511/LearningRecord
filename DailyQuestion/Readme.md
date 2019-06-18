@@ -64,6 +64,7 @@
  - [javascript继承方式](https://github.com/LuoShengMen/StudyNotes/issues/227)
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
+ - [可迭代对象有什么特点](https://github.com/LuoShengMen/StudyNotes/issues/497)
  - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
@@ -132,6 +133,8 @@
  - [mouseover和mouseenter的区别](https://github.com/LuoShengMen/StudyNotes/issues/420)
  - [一个图片url访问后直接下载怎样实现？](https://github.com/LuoShengMen/StudyNotes/issues/440)
  - [input 搜索如何防抖，如何处理中文输入](https://github.com/LuoShengMen/StudyNotes/issues/463)
+ - [异步加载 js 脚本的方法有哪些？](https://github.com/LuoShengMen/StudyNotes/issues/496)
+ - [JSONP原理及简单实现](https://github.com/LuoShengMen/StudyNotes/issues/498)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
