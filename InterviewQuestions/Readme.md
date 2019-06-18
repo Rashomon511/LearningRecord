@@ -12,7 +12,7 @@
 - [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [在GitHub上收集的最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - [node-interview-questions](https://github.com/jimuyouyou/node-interview-questions)
-- [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
+- [x] [Interview Book](https://github.com/Mountain-Buzhou/Interview-Book)
 - [前端常见问题整理](https://juejin.im/post/5ac43e7c6fb9a028d1414f84)
 - [中高级前端大厂面试秘籍](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [16年毕业的前端er在杭州求职ing](https://juejin.im/post/5a64541bf265da3e2d338862)
