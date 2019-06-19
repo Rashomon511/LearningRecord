@@ -6,9 +6,11 @@
 
 - [每日面试题学习](//github.com/LuoShengMen/StudyNotes/tree/master/DailyQuestion)
 
-- [前端知识框架](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
+- [每周阅读](https://github.com/LuoShengMen/StudyNotes/blob/master/Weeklyreading)
 
 - [算法学习](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
+
+- [前端知识框架](https://github.com/LuoShengMen/StudyNotes/tree/master/frontend)
 
 - [学习资料](//github.com/LuoShengMen/StudyNotes/tree/master/learningMaterials/data.md)
 
