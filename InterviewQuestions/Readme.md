@@ -52,5 +52,5 @@
 - [x] [前端面试那些事](https://juejin.im/post/5a59db5a518825732d7f8ce5)
 - [ ] [中级前端工程师必须要掌握的 JavaScript 技巧](https://github.com/yeyan1996/JavaScript)
 - [ ] [寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
-- [ ] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
+- [x] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
 - [ ] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
