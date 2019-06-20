@@ -41,8 +41,9 @@
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
  * [执行栈上下文]
- * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
+ * [从零搭建一个脚手架]
  * [webpack构建优化和性能优化]
+ * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [babel的实现原理]
  * [初解PWA]
  * [了解serverless]
