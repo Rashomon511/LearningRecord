@@ -3,11 +3,14 @@
 ### javascripts学习文档
 - [JavaScript教程 ](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ECMAScript 6 入门]( http://es6.ruanyifeng.com/)
-- [TypeScript ](http://www.typescriptlang.org/)
 - [js前端书籍]( https://f2edocs.com/books/)
 - [js相关]( http://www.zhangxinxu.com/wordpress/category/js/)
 - [JavaScript 语言参考 ]( https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
+
+### typejavascript
+- [TypeScript ](http://www.typescriptlang.org/)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#how-to-contribute)
 
 ### 技巧
 - [JS无形装逼，最为致命](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
