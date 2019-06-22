@@ -192,6 +192,7 @@
  - [实现 convert 方法，把原始 list 转换成树形结构，要求尽可能降低时间复杂度](https://github.com/LuoShengMen/StudyNotes/issues/490)
  - [已知数据格式，实现一个函数 fn 找出链条中所有的父级 id](https://github.com/LuoShengMen/StudyNotes/issues/500)
  - [不借助第三者交换 a，b两个值](https://github.com/LuoShengMen/StudyNotes/issues/509)
+ - [格式化金钱，每千分位加逗号](https://github.com/LuoShengMen/StudyNotes/issues/525)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
@@ -266,7 +267,14 @@
  - [CSS如何适配浏览器大小？](https://github.com/LuoShengMen/StudyNotes/issues/433)
  - [如何实现一个最大的正方形](https://github.com/LuoShengMen/StudyNotes/issues/507)
  - [css 的解析顺序](https://github.com/LuoShengMen/StudyNotes/issues/508)
-
+ - [重置（resetting）CSS 和 标准化（normalizing）CSS 的区别是什么？你会选择哪种方式，为什么？](https://github.com/LuoShengMen/StudyNotes/issues/512)
+ - [请阐述Float定位的工作原理](https://github.com/LuoShengMen/StudyNotes/issues/513)
+ - [编写高效的 CSS 应该注意什么？](https://github.com/LuoShengMen/StudyNotes/issues/514)
+ - [描述伪元素及其用途](https://github.com/LuoShengMen/StudyNotes/issues/515)
+ - [relative、fixed、absolute和static四种定位有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/516)
+ - [你了解 CSS Flex 和 Grid 吗？](https://github.com/LuoShengMen/StudyNotes/issues/517)
+ - [已知父级盒子的宽高，子级img宽高未知，想让img铺满父级盒子且图片不能变形](https://github.com/LuoShengMen/StudyNotes/issues/518)
+ - [去除inline-block元素间间距的方法](https://github.com/LuoShengMen/StudyNotes/issues/519)
   
  
  ### html面试题
@@ -304,6 +312,8 @@
  - [现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？](https://github.com/LuoShengMen/StudyNotes/issues/394)
  - [怎么从十万个节点中找到想要的节点，怎么快速在某个节点前插入一个节点](https://github.com/LuoShengMen/StudyNotes/issues/404)
  - [操作dom有哪些方法](https://github.com/LuoShengMen/StudyNotes/issues/412)
+ - [介绍一下Viewport](https://github.com/LuoShengMen/StudyNotes/issues/510)
+ - [href和src区别](https://github.com/LuoShengMen/StudyNotes/issues/511)
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
@@ -356,6 +366,7 @@
  - [列举IE与其他浏览器不一样的特性？](https://github.com/LuoShengMen/StudyNotes/issues/204)
  - [如何判断浏览器类型？](https://github.com/LuoShengMen/StudyNotes/issues/246)
  - [获取URL中参数值（QueryString）的4种方法](https://github.com/LuoShengMen/StudyNotes/issues/323)
+ - [如何做到修改url参数页面不刷新](https://github.com/LuoShengMen/StudyNotes/issues/524)
  - [三种减少页面加载时间的方法。(加载时间指感知的时间或者实际加载时间)](https://github.com/LuoShengMen/StudyNotes/issues/324)
  - [如何视觉隐藏网页内容，只让它们在屏幕阅读器中可用](https://github.com/LuoShengMen/StudyNotes/issues/326)
  - [请指出浏览器特性检测，特性推断和浏览器 UA 字符串嗅探的区别](https://github.com/LuoShengMen/StudyNotes/issues/325)
@@ -365,6 +376,9 @@
  - [浏览器内核有哪些，移动端用的是哪个](https://github.com/LuoShengMen/StudyNotes/issues/415)
  - [几个很实用的BOM属性对象方法?](https://github.com/LuoShengMen/StudyNotes/issues/426)
  - [什么是白屏和FOUC（无样式内容闪烁）?](https://github.com/LuoShengMen/StudyNotes/issues/454)
+ - [首屏时间、白屏时间](https://github.com/LuoShengMen/StudyNotes/issues/522)
+ - [域名收敛](https://github.com/LuoShengMen/StudyNotes/issues/520)
+ - [如何实现文件断点续传](https://github.com/LuoShengMen/StudyNotes/issues/521)
   
   
  ### 框架面试题
@@ -418,6 +432,14 @@
  - [vue项目中如何约束rxjs数据的类型](https://github.com/LuoShengMen/StudyNotes/issues/346)
  - [Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/LuoShengMen/StudyNotes/issues/459)
  - [Vue重写方法来实现数组的劫持](https://github.com/LuoShengMen/StudyNotes/issues/475)
+ - [vue-router原理](https://github.com/LuoShengMen/StudyNotes/issues/526)
+ - [v-if和v-show的区别](https://github.com/LuoShengMen/StudyNotes/issues/527)
+ - [vue怎么实现页面的权限控制](https://github.com/LuoShengMen/StudyNotes/issues/528)
+ - [keep-alive有什么作用](https://github.com/LuoShengMen/StudyNotes/issues/529)
+ - [计算属性有什么作用](https://github.com/LuoShengMen/StudyNotes/issues/530)
+ - [$route和$router的区别](https://github.com/LuoShengMen/StudyNotes/issues/531)
+ - [watch的作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/532)
+ - [vuex原理](https://github.com/LuoShengMen/StudyNotes/issues/533)
  
  ### 前端工程
  - [简单介绍一下webpack](https://github.com/LuoShengMen/StudyNotes/issues/501)
@@ -460,6 +482,7 @@
  - [负载均衡](https://github.com/LuoShengMen/StudyNotes/issues/378)
  - [什么是CDN缓存](https://github.com/LuoShengMen/StudyNotes/issues/379)
  - [数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少](https://github.com/LuoShengMen/StudyNotes/issues/450)
+ - [页面大量图片，如何优化加载，优化用户体验](https://github.com/LuoShengMen/StudyNotes/issues/523)
 
  ### 版本控制
  - [代码提交错误时git的命令？gitflow概念？](https://github.com/LuoShengMen/StudyNotes/issues/351)
