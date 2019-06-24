@@ -434,6 +434,7 @@
  - [Vue重写方法来实现数组的劫持](https://github.com/LuoShengMen/StudyNotes/issues/475)
  - [vue-router原理](https://github.com/LuoShengMen/StudyNotes/issues/526)
  - [v-if和v-show的区别](https://github.com/LuoShengMen/StudyNotes/issues/527)
+ - [vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/534)
  - [vue怎么实现页面的权限控制](https://github.com/LuoShengMen/StudyNotes/issues/528)
  - [keep-alive有什么作用](https://github.com/LuoShengMen/StudyNotes/issues/529)
  - [计算属性有什么作用](https://github.com/LuoShengMen/StudyNotes/issues/530)
