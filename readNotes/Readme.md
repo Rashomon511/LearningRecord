@@ -46,6 +46,7 @@
  * [webpack构建优化和性能优化]
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [babel的实现原理]
+ * [babel各种插件使用总结]
  * [初解PWA]
  * [了解serverless]
  * [大型文件上传]
