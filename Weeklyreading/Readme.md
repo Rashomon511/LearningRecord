@@ -12,3 +12,5 @@
 - [Babel学习系列4-polyfill和runtime差别(必看)](https://zhuanlan.zhihu.com/p/58624930)
 - [babel-polyfill VS babel-runtime VS babel-preset-env](https://juejin.im/post/5aefe0a6f265da0b9e64fa54)
 - [深度解析 CORS 跨域原理及 @koa/cors 源码](https://mp.weixin.qq.com/s/S9NYjMAXq31zbieYBRG-rg)
+- [Tree-Shaking性能优化实践 - 原理篇](https://juejin.im/post/5a4dc842518825698e7279a9)
+- [webpack SplitChunksPlugin实用指南](https://juejin.im/post/5b99b9cd6fb9a05cff32007a)
