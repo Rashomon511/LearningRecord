@@ -42,7 +42,7 @@
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
  * [执行栈上下文]
  * [路由实现的原理]
- * [从零搭建一个脚手架]
+ * [利用webpack搭建脚手架的一套完整流程](https://github.com/LuoShengMen/StudyNotes/issues/535)
  * [webpack构建优化和性能优化]
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [babel的实现原理]
