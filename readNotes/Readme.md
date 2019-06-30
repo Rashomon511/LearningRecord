@@ -1,6 +1,6 @@
  #  学习阅读笔记 #
  
- > 不是爱书即欲死，任从人笑作书颠  ————陆游
+ > 不是爱书即欲死，任从人笑作书颠
  
  ## 书单 
   - [x] JavaScript高级程序设计
@@ -40,13 +40,11 @@
  * [用Proxy/Object.defineProperty实现双向绑定](https://github.com/LuoShengMen/StudyNotes/issues/474)
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
- * [执行栈上下文]
  * [路由实现的原理]
  * [利用webpack搭建脚手架的一套完整流程](https://github.com/LuoShengMen/StudyNotes/issues/535)
  * [webpack构建优化和性能优化]
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [babel的实现原理]
- * [babel各种插件使用总结]
  * [初解PWA]
  * [了解serverless]
  * [大型文件上传]
