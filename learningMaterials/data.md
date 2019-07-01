@@ -9,8 +9,8 @@
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 
 ### typejavascript
-- [TypeScript ](http://www.typescriptlang.org/)
-- [ts入门](https://ts.xcatliu.com/)
+- [TypeScript 官网](http://www.typescriptlang.org/)
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#how-to-contribute)
 
 ### 技巧
@@ -47,7 +47,7 @@
 - [Flutter](https://flutterchina.club/)
 
 ### Taro
-- [Taro官网](https://taro.aotu.io
+- [Taro官网](https://taro.aotu.io)
 - [Taro案例](https://nervjs.github.io/taro-user-cases/)
 
 ### react学习资料
@@ -112,9 +112,8 @@
 - [基于 Webpack 的应用包体尺寸优化 ](http://www.open-open.com/lib/view/open1484709648751.html)
 - [基于webpack的前端工程化开发之多页站点篇（二） ](https://segmentfault.com/a/1190000004516832)
 - [webpack多页应用架构系列（一）：一步一步解决架构痛点 ](https://github.com/454979849/better-webpack-multiple-pages)
-- [webpack热更新 ](https://segmentfault.com/a/1190000011151106)
-- [热更新 ](https://github.com/gaearon/react-transform-boilerplate)
 - [从零实现一个 Webpack Plugin](https://juejin.im/post/5cc6b457518825634d444365)
+- [webpack源码分析](https://carrie999.github.io/blog/)
 
 ### less文档
 - [less文档](http://lesscss.cn/)
