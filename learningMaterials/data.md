@@ -10,6 +10,7 @@
 
 ### typejavascript
 - [TypeScript ](http://www.typescriptlang.org/)
+- [ts入门](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#how-to-contribute)
 
 ### 技巧
