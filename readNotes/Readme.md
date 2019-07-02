@@ -41,13 +41,13 @@
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
  * [路由实现的原理]
+ * [大型文件上传]
  * [利用webpack搭建脚手架的一套完整流程](https://github.com/LuoShengMen/StudyNotes/issues/535)
- * [webpack构建优化和性能优化]
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
  * [babel的实现原理]
  * [初解PWA]
  * [了解serverless]
- * [大型文件上传]
+
  * [ssr]
  * [react源码解析]
  * [发布订阅]
@@ -65,6 +65,9 @@
  * [你不知道的js(中)](https://github.com/LuoShengMen/StudyNotes/issues/225)
  * [你不知道的js(下)](https://github.com/LuoShengMen/StudyNotes/issues/80)
  * [js中容易忽略的小点](https://github.com/LuoShengMen/StudyNotes/issues/26)
+ 
+## Typescript
+* [typescript学习笔记(一)]
  
 ## React
  * [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
