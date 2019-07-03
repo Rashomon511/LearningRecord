@@ -7,6 +7,7 @@
 - [js相关]( http://www.zhangxinxu.com/wordpress/category/js/)
 - [JavaScript 语言参考 ]( https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
 - [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
+- [JavaScript](https://devdocs.io/javascript/)
 
 ### typejavascript
 - [TypeScript 官网](http://www.typescriptlang.org/)
