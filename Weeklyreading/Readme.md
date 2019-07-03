@@ -17,3 +17,4 @@
 
 ### 2019年7月第一周
 - [前端-埋点-理念-通识-浅谈](https://mp.weixin.qq.com/s/Ejdybl2gFdI0375-iJVJFA)
+- [对Webpack的hash稳定性的初步探索](https://zhuanlan.zhihu.com/p/35093098)
