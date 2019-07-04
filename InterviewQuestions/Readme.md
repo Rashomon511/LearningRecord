@@ -55,3 +55,4 @@
 - [x] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
 - [x] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
 - [ ] [JavaScript 进阶问题列表](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
+- [ ] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
