@@ -562,7 +562,8 @@
 - offer 谈判
 
  ### 算法学习
- - [动画学习算法](https://github.com/MisterBooo/LeetCodeAnimation)
+ - [动画学习算法](https://github.com/MisterBooo/LeetCodeAnimation)https://cxyxiaowu.com/
+ - [程序员小吴动画算法](https://cxyxiaowu.com/)
  - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
  - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
