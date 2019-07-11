@@ -10,9 +10,6 @@
 
 ***[Step-By-Step](https://github.com/YvetteLau/Step-By-Step)***
 
-- [ ] [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
-- [ ] [2019年前端面试都聊啥](https://mp.weixin.qq.com/s/e-IC588SZPJK2QRBm3KuHA)
-- [ ] [前端面试之道](https://wangtunan.github.io/blog/interview/#javascript%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E9%A2%98)
 - [x] [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
 - [x] [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [x] [在GitHub上收集的最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
@@ -54,5 +51,10 @@
 - [x] [寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
 - [x] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
 - [x] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
-- [ ] [JavaScript 进阶问题列表](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
-- [ ] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
+- [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
+
+未整理建议直接看的:
+- [x] [JavaScript 进阶问题列表](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
+- [x] [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
+- [x] [2019年前端面试都聊啥](https://mp.weixin.qq.com/s/e-IC588SZPJK2QRBm3KuHA)
+- [x] [前端面试之道](https://wangtunan.github.io/blog/interview/#javascript%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E9%A2%98)
