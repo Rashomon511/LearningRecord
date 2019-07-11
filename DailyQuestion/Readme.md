@@ -11,7 +11,6 @@
  
   
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
-  高质量面试题：[fe9-interview](https://github.com/frontend9/fe9-interview)
  
  ### javascript面试题
  - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
@@ -590,4 +589,4 @@
  - [leetcode](https://github.com/LuoShengMen/StudyNotes/tree/master/algorithm)
  - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
- > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md),[Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview),《你不知道的javascript》《javascript高级程序设计》侵删
+ > 面试题来自于[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) (已获得同意)，[面经](https://github.com/LuoShengMen/StudyNotes/blob/master/InterviewQuestions/Readme.md)链接太多不在这里放了,《你不知道的javascript》《javascript高级程序设计》侵删
