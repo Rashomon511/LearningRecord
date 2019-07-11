@@ -17,3 +17,4 @@
  - [前端进阶系列-目录](http://hpoenixf.com/%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97-%E7%9B%AE%E5%BD%95.html#more)
  - [如何在项目优化中提升自己的价值，来年升职加薪？](https://mp.weixin.qq.com/s/6RaSp9fOnAkX-cbsFRLojg)
  - [思考和表达的方法论](https://www.yuque.com/f2e-growth/notes/cqeqbs)
+ - [成为优秀程序员（和人类）的101个技巧](https://juejin.im/post/5d26ec8a6fb9a07f0a2e0ad5)
