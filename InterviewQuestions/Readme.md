@@ -54,6 +54,7 @@
 - [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
 
 未整理建议直接看的:
+- [x] [一名【合格】前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64098516)
 - [x] [JavaScript 进阶问题列表](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
 - [x] [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 - [x] [2019年前端面试都聊啥](https://mp.weixin.qq.com/s/e-IC588SZPJK2QRBm3KuHA)
