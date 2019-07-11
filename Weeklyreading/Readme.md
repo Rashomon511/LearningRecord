@@ -26,3 +26,4 @@
 - [一个蚂蚁前端曾经的辛酸面试历程](https://juejin.im/post/5b9b47c7f265da0ac25658f6)
 - [2019 年常用 JavaScript 正则大全](https://juejin.im/post/5d245d4151882555300feb77)
 - [如何使用 Set 来提高代码的性能](https://juejin.im/post/5d2284dc51882579df4a4cee)
+- [从浏览器渲染原理，说一说如何实现高效的动画](https://juejin.im/post/5d2491ba6fb9a07ecf724b69)
