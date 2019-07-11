@@ -23,6 +23,7 @@
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
+ - [你熟悉 Typed Arrays 吗？ 如果熟悉，请解释他们与 JavaScript 中的传统数组相比的异同？]
  - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
  - [深浅拷贝](https://github.com/LuoShengMen/StudyNotes/issues/432)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
@@ -32,6 +33,7 @@
  - [为什么普通 for 循环的性能远远高于 forEach 的性能，请解释其中的原因](https://github.com/LuoShengMen/StudyNotes/issues/441)
  - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么](https://github.com/LuoShengMen/StudyNotes/issues/247)
  - [箭头函数与普通函数的区别？](https://github.com/LuoShengMen/StudyNotes/issues/133)
+ - [JavaScript 中有哪些不同的函数调用模式](https://github.com/LuoShengMen/StudyNotes/issues/539)
  - [解释 function foo() {} 与 var foo = function() {} 用法的区别](https://github.com/LuoShengMen/StudyNotes/issues/268)
  - [纯函数的概念？](https://github.com/LuoShengMen/StudyNotes/issues/253)
  - [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/LuoShengMen/StudyNotes/issues/201)
@@ -52,6 +54,7 @@
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
+ - [如何在 JSON 中序列化以下对象？]
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [Function.__proto__(getPrototypeOf)是什么？](https://github.com/LuoShengMen/StudyNotes/issues/423)
@@ -65,6 +68,7 @@
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  - [可迭代对象有什么特点](https://github.com/LuoShengMen/StudyNotes/issues/497)
+ - [JavaScript 中的迭代器（iterators）和迭代（iterables）是什么？ 你知道什么是内置迭代器吗？]
  - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
@@ -135,6 +139,15 @@
  - [input 搜索如何防抖，如何处理中文输入](https://github.com/LuoShengMen/StudyNotes/issues/463)
  - [异步加载 js 脚本的方法有哪些？](https://github.com/LuoShengMen/StudyNotes/issues/496)
  - [JSONP原理及简单实现](https://github.com/LuoShengMen/StudyNotes/issues/498)
+ - [在 JavaScript 和前端的上下文中，函数式编程与响应式编程有什么关系？](https://github.com/LuoShengMen/StudyNotes/issues/542)
+ - [使函数式编程与面向对象或命令式编程不同的关键因素是什么？](https://github.com/LuoShengMen/StudyNotes/issues/543)
+ - [解释即将发布的任一新 ECMAScript 提案](https://github.com/LuoShengMen/StudyNotes/issues/544)
+ - [你熟悉 Typed Arrays 吗？ 如果熟悉，请解释他们与 JavaScript 中的传统数组相比的异同？]
+ - [什么是sectioning算法？]
+ - [默认参数如何工作？]
+ - [解释 TCO - 尾调用优化（Tail Call Optimization）。 有没有支持尾调用优化的 JavaScript 引擎？]
+ - [如何在 JavaScript 中检测触摸事件？]
+ - [JavaScript 中有哪些突出的模块系统（module systems ）？评价 ES 模块系统]
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -283,6 +296,8 @@
  - [你了解 CSS Flex 和 Grid 吗？](https://github.com/LuoShengMen/StudyNotes/issues/517)
  - [已知父级盒子的宽高，子级img宽高未知，想让img铺满父级盒子且图片不能变形](https://github.com/LuoShengMen/StudyNotes/issues/518)
  - [去除inline-block元素间间距的方法](https://github.com/LuoShengMen/StudyNotes/issues/519)
+ - [如果你正在 Review CSS 代码，那么你在代码中经常遇到的问题是什么？](https://github.com/LuoShengMen/StudyNotes/issues/541)
+ - [什么时候应该使用 CSS animations而不是 CSS transitions？你做出这个决定标准是什么？]
   
  
  ### html面试题
@@ -351,6 +366,7 @@
  - [画一下OSI七层模型](https://github.com/LuoShengMen/StudyNotes/issues/406)
  - [WebSocket的实现和应用](https://github.com/LuoShengMen/StudyNotes/issues/425)
  - [fetch发送2次请求的原因](https://github.com/LuoShengMen/StudyNotes/issues/427)
+ - [HTTP/2 将如何影响 JavaScript 应用程序打包？]
  
  
  ### 浏览器面试题
