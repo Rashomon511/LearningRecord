@@ -196,6 +196,11 @@
  - [写出如下代码的打印结果](https://github.com/LuoShengMen/StudyNotes/issues/536)
  - [编程算法题](https://github.com/LuoShengMen/StudyNotes/issues/537)
  - [给定一个整数无序数组和变量 sum,是否存在数组中任意两项和使等于 sum 的值，是则返回true](https://github.com/LuoShengMen/StudyNotes/issues/538)
+ - [请写出如下代码的打印结果](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/155)
+ - [Async/Await 如何通过同步的方式实现异步](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/156)
+ - [修改以下 print 函数，使之输出 0 到 99，或者 99 到 0](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/158)
+ - [不用加减乘除运算符，求整数的7倍](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/161)
+ - [模拟实现一个 localStorage](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/166)
  
  ### css面试题
  - [CSS优先级算法如何计算？](https://github.com/LuoShengMen/StudyNotes/issues/97)
