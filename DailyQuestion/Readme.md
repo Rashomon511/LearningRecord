@@ -13,7 +13,7 @@
   > 题目与答案可能不够完善和正确，欢迎在issues下补充。
  
  ### javascript面试题
- - [JavaScript有几种类型的值？以及内置对象](https://github.com/LuoShengMen/StudyNotes/issues/137)
+ - [JavaScript有几种类型的值？](https://github.com/LuoShengMen/StudyNotes/issues/137)
  - [堆，栈，队列的区别](https://github.com/LuoShengMen/StudyNotes/issues/306)
  - [请指出 JavaScript 宿主对象 (host objects) 和原生对象 (native objects) 的区别](https://github.com/LuoShengMen/StudyNotes/issues/264)
  - [为什么扩展 JavaScript 内置对象不是好的做法](https://github.com/LuoShengMen/StudyNotes/issues/262)
@@ -47,7 +47,7 @@
  - [执行上下文(EC)](https://github.com/LuoShengMen/StudyNotes/issues/150)
  - [为什么 var 可以重复声明](https://github.com/LuoShengMen/StudyNotes/issues/402)
  - [全局作用域中，用const 和let声明的变量不在 window 上,那到底在哪里？如何去获取](https://github.com/LuoShengMen/StudyNotes/issues/46)
- - [var、let 和 const 区别的实现原理是什么](https://github.com/LuoShengMen/StudyNotes/issues/473)
+ - [var、let 和 const 区别的理是什么](https://github.com/LuoShengMen/StudyNotes/issues/473)
  - [什么是闭包，作用是什么，会带来哪些影响](https://github.com/LuoShengMen/StudyNotes/issues/56)
  - [4类常见内存泄漏及如何避免](https://github.com/LuoShengMen/StudyNotes/issues/65)
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
