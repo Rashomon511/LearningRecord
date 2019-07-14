@@ -66,7 +66,7 @@
  * [js中容易忽略的小点](https://github.com/LuoShengMen/StudyNotes/issues/26)
  
 ## Typescript
-* [typescript学习笔记(一)]
+* [typescript学习笔记(一)](https://github.com/LuoShengMen/StudyNotes/issues/545)
  
 ## React
  * [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
