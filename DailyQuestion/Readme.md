@@ -22,7 +22,7 @@
  - [有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣](https://github.com/LuoShengMen/StudyNotes/issues/41)
  - [Array(...)和Array.of(...)的区别](https://github.com/LuoShengMen/StudyNotes/issues/140)
  - [类数组对象转换为数组](https://github.com/LuoShengMen/StudyNotes/issues/141)
- - [你熟悉 Typed Arrays 吗？ 如果熟悉，请解释他们与 JavaScript 中的传统数组相比的异同？]
+ - [你熟悉 Typed Arrays 吗？ 如果熟悉，请解释他们与 JavaScript 中的传统数组相比的异同？](https://github.com/LuoShengMen/StudyNotes/issues/546)
  - [symbol应用](https://github.com/LuoShengMen/StudyNotes/issues/265)
  - [深浅拷贝](https://github.com/LuoShengMen/StudyNotes/issues/432)
  - [== 和 === 有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/144)
@@ -53,7 +53,7 @@
  - [eval是做什么的？](https://github.com/LuoShengMen/StudyNotes/issues/126)
  - [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/LuoShengMen/StudyNotes/issues/127)
  - [XML和JSON的区别？](https://github.com/LuoShengMen/StudyNotes/issues/117)
- - [如何在 JSON 中序列化以下对象？]
+ - [如何在 JSON 中序列化以下对象？](https://github.com/LuoShengMen/StudyNotes/issues/540)
  - [javascript的运行机制](https://github.com/LuoShengMen/StudyNotes/issues/23)
  - [说一说对原型链对理解](https://github.com/LuoShengMen/StudyNotes/issues/57)
  - [Function.__proto__(getPrototypeOf)是什么？](https://github.com/LuoShengMen/StudyNotes/issues/423)
@@ -141,12 +141,10 @@
  - [在 JavaScript 和前端的上下文中，函数式编程与响应式编程有什么关系？](https://github.com/LuoShengMen/StudyNotes/issues/542)
  - [使函数式编程与面向对象或命令式编程不同的关键因素是什么？](https://github.com/LuoShengMen/StudyNotes/issues/543)
  - [解释即将发布的任一新 ECMAScript 提案](https://github.com/LuoShengMen/StudyNotes/issues/544)
- - [你熟悉 Typed Arrays 吗？ 如果熟悉，请解释他们与 JavaScript 中的传统数组相比的异同？]
  - [什么是sectioning算法？]
  - [默认参数如何工作？]
  - [解释 TCO - 尾调用优化（Tail Call Optimization）。 有没有支持尾调用优化的 JavaScript 引擎？]
  - [如何在 JavaScript 中检测触摸事件？]
- - [JavaScript 中有哪些突出的模块系统（module systems ）？评价 ES 模块系统]
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
@@ -428,7 +426,7 @@
  - [react有什么坑点 ](https://github.com/LuoShengMen/StudyNotes/issues/389)
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [React-router中的Link和Route的区别](https://github.com/LuoShengMen/StudyNotes/issues/434)
- - [react-router 里的 <Link> 标签和 <a> 标签有什么区别，如何禁掉 <a> 标签默认事件，禁掉之后如何实现跳转 ](https://github.com/LuoShengMen/StudyNotes/issues/477)
+ - [react-router 里的'<Link>' 标签和 '<a>' 标签有什么区别，如何禁掉 '<a>' 标签默认事件，禁掉之后如何实现跳转](https://github.com/LuoShengMen/StudyNotes/issues/477)
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
  - [redux如何更新组件](https://github.com/LuoShengMen/StudyNotes/issues/259)
