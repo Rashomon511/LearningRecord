@@ -67,7 +67,7 @@
  - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/LuoShengMen/StudyNotes/issues/21)
  - [javascript创建对象方式](https://github.com/LuoShengMen/StudyNotes/issues/228)
  - [可迭代对象有什么特点](https://github.com/LuoShengMen/StudyNotes/issues/497)
- - [JavaScript 中的迭代器（iterators）和迭代（iterables）是什么？ 你知道什么是内置迭代器吗？]
+ - [JavaScript 中的迭代器（iterators）和迭代（iterables）是什么？ 你知道什么是内置迭代器吗？](https://github.com/LuoShengMen/StudyNotes/issues/547)
  - [defineProperty, hasOwnProperty, propertyIsEnumerable都是做什么用的？](https://github.com/LuoShengMen/StudyNotes/issues/208)
  - [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/LuoShengMen/StudyNotes/issues/43)
  - [XMLHttpRequest通用属性和方法](https://github.com/LuoShengMen/StudyNotes/issues/239)
@@ -79,6 +79,8 @@
  - [JS 异步解决方案的发展历程以及优缺点](https://github.com/LuoShengMen/StudyNotes/issues/32)
  - [异步编程的实现方式？](https://github.com/LuoShengMen/StudyNotes/issues/134)
  - [解释同步 (synchronous) 和异步 (asynchronous) 函数的区别](https://github.com/LuoShengMen/StudyNotes/issues/277)
+ - [默认参数如何工作？](https://github.com/LuoShengMen/StudyNotes/issues/548)
+ - [解释 TCO - 尾调用优化（Tail Call Optimization）。 有没有支持尾调用优化的 JavaScript 引擎？](https://github.com/LuoShengMen/StudyNotes/issues/549)
  - [promise的用法](https://github.com/LuoShengMen/StudyNotes/issues/3)
  - [手写一个promise及其 polyfills 实现,如何实现多个请求并行？](https://github.com/LuoShengMen/StudyNotes/issues/280)
  - [如何实现 Promise.all](https://github.com/LuoShengMen/StudyNotes/issues/147)
@@ -141,10 +143,7 @@
  - [在 JavaScript 和前端的上下文中，函数式编程与响应式编程有什么关系？](https://github.com/LuoShengMen/StudyNotes/issues/542)
  - [使函数式编程与面向对象或命令式编程不同的关键因素是什么？](https://github.com/LuoShengMen/StudyNotes/issues/543)
  - [解释即将发布的任一新 ECMAScript 提案](https://github.com/LuoShengMen/StudyNotes/issues/544)
- - [什么是sectioning算法？]
- - [默认参数如何工作？]
- - [解释 TCO - 尾调用优化（Tail Call Optimization）。 有没有支持尾调用优化的 JavaScript 引擎？]
- - [如何在 JavaScript 中检测触摸事件？]
+ - [如何在 JavaScript 中检测触摸事件？](https://github.com/LuoShengMen/StudyNotes/issues/550)
  
   ### js笔试题
  - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/LuoShengMen/StudyNotes/issues/16)
