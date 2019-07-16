@@ -293,7 +293,7 @@
  - [已知父级盒子的宽高，子级img宽高未知，想让img铺满父级盒子且图片不能变形](https://github.com/LuoShengMen/StudyNotes/issues/518)
  - [去除inline-block元素间间距的方法](https://github.com/LuoShengMen/StudyNotes/issues/519)
  - [如果你正在 Review CSS 代码，那么你在代码中经常遇到的问题是什么？](https://github.com/LuoShengMen/StudyNotes/issues/541)
- - [什么时候应该使用 CSS animations而不是 CSS transitions？你做出这个决定标准是什么？]
+ - [什么时候应该使用 CSS animations而不是 CSS transitions？你做出这个决定标准是什么？](https://github.com/LuoShengMen/StudyNotes/issues/551)
   
  
  ### html面试题
@@ -362,7 +362,7 @@
  - [画一下OSI七层模型](https://github.com/LuoShengMen/StudyNotes/issues/406)
  - [WebSocket的实现和应用](https://github.com/LuoShengMen/StudyNotes/issues/425)
  - [fetch发送2次请求的原因](https://github.com/LuoShengMen/StudyNotes/issues/427)
- - [HTTP/2 将如何影响 JavaScript 应用程序打包？]
+ - [HTTP/2 将如何影响 JavaScript 应用程序打包？](https://github.com/LuoShengMen/StudyNotes/issues/552)
  
  
  ### 浏览器面试题
@@ -416,7 +416,6 @@
  - [forceUpdate经历了哪些生命周期，子组件呢?](https://github.com/LuoShengMen/StudyNotes/issues/333)
  - [react事件机制](https://github.com/LuoShengMen/StudyNotes/issues/376)
  - [Fiber](https://github.com/LuoShengMen/StudyNotes/issues/163)
- - [React Hooks]
  - [HOC](https://github.com/LuoShengMen/StudyNotes/issues/334)
  - [高阶组件和基类如何选择](https://github.com/LuoShengMen/StudyNotes/issues/332)
  - [React.Component和React.pureComponent区别](https://github.com/LuoShengMen/StudyNotes/issues/442)
@@ -425,14 +424,13 @@
  - [react有什么坑点 ](https://github.com/LuoShengMen/StudyNotes/issues/389)
  - [react-router实现方式，单页面应用相关东西](https://github.com/LuoShengMen/StudyNotes/issues/177)
  - [React-router中的Link和Route的区别](https://github.com/LuoShengMen/StudyNotes/issues/434)
- - [react-router 里的'<Link>' 标签和 '<a>' 标签有什么区别，如何禁掉 '<a>' 标签默认事件，禁掉之后如何实现跳转](https://github.com/LuoShengMen/StudyNotes/issues/477)
+ - [ react-router里的Link 标签和a标签有什么区别，如何禁掉a标签默认事件，禁掉之后如何实现跳转 ](https://github.com/LuoShengMen/StudyNotes/issues/477)
  - [redux](https://github.com/LuoShengMen/StudyNotes/issues/169)
  - [聊聊 Redux 和 Vuex 的设计思想](https://github.com/LuoShengMen/StudyNotes/issues/44)
  - [redux如何更新组件](https://github.com/LuoShengMen/StudyNotes/issues/259)
  - [redux 为什么要把 reducer 设计成纯函数](https://github.com/LuoShengMen/StudyNotes/issues/282)
  - [redux-saga](https://github.com/LuoShengMen/StudyNotes/issues/256)
  - [dva](https://github.com/LuoShengMen/StudyNotes/issues/252)
- - [react-redux]
  - [React和Vue对比](https://github.com/LuoShengMen/StudyNotes/issues/174)
  - [react和vue你都使用过，说说它们的区别？](https://github.com/LuoShengMen/StudyNotes/issues/345)
  - [react和vue更新机制的区别](https://github.com/LuoShengMen/StudyNotes/issues/340)
