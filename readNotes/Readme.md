@@ -40,17 +40,10 @@
  * [用Proxy/Object.defineProperty实现双向绑定](https://github.com/LuoShengMen/StudyNotes/issues/474)
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/StudyNotes/issues/479)
  * [函数柯里化](https://github.com/LuoShengMen/StudyNotes/issues/481)
- * [路由实现的原理]
- * [大型文件上传]
  * [利用webpack搭建脚手架的一套完整流程](https://github.com/LuoShengMen/StudyNotes/issues/535)
  * [webpack实现HMR及其实现原理](https://github.com/LuoShengMen/StudyNotes/issues/492)
- * [babel的实现原理]
- * [初解PWA]
- * [了解serverless]
- * [ssr]
- * [react源码解析]
- * [发布订阅]
- * [单页应用优化]
+ * [手撸loader和plugin全解析](https://github.com/LuoShengMen/StudyNotes/issues/553)
+
 
 ## js高级程序设计
 
