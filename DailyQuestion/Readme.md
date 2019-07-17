@@ -578,6 +578,7 @@
 - offer 谈判
 
  ### 算法学习
+ - [手写算法](https://github.com/ConardLi/awesome-coding-js)
  - [动画学习算法](https://github.com/MisterBooo/LeetCodeAnimation)https://cxyxiaowu.com/
  - [程序员小吴动画算法](https://cxyxiaowu.com/)
  - [五大算法](https://github.com/LuoShengMen/StudyNotes/issues/161)
