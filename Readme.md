@@ -29,7 +29,7 @@
  ### 微信公众号
  #### 学习中分享，分享中学习
  
- ！[](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
+ ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
  
  ### 高效学习
  ![](/images/高效学习.png)
