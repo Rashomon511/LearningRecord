@@ -32,3 +32,4 @@
 - [前端学serverless系列——WebApplication迁移实践](https://imweb.io/topic/5d1c7c37f7b5692b080f2639?utm_source=tuicool&utm_medium=referral)
 - [CSS animations 和 transitions 的性能:浏览器到底做了什么？](https://www.cnblogs.com/wisdomoon/p/css-animation-in-brower.html)
 - [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+- [搭建带热更新功能的本地开发node server](https://www.cnblogs.com/wonyun/p/7077296.html)
