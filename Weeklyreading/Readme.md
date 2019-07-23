@@ -33,3 +33,9 @@
 - [CSS animations 和 transitions 的性能:浏览器到底做了什么？](https://www.cnblogs.com/wisdomoon/p/css-animation-in-brower.html)
 - [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 - [搭建带热更新功能的本地开发node server](https://www.cnblogs.com/wonyun/p/7077296.html)
+
+### 2019年7月第四周
+- [微前端：未来前端开发的新趋势 — 第一部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-1.md)
+- [微前端：未来前端开发的新趋势 — 第二部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-2.md)
+- [微前端：未来前端开发的新趋势 — 第三部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-3.md)
+- [微前端：未来前端开发的新趋势 — 第四部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-4.md)
