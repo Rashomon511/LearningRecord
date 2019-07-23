@@ -1,5 +1,5 @@
 
  ### 高效学习
- ![](./高效学习.png)
- ![](./learning.jpg)
- ![](./web.jpg)
+ ![](./images/高效学习.png)
+ ![](images/learning.jpg)
+ ![](web.jpg)
