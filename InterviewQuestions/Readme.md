@@ -52,6 +52,7 @@
 - [x] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
 - [x] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
 - [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
+- [ ] [每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
 
 未整理建议直接看的:
 - [x] [一名【合格】前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64098516)
