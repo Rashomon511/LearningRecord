@@ -60,3 +60,5 @@
 - [x] [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 - [x] [2019年前端面试都聊啥](https://mp.weixin.qq.com/s/e-IC588SZPJK2QRBm3KuHA)
 - [x] [前端面试之道](https://wangtunan.github.io/blog/interview/#javascript%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E9%A2%98)
+- [ ] [面试官到底想看什么样的简历？](https://mp.weixin.qq.com/s/UGLq5mW0vdexfnNOpoErmQ)
+- [ ] [技术面试」问答中有什么十分实用的面试技巧](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
