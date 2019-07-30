@@ -40,3 +40,6 @@
 - [微前端：未来前端开发的新趋势 — 第三部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-3.md)
 - [微前端：未来前端开发的新趋势 — 第四部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-4.md)
 - [前端基础篇之CSS世界](https://juejin.im/post/5ce607a7e51d454f6f16eb3d)
+
+### 2019年8月第一周
+- [JS无形装逼，最为致命](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
