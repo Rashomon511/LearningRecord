@@ -14,9 +14,6 @@
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#how-to-contribute)
 
-### 技巧
-
-
 ### 异步编程
  - [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
  - [同步函数与异步函数 ](http://blog.csdn.net/ixidof/article/details/7108771)
@@ -26,10 +23,10 @@
  - [体验异步的终极解决方案-ES7的Async/Await ](http://blog.csdn.net/z69183787/article/details/60143576)
  - [Async和Await异步编程的原理 ](http://blog.csdn.net/dyllove98/article/details/9371839)
  - [ES7 中引入 async-await ](http://www.cnblogs.com/wangfupeng1988/p/6532734.html)
- - [ 浅谈node.js 回调函数与事件机制 ](http://blog.csdn.net/zhouziyu2011/article/details/68928175)
+ - [浅谈node.js 回调函数与事件机制 ](http://blog.csdn.net/zhouziyu2011/article/details/68928175)
  
 ### 函数式编程
-- [Ramda（中文文档） ](http://ramda.cn/docs/)
+- [Ramda（中文文档）](http://ramda.cn/docs/)
 - [JS 函数式编程指南 ](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 ### 正则表达式
