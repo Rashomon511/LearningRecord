@@ -15,7 +15,7 @@
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#how-to-contribute)
 
 ### 技巧
-- [JS无形装逼，最为致命](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
+
 
 ### 异步编程
  - [深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
@@ -120,6 +120,7 @@
 ### less文档
 - [less文档](http://lesscss.cn/)
 - [stylelint规则](https://segmentfault.com/a/1190000004588228)
+- [less.js](https://less.bootcss.com/#)
 
 ### 后台框架
  - [node文档 ](http://nodejs.cn/api/documentation.html)
