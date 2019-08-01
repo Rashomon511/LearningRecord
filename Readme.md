@@ -1,6 +1,5 @@
  #  前端进阶之路 #  
  
- > 乾坤未定，诸事可为
 
 - [学习读书笔记](//github.com/LuoShengMen/StudyNotes/tree/master/readNotes)
 
