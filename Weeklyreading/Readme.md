@@ -45,3 +45,6 @@
 
 ### 2019年8月第一周
 - [JS无形装逼，最为致命](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
+- [ReactHooks入门](https://juejin.im/post/5d18503c6fb9a07ef3767dc0)
+- [可能是你需要的 React + TypeScript 50 条规范和经验](https://juejin.im/post/5ce24f8ae51d45106477bd45)
+- [JavaScript 数据结构与算法之美 - 十大经典排序算法汇总](https://juejin.im/post/5d3ea9a4e51d4561f060cd2d)
