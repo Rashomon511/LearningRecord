@@ -294,6 +294,7 @@
  - [去除inline-block元素间间距的方法](https://github.com/LuoShengMen/StudyNotes/issues/519)
  - [如果你正在 Review CSS 代码，那么你在代码中经常遇到的问题是什么？](https://github.com/LuoShengMen/StudyNotes/issues/541)
  - [什么时候应该使用 CSS animations而不是 CSS transitions？你做出这个决定标准是什么？](https://github.com/LuoShengMen/StudyNotes/issues/551)
+ - [javascript 实现一个带并发限制的异步调度器，保证同时最多运行2个任务](https://github.com/LuoShengMen/StudyNotes/issues/552)
   
  
  ### html面试题
