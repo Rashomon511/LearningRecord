@@ -239,7 +239,6 @@
  - [三栏式布局](https://github.com/LuoShengMen/StudyNotes/issues/431)
  - [flex布局介绍](https://github.com/LuoShengMen/StudyNotes/issues/292)
  - [align-items和justify-content的区别](https://github.com/LuoShengMen/StudyNotes/issues/409)
- - [清除浮动的几种方式，各自的优缺点](https://github.com/LuoShengMen/StudyNotes/issues/92)
  - [1000-div问题](https://github.com/LuoShengMen/StudyNotes/issues/365)
  - [css sprite是什么,有什么优缺点](https://github.com/LuoShengMen/StudyNotes/issues/87)
  - [css合并方法](https://github.com/LuoShengMen/StudyNotes/issues/105)
