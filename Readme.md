@@ -27,7 +27,7 @@
  > * [讶羽Blog](https://github.com/mqyqingfeng/Blog)
  > * [木易杨进阶系列](https://github.com/yygmind/blog)
  
- ### 微信公众号
- #### 学习中分享，分享中学习
+ ### 交流
+ 欢迎关注我的微信公众号，微信扫下面二维码或搜索“无畏前端” ，学习中分享，分享中学习！希望与您一同进步
  
  ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
