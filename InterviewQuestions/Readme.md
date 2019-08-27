@@ -55,7 +55,6 @@
 - [x] [前端面试题 -- webpack](https://github.com/Roamen/web-document/issues/7#w15)
 - [x] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
 - [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
-- [ ] [每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
 - [x] [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947#heading-27)
 
 未整理建议直接看的:
@@ -66,3 +65,4 @@
 - [x] [前端面试之道](https://wangtunan.github.io/blog/interview/#javascript%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E9%A2%98)
 - [ ] [面试官到底想看什么样的简历？](https://mp.weixin.qq.com/s/UGLq5mW0vdexfnNOpoErmQ)
 - [ ] [技术面试」问答中有什么十分实用的面试技巧](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
+- [ ] [每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
