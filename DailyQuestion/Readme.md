@@ -333,6 +333,26 @@
  - [操作dom有哪些方法](https://github.com/LuoShengMen/StudyNotes/issues/412)
  - [介绍一下Viewport](https://github.com/LuoShengMen/StudyNotes/issues/510)
  - [href和src区别](https://github.com/LuoShengMen/StudyNotes/issues/511)
+ - window 常用属性与方法有哪些 ？
+ - document 常用属性与方法有哪些 ？
+ - 讲述你对 reflow 和 repaint 的理解。
+ - Doctype 作用 ？标准模式与兼容模式各有什么区别 ?
+ - HTML5 为什么只需要写 < !DOCTYPE HTML> ？
+ - 行内元素有哪些 ？块级元素有哪些 ？ 空(void)元素有那些 ？
+ - HTML5 有哪些新特性、移除了那些元素 ？如何处理 HTML5 新标签的浏览器兼容问题 ？如何区分 HTML 和 HTML5 ？
+ - 简述一下你对 HTML 语义化的理解 ？
+ - HTML5 的离线储存怎么使用，工作原理能不能解释一下 ？
+ - 浏览器是怎么对 HTML5 的离线储存资源进行管理和加载的呢 ？
+ - 请描述一下 cookies，sessionStorage 和 localStorage 的区别 ？
+ - iframe 内嵌框架有那些缺点 ？
+ - Label 的作用是什么？是怎么用的 ？
+ - HTML5 的 form 如何关闭自动完成功能 ？
+ - 如何实现浏览器内多个标签页之间的通信 ? (阿里)
+ - webSocket 如何兼容低浏览器 ？(阿里)
+ - 页面可见性（Page Visibility API） 可以有哪些用途 ？
+ - 网页验证码是干嘛的，是为了解决什么安全问题。
+ - title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别 ？
+ - 前端页面有哪三层构成，分别是什么？作用是什么？
  
  ### 计算机网络面试题
  - [http的状态码请求方式，以及HTTP HEAD（HTTP头）](https://github.com/LuoShengMen/StudyNotes/issues/62)
@@ -399,9 +419,11 @@
  - [首屏时间、白屏时间](https://github.com/LuoShengMen/StudyNotes/issues/522)
  - [域名收敛](https://github.com/LuoShengMen/StudyNotes/issues/520)
  - [如何实现文件断点续传](https://github.com/LuoShengMen/StudyNotes/issues/521)
+ - 如何确定服务端开启了gzip
   
   
  ### 框架面试题
+ - 为什么选择使用框架而不是原生?
  - [react 的virtual dom和diff算法的实现方式](https://github.com/LuoShengMen/StudyNotes/issues/338)
  - [react生命周期](https://github.com/LuoShengMen/StudyNotes/issues/13)
  - [实现组件有哪些方式？](https://github.com/LuoShengMen/StudyNotes/issues/330)
@@ -459,6 +481,14 @@
  - [$route和$router的区别](https://github.com/LuoShengMen/StudyNotes/issues/531)
  - [watch的作用是什么](https://github.com/LuoShengMen/StudyNotes/issues/532)
  - [vuex原理](https://github.com/LuoShengMen/StudyNotes/issues/533)
+ - mixin、hoc、render props、react-hooks的优劣如何？](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [你是如何理解fiber的?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [你对 Time Slice的理解?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [react-redux是如何工作的? ](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [redux与mobx的区别?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [redux异步中间件之间的优劣?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [redux中如何进行异步操作?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
+ - [React如何进行组件/逻辑复用?](https://github.com/xiaomuzhu/front-end-interview/blob/master/docs/guide/react.md)
  
  ### 前端工程
  - [简单介绍一下webpack](https://github.com/LuoShengMen/StudyNotes/issues/501)
