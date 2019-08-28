@@ -66,3 +66,4 @@
 - [ ] [面试官到底想看什么样的简历？](https://mp.weixin.qq.com/s/UGLq5mW0vdexfnNOpoErmQ)
 - [ ] [技术面试」问答中有什么十分实用的面试技巧](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
 - [ ] [每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
+- [ ] [5分钟谈前端面试](https://mp.weixin.qq.com/s/TpoKxF4gMi4pSML--W0X2g)
