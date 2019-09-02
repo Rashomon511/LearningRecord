@@ -57,3 +57,10 @@
  - [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
  - [珍藏多年的 Git 问题和操作清单](https://mp.weixin.qq.com/s/14WBS4GcZlEbBumfUagXMA)
  - [布订阅模式，在工作中它的能量超乎你的想象](https://mp.weixin.qq.com/s/QHg4axY8WcloWtrbEhAlow)
+ 
+### 2019年9月第一周
+ - [AST 与前端工程化实战](https://mp.weixin.qq.com/s/E-D38buIfVaLZk74VRMGKA)
+ - [面向前端工程师的Nodejs入门手册(一)](https://mp.weixin.qq.com/s/FERD_PoVUYEHD9FNxWws4g)
+ - [面向前端工程师的Nodejs入门手册(二)](https://mp.weixin.qq.com/s/k9L_jTv7uyUN-8E_bunhzQ)
+ - [面向前端工程师的Nodejs入门手册(三)](https://mp.weixin.qq.com/s/_UTjZYrS4o90a92-Hy5kLg)
+ - [面向前端工程师的Nodejs入门手册(四)](https://mp.weixin.qq.com/s/WcdS9gHt23HdeI8LrEcj3g)
