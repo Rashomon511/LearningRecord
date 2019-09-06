@@ -57,6 +57,7 @@
 - [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
 - [x] [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947#heading-27)
 - [] [阿里几道前端笔试题](https://zhuanlan.zhihu.com/p/80366959?utm_source=wechat_session&utm_medium=social&utm_oi=27827097305088)
+- [] [北理大佬是如何拿到 9 家大厂的前端 offer ](https://mp.weixin.qq.com/s/SEspnA3RqLhroKkjpJt2zA)
 
 未整理建议直接看的:
 - [x] [一名【合格】前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64098516)
