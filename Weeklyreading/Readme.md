@@ -64,3 +64,4 @@
  - [面向前端工程师的Nodejs入门手册(二)](https://mp.weixin.qq.com/s/k9L_jTv7uyUN-8E_bunhzQ)
  - [面向前端工程师的Nodejs入门手册(三)](https://mp.weixin.qq.com/s/_UTjZYrS4o90a92-Hy5kLg)
  - [面向前端工程师的Nodejs入门手册(四)](https://mp.weixin.qq.com/s/WcdS9gHt23HdeI8LrEcj3g)
+ - [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9#heading-32)
