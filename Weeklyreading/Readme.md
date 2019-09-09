@@ -65,3 +65,6 @@
  - [面向前端工程师的Nodejs入门手册(三)](https://mp.weixin.qq.com/s/_UTjZYrS4o90a92-Hy5kLg)
  - [面向前端工程师的Nodejs入门手册(四)](https://mp.weixin.qq.com/s/WcdS9gHt23HdeI8LrEcj3g)
  - [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9#heading-32)
+ 
+ ### 2019年9月第二周
+- [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
