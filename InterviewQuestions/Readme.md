@@ -56,10 +56,12 @@
 - [x] [2019前端最全面试题](https://zhuanlan.zhihu.com/p/63962882?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
 - [x] [老码农的字节跳动前端面试总结](https://zhuanlan.zhihu.com/p/68974750)
 - [x] [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947#heading-27)
-- [] [阿里几道前端笔试题](https://zhuanlan.zhihu.com/p/80366959?utm_source=wechat_session&utm_medium=social&utm_oi=27827097305088)
-- [] [北理大佬是如何拿到 9 家大厂的前端 offer ](https://mp.weixin.qq.com/s/SEspnA3RqLhroKkjpJt2zA)
-- [] [面试资源汇总](https://github.com/abc-club/free-resources/blob/master/INTERVIEW.md)
-- [] [2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b#comment)
+- [ ] [阿里几道前端笔试题](https://zhuanlan.zhihu.com/p/80366959?utm_source=wechat_session&utm_medium=social&utm_oi=27827097305088)
+- [ ] [北理大佬是如何拿到 9 家大厂的前端 offer ](https://mp.weixin.qq.com/s/SEspnA3RqLhroKkjpJt2zA)
+- [ ] [面试资源汇总](https://github.com/abc-club/free-resources/blob/master/INTERVIEW.md)
+- [ ] [2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b#comment)
+- [ ] [BAT面试官爱问的算法面试题](https://zhuanlan.zhihu.com/p/67840811?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800)
+- [ ] [大前端面试宝典 - 图解前端](https://lucifer.ren/fe-interview/#/?utm_source=wechat_session&utm_medium=social&utm_oi=663734070933196800&nsukey=iayY522jr7dUmK46hinnTuym4LehvxCmggIFbU9Hk72sWOLSNyaTpSSVCyG5TSyCpyOnRZvQWX%2FoDyGJTA2DcFx2FtJd8kr9bZ0qK2q2oS1AX9giEHHwZMy5m8jMN2ed4ukQwUC81Ghh4RLBtdPX8VAirtxM1amoUZTBkeZlNIhZPSVtdf%2F7Y3yyMFPsO24e6eGCbUIkO2ReB1GjU2kxVQ%3D%3D)
 
 未整理建议直接看的:
 - [x] [一名【合格】前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64098516)
