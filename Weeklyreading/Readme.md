@@ -72,4 +72,4 @@
 - [前端工程师需要了解的 Babel 知识](https://mp.weixin.qq.com/s/zQ5kCgoUbTOTqARI5o2cBQ)
 
 ### 2019年9月第三周
-- [《趣说前端 - 000》— 序章](https://mp.weixin.qq.com/s/VgwPfJqjrsW96YM6jyBt2w)
+- [前端性能优化之白屏时间](https://mp.weixin.qq.com/s/N_6faORvlDSxFQMh1o2naA)
