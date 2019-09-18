@@ -36,6 +36,7 @@
 - [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 - [搭建带热更新功能的本地开发node server](https://www.cnblogs.com/wonyun/p/7077296.html)
 
+
 ### 2019年7月第四周
 - [微前端：未来前端开发的新趋势 — 第一部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-1.md)
 - [微前端：未来前端开发的新趋势 — 第二部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-2.md)
@@ -68,3 +69,7 @@
  
  ### 2019年9月第二周
 - [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
+- [前端工程师需要了解的 Babel 知识](https://mp.weixin.qq.com/s/zQ5kCgoUbTOTqARI5o2cBQ)
+
+### 2019年9月第三周
+- [《趣说前端 - 000》— 序章](https://mp.weixin.qq.com/s/VgwPfJqjrsW96YM6jyBt2w)
