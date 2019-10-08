@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+      function object(o){
+        function F(){}
+        F.prototype = o;
+        return new F();
+      }
+      function SuperType(name){
+        this.name = name;
+        this.colors = ["red", "blue", "green"];
+      }
+      SuperType.prototype.sayName = function(){
+        alert(this.name);
+      };
+      function SubType(name, age){
+        SuperType.call(this, name);
+        this.age = age;
+      }
+      function inheritPrototype(subType, superType){
+        var prototype = object(superType.prototype); //创建对象
+        prototype.constructor = subType; //增强对象
+        subType.prototype = prototype; //指定对象
+      }
+
+      inheritPrototype(SubType, SuperType);
+      SubType.prototype.sayAge = function(){
+        alert(this.age);
+      }
+      var p1 = new SubType('Jack', 20);
+      p1.colors.push('white');
+      console.log(p1.colors) //["red", "blue", "green", "white"]
+      var p2 = new SubType('Mark', 18);
+      console.log(p2.name)  // Mark
+    </script>
+</head>
+<body>
+
+</body>
+</html>

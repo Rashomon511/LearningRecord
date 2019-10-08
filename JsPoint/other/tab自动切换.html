@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>自动切换选项卡</title>
+    <script type="text/javascript">
+        function $(id){
+            return typeof id==='string'?document.getElementById(id):id;
+        }
+        window.onload=function(){
+            //获取鼠标滑过的标签和要切换端内容
+            var navs=$('nav').getElementsByTagName('li');
+            var divs=$('Tab-con').getElementsByTagName('div');
+            var timer=null;
+            var index=0;
+            if(navs.length!=divs.length){
+                return;
+            }
+            for(var i=0;i<navs.length;i++){
+                navs[i].id=i;
+                navs[i].onmouseover=function(){
+                    clearInterval(timer);
+                    changOption(this.id);
+                }
+                navs[i].onmouseout=function(){
+                    timer=setInterval(autoPlay,2000);
+                }
+            }
+            if(timer){
+                clserInterval(timer);
+                timer=null;
+            }
+            timer=setInterval(autoPlay,2000);
+            function autoPlay(){
+                index++;
+                if(index>=3){
+                    index=0;
+                }
+                changOption(index);
+            }
+            function changOption(curIndex){
+                for(var j=0;j<navs.length;j++){
+                    navs[j].className='';
+                    divs[j].style.display="none";
+                }
+                navs[curIndex].className='on';
+                divs[curIndex].style.display="block";
+                index=curIndex;
+            }
+        }
+    </script>
+</head>
+<body>
+<div class="Tab" id="Tab">
+    <div class="nav" id="nav">
+        <ul>
+            <li><a href="#">新闻</a></li>
+            <li><a href="#">公告</a></li>
+            <li><a href="#">安全</a></li>
+        </ul>
+    </div>
+    <div class="Tab-con" id="Tab-con">
+        <div class="content" style="display: block;">
+            <p>会议决定，中国共产党第十八届中央委员会第六次全体会议于10月24日至27日在北京召开。
+                中共中央政治局听取了《关于新形势下党内政治生活的若干准则》、《中国共产党党内监督条例》稿在党内外一定范围征求意见的情况报告，决定根据这次会议讨论的意见进行修改后将文件稿提请十八届六中全会审议。
+                　　                                     会议认为，党中央就全会两个文件稿在党内一定范围征求意见，目的是充分发扬民主、集中全党智慧、凝聚全党共识把文件稿修改好。各地区各部门各方 面提出了许多有价值的意见和建议。这些意见和建议，反映了全党同志对全面从严治党、加强和规范党内政治生活、加强党内监督的认识和思考，是修改好文件的重 要依据。要全面梳理、逐条研究、尽量吸收，把文件制定好，为加强和规范新形势下党内政治生活、加强党内监督提供正确指导。
+                　　                                     会议强调，历史经验表明，我们党作为马克思主义政党，必须旗帜鲜明讲政治，严肃认真开展党内政治生活。新形势下加强和规范党内政治生活，必须以 党章为根本遵循，坚持党的政治路线、思想路线、组织路线、群众路线，着力增强党内政治生活的政治性、时代性、原则性、战斗性，着力增强党自我净化、自我完 善、自我革新、自我提高能力，着力提高党的领导水平和执政水平、增强拒腐防变和抵御风险能力，着力维护党中央权威、保证党的团结统一、保持党的先进性和纯 洁性，努力在全党形成又有集中又有民主、又有纪律又有自由、又有统一意志又有个人心情舒畅生动活泼的政治局面。</p>
+        </div>
+        <div class="content" style="display: none;">
+            <p>不结盟运动并非讨论南海问题合适场合，其会议成果文件应根据不结盟运动长期坚持的协商一致原则，体现所有成员国的共识。事实很清楚，极个别国家 坚持要求在成果文件中片面渲染有关涉南海内容，但这并没有得到不结盟运动绝大多数成员国的赞同，有关内容也没有反映包括中方在内的南海问题相关方的共识。
+
+                　                                         　在中国和东盟国家的共同努力下，当前南海形势正朝着积极方向发展。中方希望有关国家切实尊重中方立场和与东盟方达成的有关共识，秉持客观公正立场，为中国—东盟关系健康稳定发展和南海问题妥善处理做出建设性的贡献。</p>
+        </div>
+        <div class="content" style="display: none;">
+            <p>调查组初步建议，则成辽宁省文物局重新组织专家查找工程存在的问题，上报国家文物局，再进行竣工验收。对野长城被抹平事件责任单位和责任人严肃处理。针对此次事件反映出来的长城保护工程中，保护理念落实不到位工程不规范问题，建议国家文物局敦促长城沿线15个省，对所有项目进行排查，避免造成长城文物本体遭到破坏。下一步将抽查长城保护维修项目。
+
+                　　据介绍，此段长城所涉及的抢险维修工程技术方案于2012年报国家文物局审批。鉴于该段明 长城遗存存在较为严重的结构性病害和水患问题，为避免文物本体进一步损毁、消失，国家文物局经专家审核评估后批复同意所报方案，提出补充长城墙体顶部、相关台体顶部防渗、排水专项设计等要求，并责成省文物局指导设计单位对方案进行修改完善后核准实施。该项工程于2013年开始实施，2014年完成。京华时报记者张然
+
+                　　[国家文物局副局长检讨自身存在管理缺位]国家文物局副局长宋新潮表示，事情发生之后，国家文物局一直在反思，绝不推脱责任。我们缺乏后期的监管和跟踪， 检查缺位，不掌握工程情况。两年了地方初验没有上报，我们确实存在管理缺位。不回避，一定要把长城这份珍贵的文化遗产保护好。京华记者张然</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

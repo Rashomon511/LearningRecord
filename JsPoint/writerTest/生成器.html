@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+function foo(x,y) {
+    console.log(34444)
+         return new Promise(function(resolve,reject){
+             resolve(x,y);
+         })
+}
+     function *main() {
+         try {
+             console.log(1111)
+             var text = yield foo( 11, 31 );
+             console.log( text );
+         }
+         catch (err) {
+             console.error( err );
+} }
+
+var it = main();
+     var p = it.next().value; 
+     console.log(2222, p)
+// 等待promise p决议 
+p.then(
+         function(text){
+             console.log(33333)
+             it.next( text );
+},
+         function(err){
+             it.throw( err );
+} );
+
+
+</script>
+</body>
+</html>
+
+
+

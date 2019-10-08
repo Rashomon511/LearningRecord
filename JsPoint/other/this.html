@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+
+</head>
+
+<body>
+  <span id="box">
+    <button id="button">button</button>
+  </span>
+  <script>
+    let b = 4
+    function foo() {
+      var a = 3
+      var b = 9;
+      bar.call(this, a);
+    }
+    var obj = {
+      b: 3
+    } 
+    function bar(a) {
+      console.log(this)
+      console.log(b)
+      console.log(this.b)
+      this.a = a;
+      this.age = 12
+      this.getAge = function(){
+        console.log(this.age)
+        setTimeout(() => {
+          console.log(this.age)
+        }, 500);
+      }
+    }
+    const fooA = new foo()
+    fooA.getAge()
+
+    let a = 1;
+    var b = 2
+    let Object = {
+      a: 3,
+      d: function () {
+        console.log(this.b)
+        console.log(a)
+        console.log(this.a)
+      },
+    }
+    Object.d();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="js/jquery-1.12.4.min.js"></script>
+    <script src="http://mockjs.com/dist/mock.js"></script>
+    <title></title>
+
+    <script>
+        Mock.mock('http://api.com', {
+            "user|5-10": [{
+                'name': '@cname',   //中文名称
+                'age|1-100': 100,   //100以内随机整数
+                'birthday': '@date("yyyy-MM-dd")',  //日期
+                'city': '@city(true)'   //中国城市
+            }]
+        });
+        $.ajax({
+            url: 'http://api.com',
+            dataType: 'json'
+        }).done(function(data, status, xhr) {
+            console.log(
+                JSON.stringify(data, null, 4)
+            )
+        });
+        function myajax(url) {
+            if (window.XMLHttpRequest) {
+                ajax = new XMLHttpRequest();
+            } else if (window.ActiveXObject) {
+                try {
+                    ajax = new ActiveXObject("Msxml2.XMLHTTP");
+                } catch (e) {
+                    try {
+                        ajax = new ActiveXObject("Microsoft.XMLHTTP");
+                    } catch (e) {}
+                }
+            }
+            if (!ajax) {
+                window.alert("不能创建XMLHttpRequest对象实例.");
+                return false;
+            }
+            ajax.open("GET", url, true);
+            ajax.send(null);
+            ajax.onreadystatechange = function() {
+                if (ajax.readyState == 4 && ajax.status == 200) {
+                    console.log(ajax.responseText);
+                }
+            }
+        }
+
+        myajax('http://api.com');
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

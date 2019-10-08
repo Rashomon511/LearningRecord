@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+class LazyManClass {
+    constructor(name) {
+        this.taskList = [];
+        this.name = name;
+        console.log(`Hi I am ${this.name}`);
+        setTimeout(() => {
+            console.log(5)
+            this.next();
+        }, 0);
+    }
+    eat (name) {
+        console.log(1)
+        var that = this;
+        var fn = (function (n) {
+            return function () {
+                console.log(`I am eating ${n}`)
+                that.next();
+            }
+        })(name);
+        this.taskList.push(fn);
+        return this;
+    }
+    sleepFirst (time) {
+        console.log(2)
+        var that = this;
+        var fn = (function (t) {
+            return function () {
+                setTimeout(() => {
+                    console.log(`等待了${t}秒...`)
+                    that.next();
+                }, t * 1000);  
+            }
+        })(time);
+        this.taskList.unshift(fn);
+        return this;
+    }
+    sleep (time) {
+        console.log(3)
+        var that = this
+        var fn = (function (t) {
+            return function () {
+                setTimeout(() => {
+                    console.log(`等待了${t}秒...`)
+                    that.next();
+                }, t * 1000); 
+            }
+        })(time);
+        this.taskList.push(fn);
+        return this;
+    }
+    next () {
+        console.log(4)
+        var fn = this.taskList.shift();
+        fn && fn();
+    }
+}
+function LazyMan(name) {
+    return new LazyManClass(name);
+}
+LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(4).eat('junk food');
+</script>
+</body>
+</html>
+

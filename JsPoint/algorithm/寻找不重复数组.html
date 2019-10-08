@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        var arr = [0,1,0,3,12, 3, 1,2, 3, 3]
+        const getNum = (arr) => {
+            arr.forEach(item => {
+                if (arr.indexOf(item) === arr.lastIndexOf(item)) {
+                    return item;
+                }
+            });
+        }
+        getNum(arr);
+    </script>
+</head>
+<body>
+</body>
+</html>

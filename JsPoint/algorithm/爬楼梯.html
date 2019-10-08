@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+        <button id="button">button</button>
+    </span>
+    <script>
+        // 设跳n个台阶有f(n)种方法，
+
+        // 爬1个：1种
+
+        // 爬2个：2种
+
+        // 爬n个：面临两种选择：
+
+        // （1） 第一次爬1个，此时剩余n-1个台阶，有f(n-1)种方法
+
+        // （2） 第一次爬2个，此时剩余n-2个台阶，有f(n-2)种方法
+        const climbStairs = (n) => {
+            if (n <= 2) {
+                return n
+            }
+            let num1 = 1;
+            let num2 = 2;
+            let Num = 0;
+            for (let i = 2; i < n; i++) {
+                numN = num1 + num2;
+                num1 = num2;
+                num2 = numN;
+            }
+            console.log(numN)
+            return numN;
+        } 
+
+        climbStairs(8)
+    </script>
+</body>
+
+</html>

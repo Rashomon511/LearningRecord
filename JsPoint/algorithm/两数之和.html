@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+     var  nums = [4, 3, 8, 15]
+     var target = 11
+      function twoSum(nums, target) {
+        let result = []
+        let state = true;
+        for (index in nums){
+          let i = Number(index)
+          if (nums.indexOf(target- nums[i]) !== -1 && nums.indexOf(target-nums[i]) !== i && state) {
+            result.push(i,nums.indexOf(target-nums[i]))
+            return result
+          }
+        }
+        // nums.forEach((item,index) => {
+        //   if (nums.indexOf(target- item) !== -1 && nums.indexOf(target-item) !== index && state) {
+        //     result.push(index,nums.indexOf(target-item))
+        //     state = false
+        //   }
+        // })
+        // return result;
+      };
+     console.log(twoSum(nums, target))
+    </script>
+</head>
+<body>
+</body>
+</html>

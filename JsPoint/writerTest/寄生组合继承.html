@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  function SuperType(name){
+    this.name=name;
+    this.color=['green','red','black'];
+  }
+  SuperType.prototype.show=function(){
+    console.log(this.name,this.color);
+  }
+  function SubType(name,age){
+    SuperType.call(this,name)//改变执行环境 实现继承
+    this.age=age;
+  }
+  function object(obj){
+    function F(){};
+    F.prototype=obj;
+    //F.prototype.constructor=F; 有需要还可以修改constructor指向
+    return new F();
+  }
+
+  function inheritPrototype(subType,superType){
+    var prototype=object(superType.prototype);
+    console.log(prototype.__proto__ === superType.prototype)
+    prototype.constructor=subType;
+    subType.prototype=prototype;
+  }
+  inheritPrototype(SubType,SuperType);
+  var s = new SubType('谦龙',100);
+  console.log(s);
+
+  s.show();//谦龙 ["green", "red", "black"]
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        let a=[1,null];
+        let b={t:222};
+        /*a=[b,b=a][0];
+        console.log(JSON.stringify({a:a,b:b}))*/
+        a={a:b,b:a};
+        b=a.b;
+        a=a.a;
+        console.log(JSON.stringify({a:a,b:b}))
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+        
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+        
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+        
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+
+<body>
+        <div id="app"></div>
+    <script type="text/babel">
+class InputForm extends React.Component {
+  constructor(props) {
+    super(props);
+    // 创建一个 ref 来存储 textInput 的 DOM 元素
+    this.textInput = React.createRef();
+  }
+
+  focusTextInput = () => {
+    // 通过 "current" 来访问 DOM 节点
+    this.textInput.current.focus();
+  }
+
+  render() {
+    return (
+      <div>
+        <input type="text" ref={this.textInput}/>
+        <button onClick={this.focusTextInput}>focus</button>
+      </div>
+    );
+  }
+}
+
+class AutoFocusInput extends React.Component {
+  constructor(props) {
+    super(props);
+    this.inputForm = React.createRef();
+  }
+
+  componentDidMount() {
+    // 通过 "current" 来访问组件实例
+    console.log(this.inputForm)
+    this.inputForm.current.focusTextInput();
+  }
+
+  render() {
+    return (
+      <InputForm ref={this.inputForm} />
+    );
+  }
+}
+        ReactDOM.render(
+            <AutoFocusInput/>,
+            document.getElementById('app')
+        );
+    </script>
+</body>
+</html>

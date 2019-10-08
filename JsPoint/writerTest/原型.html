@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  function Foo() { // ...
+  }
+  var a = new Foo();
+  Object.getPrototypeOf( a ) === Foo.prototype; // true
+
+  function A(){
+
+  }
+  var a = new A();
+  //通过A创建一个对象a，所以a的__proto__是指向A.prototype的
+  console.log(a)
+  console.log({}.__proto__ === Object.prototype)
+  console.log(A.prototype.__proto__ === Object.prototype)
+  console.log(A.prototype)
+  console.log(A.prototype.isPrototypeOf(a));
+  //A.__proto__是指向Object.prototype的
+  console.log(Object.prototype.isPrototypeOf(A));
+  //由于A.prototype的__proto__是指向Object.prototype的，所以a也就含有Object.prototype咯
+  console.log(Object.prototype.isPrototypeOf(a));
+  function Fn(){
+
+  }
+
+  var fn = new Fn();
+  //通过getPrototypeOf静态方法，获得对象fn的prototype
+  var proto = Object.getPrototypeOf(fn);
+  //将获得的prototype添加一个name属性，并赋值
+  proto.name = 'Monkey';
+  //输出对象fn.name
+  console.log(fn.name);
+  //判断proto是否是Fn.prototype
+  console.log( 'proto === Fn.prototype? ' + (proto === Fn.prototype) );
+  //判断fn的__proto__是否指向了prototype
+  console.log( proto.isPrototypeOf(fn));
+  var Person = function () { };
+           Person.prototype.Say = function () {
+        console.log("Person say");
+         }
+      var p = new Person();
+           console.log(p)
+       p.Say();
+
+
+
+  var Person = function () {};
+  Person.prototype.Say = function () {
+             alert("Person say");
+         }
+
+       Person.prototype.Salary = 50000;
+       var Programmer = function () {
+       };
+       Programmer.prototype = new Person();
+       Programmer.prototype.WriteCode = function () {
+
+             alert("programmer writes code");
+
+         };
+  Programmer.age = 333;
+       Programmer.prototype.Salary = 500;
+
+       var p = new Programmer();
+       // p.Say();    /*Person say*/
+       // p.WriteCode();  /*programmer writes code*/
+       // alert(p.Salary);    /*500*/
+let h = {
+  w:2
+}
+function j(){}
+    console.log(p.__proto__ === Programmer.prototype)
+    console.log(Programmer.prototype.__proto__ === Person.prototype)
+  console.log(Programmer.prototype.isPrototypeOf(p))
+  console.log(Object.getPrototypeOf(p) === Programmer.prototype)
+  console.log(Person.prototype.__proto__ === Object.prototype);
+    console.log(Object.prototype.__proto__)
+    console.log(p)
+    console.log(h.__proto__)
+    console.log(j.prototype)
+  console.log(Object.prototype)
+    console.log(j.prototype.__proto__)
+</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  var arr = [ [1, 2, 2], [3, 4, 5, 5], [6, 7, 8, 9, [11, 12, [12, 13, [14] ] ] ], 10];
+  let newArr = [...(new Set(arr.join(',').split(',').map(item => Number(item))))].sort((a, b) => a-b)
+    console.log(newArr)
+    function FlutterArr(arr) {
+    let arrs = [];
+      arr.map(item => {
+        if(Array.isArray(item)){
+          arrs.push(...FlutterArr(item))
+        } else {
+          arrs.push(item)
+        }
+      })
+      return arrs
+    }
+    console.log(FlutterArr(arr))
+  console.log([].concat([1,23]))
+    let newArrs = [...(new Set(FlutterArr(arr)))].sort((a,b) => a-b)
+    console.log(newArrs)
+    function falltenArr(arr) {
+      let arrB =[...arr]
+      let newArr = [];
+      while (arrB.length){
+        let item = arrB.shift()
+        if(Array.isArray(item)){
+          arrB.unshift(...item)
+        }else {
+          newArr.push(item)
+        }
+      }
+      return [...(new Set(newArr))].sort((a,b) => a-b)
+    }
+    console.log(falltenArr(arr))
+</script>
+</body>
+</html>

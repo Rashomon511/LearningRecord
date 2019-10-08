@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  // function SuperType(){
+  //   this.property = true;
+  // }
+  // SuperType.prototype.getSuperValue = function(){
+  //   return this.property;
+  // };
+  // function SubType(){
+  //   this.subproperty = false;
+  // }
+  // //继承了 SuperType
+  // SubType.prototype = new SuperType();
+  // SubType.prototype.getSubValue = function (){
+  //   return this.subproperty;
+  // }
+  // var instance = new SubType();
+
+  function SuperType(){
+    this.property = true;
+  }
+  SuperType.prototype.getSuperValue = function(){
+    return this.property;
+  };
+  function SubType(){
+    this.subproperty = false;
+  }
+  //继承了 SuperType
+  SubType.prototype = new SuperType();
+  //使用字面量添加新方法，会导致上一行代码无效
+  SubType.prototype = {
+  getSubValue : function (){
+    return this.subproperty;
+  },
+  someOtherMethod : function (){
+    return false;
+  } };
+  var instance = new SubType();
+  console.log(instance)
+  console.log(SubType.prototype.__proto__ === SuperType.prototype, 'false')
+  console.log(SubType.prototype.constructor,'Object')
+  console.log(instance.constructor === SuperType, 'false')
+</script>
+</body>
+</html>

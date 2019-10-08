@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+      var a = 10;
+(function () {
+    console.log(a)
+    a = 5
+    console.log(window.a)
+    var a = 20;
+    console.log(a)
+})()
+        let value = ["flower","flow","flight"];
+        function longestCommonPrefix(x) {
+          if (x.length ===0 ) return ''
+          x.sort((a, b) => {
+            if (a.length > b.length){
+              return 1;
+            }
+            else {
+              return -1;
+            }
+          })
+          let result = x.shift();
+          for (index in x){
+            let str = '';
+            for (i in result){
+              if (result[i] === x[index][i]) {
+                str += result[i]
+              } else break
+            }
+            result = str
+          }
+          console.log(result)
+          return result
+        }
+        longestCommonPrefix(value)
+    </script>
+</head>
+<body>
+</body>
+</html>

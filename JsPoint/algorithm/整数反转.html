@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        function reverse(x) {
+          let str = ''
+          let arr = x.toString().split('')
+
+          if (arr[arr.length -1] === '0'){
+            arr.pop();
+          }
+          if (arr[0] === '-'){
+            str = arr.shift();
+          }
+          arr.reverse();
+          str && arr.unshift(str);
+          const  num = arr.join('');
+          return parseInt(num) > Math.pow(2,31)-1 || parseInt(num) < -Math.pow(2,31) || arr.length === 0 ? 0 : num
+        }
+        console.log(reverse(-123))
+    </script>
+</head>
+<body>
+</body>
+</html>

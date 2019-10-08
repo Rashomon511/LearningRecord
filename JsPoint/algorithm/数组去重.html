@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+    const arr = [1,9,3,1,5,7,4,5,6,7,7,9,11]
+    console.log([...(new Set(arr))])
+    const newArr = arr.filter((item, index, arr) => index ===  arr.indexOf(item))
+    console.log(newArr)
+    let objA = {};
+    const newArrA = arr.filter((item, index, arr) => objA.hasOwnProperty(item) ? false : objA[item] = true)
+    console.log(newArrA)
+    let newArrB =[]
+    arr.forEach(item => newArrB.indexOf(item) === -1 ? newArrB.push(item) : '')
+    console.log(newArrB)
+    function removeDuplicatedItem(arr) {
+      for(var i = 0; i < arr.length-1; i++){
+        for(var j = i+1; j < arr.length; j++){
+          if(arr[i]===arr[j]){
+            arr.splice(j,1);//console.log(arr[j]);
+            j--;
+          }
+        }
+      }
+      return arr;
+    }
+    console.log(removeDuplicatedItem(arr))
+    const newArrC = arr.sort().filter((item,index,arr) => item !== arr[index+1])
+    console.log(newArrC)
+</script>
+</body>
+</html>

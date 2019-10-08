@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+    </span>
+    <script>
+        var arr = [1, 2, 3, 4, 5, 6, 7];
+        function rotateArr(arr, k) {
+            // const len = arr.length
+            // const step = k % len
+            // return arr.slice(-step).concat(arr.slice(0, len - step))
+            for (let i = 0; i < k; i++) {
+                let val = arr.pop();
+                arr.unshift(val);
+            }
+            return arr;
+        }
+
+        console.log(rotateArr(arr, 1))
+    </script>
+</body>
+
+</html>

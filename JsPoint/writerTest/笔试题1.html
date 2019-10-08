@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+//     1.创建长度为5的空数组arr
+// 2.生成一个(2-32)之间的随机整数rand
+// 3.把rand插入到数组arr内，如果数组内已存在rand相同的数字，则重新生成随机数插入到arr内。使用递归实现，不能使用for/while循环
+// 4.最终输出长度为5，且内容不重复的数组
+
+const getNewArr = (arr, i) => {
+    let num = parseInt(Math.random() * 31 + 2, 10)
+    if (i < 5) {
+        if (arr.indexOf(num) === -1) {
+            arr[i] = num;
+            i++;
+            getNewArr(arr, i)
+        }
+        else {
+            getNewArr(arr, i)
+        }
+    }
+    return arr;
+}
+let arr = Array.from(new Array(5))
+let i = 0
+getNewArr(arr, i);
+</script>
+</body>
+</html>
+

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        var arr = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
+        // 方法一
+        const trapRainWater1 = (heights) => {
+            if (heights.length <= 2) return 0;
+            let max = -1, maxInd = 0;
+            let i = 0;
+            for (; i < heights.length; ++i) {
+                if (heights[i] > max) {
+                    max = heights[i];
+                    maxInd = i;
+                }
+            }
+            let area = 0, root = heights[0];
+            for (i = 0; i < maxInd; ++i) {
+                if (root < heights[i]) root = heights[i];
+                else area += (root - heights[i]);
+            }
+            for (i = heights.length - 1, root = heights[heights.length - 1]; i > maxInd; --i) {
+                if (root < heights[i]) root = heights[i];
+                else area += (root - heights[i]);
+            }
+            console.log(area)
+            return area;
+        }
+
+        // 方法二
+        const trapRainWater2 = (A) => {
+            if(A == null || A.length < 3)
+            return 0;
+        
+        let localMax = A[0];
+        let left = Array.from(new Array(A.length));
+        let right = Array.from(new Array(A.length));
+        
+        for(let i=0;i<A.length;i++) {
+            if(A[i] <= localMax)
+                left[i] = localMax;
+            else {
+                localMax = A[i];
+                left[i] = localMax;
+            }
+        }
+        
+        localMax = A[A.length-1];
+        for(let i=A.length-1;i>-1;i--) {
+            if(A[i] <= localMax)
+                right[i] = localMax;
+            else {
+                localMax = A[i];
+                right[i] = localMax;
+            }
+        }
+        
+        let area = 0;
+        for(let i=0;i<A.length;i++) {
+            area += Math.min(left[i], right[i]) - A[i];
+        }
+        return area;
+        }
+        // 方法三
+        const trapRainWater3 = (A) => {
+            if (A == null || A.length < 3)
+                return 0;
+
+            //两根指针一头一尾向中间进发
+            let left = 0;
+            let right = A.length - 1;
+            //两个变量存储左右两边的局部最大高度
+            let leftMax = 0;
+            let rightMax = 0;
+
+            let area = 0;
+
+            while (left <= right) {
+                leftMax = Math.max(leftMax, A[left]);
+                rightMax = Math.max(rightMax, A[right]);
+
+                //小的那边可以存水
+                if (leftMax <= rightMax) {
+                    if (leftMax > A[left]) {
+                        area += leftMax - A[left];
+                    }
+
+                    left++;
+                }
+                else {
+                    if (rightMax > A[right]) {
+                        area += rightMax - A[right];
+                    }
+                    right--;
+                }
+            }
+            return area;
+        }
+
+        trapRainWater2(arr)
+
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

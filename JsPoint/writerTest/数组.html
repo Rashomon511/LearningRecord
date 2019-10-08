@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+
+</head>
+
+<body>
+  <span id="box">
+    <button id="button">button</button>
+  </span>
+  <script>
+    // var maintainerIds = [];
+    // var maintainerList = [{
+    //   mobile:13856998050,
+    //   memberName: '钱正',
+    //   memberId: 135
+    // }]
+    // var maintainerLists = ["钱正(13856998050)",123];
+    // maintainerLists.forEach((item) => {
+    //   if (typeof item === 'string') {
+    //     const maintainer = maintainerList.filter(i => i.mobile === Number(item.split('(')[1].split(')')[0]));
+    //     if (maintainer.length !== 0) {
+    //       maintainerIds.push(maintainer[0].memberId);
+    //     }
+    //   }
+    //   else {
+    //     maintainerIds.push(item);
+    //   }
+    // });
+    // var obj = {
+    //   value: 1
+    // };
+    // function foo(o) {
+    //   o.value = 2;
+    //   console.log(o); //2
+    // }
+    // foo(obj);
+    // console.log(obj.value) // 1
+    let a = [1,2,3,4,5]
+    Object.prototype.multiply = function(){
+      let arr = this;
+      a = arr.concat(arr.map(item => item * item))
+    }
+    a.multiply()
+    console.log(a)
+  </script>
+</body>
+
+</html>

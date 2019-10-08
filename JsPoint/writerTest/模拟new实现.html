@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        function Foo(name, age) {
+          this.name = name;
+          this.age = age
+        }
+
+        var nar = new Foo('tom', 18)
+        console.log(nar.name)
+        function OBK() {
+          var obj = new Object(),//从Object.prototype上克隆一个对象
+
+              Constructor = [].shift.call(arguments);//取得外部传入的构造器
+
+          var F=function(){};
+          F.prototype= Constructor.prototype;
+          obj=new F();//指向正确的原型
+
+          var ret = Constructor.apply(obj, arguments);//借用外部传入的构造器给obj设置属性
+
+          return typeof ret === 'object' ? ret : obj;//确保构造器总是返回一个对象
+        }
+        console.log(bar.age)
+        function f() {
+          let arr = Array.prototype.slice.call(arguments)
+          console.log(arr)
+        }
+        console.log(Array.prototype.slice.call({0: 'name', 1: 'age', 2: 'sex', length: 3 }))
+        f(1,2,3)
+        var a = 4
+        function foo() {
+          console.log(this, 'this')
+          bar.apply(this, arguments);
+        }
+        function bar(a, b, c) {
+          console.log(a, b, c);
+        }
+
+        foo(1, 2, 3)
+    </script>
+</head>
+<body>
+</body>
+</html>

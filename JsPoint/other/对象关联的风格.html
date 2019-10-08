@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+//   function Parent(name){
+//     this.name = name;
+//   }
+//   Parent.sayHello = function(){
+//     console.log('hello');
+//   }
+//   Parent.prototype.sayName = function(){
+//     console.log('my name is ' + this.name);
+//     return this.name;
+//   }
+//
+//   function Child(name, age){
+// // 相当于super
+//     Parent.call(this, name);
+//     this.age = age;
+//   }
+//   // new
+//   function object(){
+//     function F() {}
+//     F.prototype = proto;
+//     return new F();
+//   }
+//   function _inherits(Child, Parent){
+// // Object.create
+//     Child.prototype = Object.create(Parent.prototype);
+// // __proto__
+// // Child.prototype.__proto__ = Parent.prototype;
+//     Child.prototype.constructor = Child;
+// // ES6
+// // Object.setPrototypeOf(Child, Parent);
+// // __proto__
+//     Child.__proto__ = Parent;
+//   }
+//   _inherits(Child,  Parent);
+//   Child.prototype.sayAge = function(){
+//     console.log('my age is ' + this.age);
+//     return this.age;
+//   }
+//   var parent = new Parent('Parent');
+//   var child = new Child('Child', 18);
+  Parent = {
+    init: function(value){
+      this.name = value
+    },
+    sayHello: function(){
+      console.log('hello');
+    },
+    sayName: function(){
+      console.log('my name is ' + this.name);
+      return this.name;
+    }
+  }
+  Child = Object.create( Parent );
+  Child.sayAge = function(){
+    console.log('my age is ' + this.age);
+    return this.age;
+  }
+  var child1 = Object.create( Child );
+  child1.init( "tom" );
+  var child2 = Object.create( Child );
+  child2.init('lili');
+  child1.sayHello();
+  child2.sayName();
+var a = {n: 1};
+var b = a;
+a.x = a = {n: 2};
+console.log(a, b)
+a.x 	// 这时 a.x 的值是多少
+b.x 	// 这时 b.x 的值是多少
+</script>
+</body>
+</html>

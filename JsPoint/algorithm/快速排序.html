@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        var a = [12,9,38,44,98,7,35,59,49,88,38];
+
+        console.log(a);
+        for(var i=0; i<a.length-1; i++){
+            for(var j=i+1; j<a.length; j++){
+                if(a[i] > a[j]){
+                    var temp = a[i];
+                    a[i] = a[j];
+                    a[j] = temp;
+                }
+            }
+            console.log(a);
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

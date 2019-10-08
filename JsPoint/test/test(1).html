@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script>
+        var arr = [
+            [{
+                v: 1,
+                t: 2
+            }, {
+                v: 2,
+                t: 3
+            }],
+            [{
+                v1: 1,
+                t: 2
+            }, {
+                v1: 2,
+                t: 3
+            }]
+        ]
+        var newArr = [];
+        arr.forEach(function(item, index) {
+            item.forEach(function(item_1, index_1) {
+                console.log(item_1, index_1);
+                if (newArr.length == 0) {
+                    newArr.push(item_1);
+                };
+                for(var i=0;i<newArr.length;i++){
+                    if (newArr[i].t == item_1.t) {
+                        Object.assign(newArr[i], item_1);
+                        return;
+                    } else {
+                        newArr.push(item_1);
+                    }
+                }
+            });
+        });
+        console.log(newArr);
+        // [{v:1,t:2,v1:1},{v:2,t:2,v1:2}]
+    </script>
+</body>
+
+</html>

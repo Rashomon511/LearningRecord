@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+      // function strStr(haystack, needle) {
+      //   return haystack.indexOf(needle)
+      // };
+      function strStr(haystack, needle) {
+        if(!needle) return 0;
+        for (let i = 0; i <= haystack.length - needle.length; i++) {
+          for (let j = 0; j < needle.length; j++) {
+            if (needle[j] !== haystack[i + j]) {
+              break;
+            }
+            if (j === needle.length - 1) {
+              return i;
+            }
+          }
+        }
+        return -1;
+      };
+      console.log(strStr( "hello", "ll"))
+    </script>
+</head>
+<body>
+</body>
+</html>

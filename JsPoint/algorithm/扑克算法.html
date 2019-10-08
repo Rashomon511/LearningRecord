@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+    var arr = [1,2,3,4,5,6,7,8,9,10,11,12,13]
+    var arr2 = [4, 12, 8, 2, 6, 10, 1, 3, 5, 7, 9, 11, 13]
+    var arr1 = [1, 3, 5, 7, 9, 11, 13, 4, 8, 12, 6, 2, 10]
+    function changeArr(arr) {
+      let newArr = []
+      let state = true;
+      while (arr.length){
+        if(state){
+          newArr.push(arr.shift())
+          state =false
+        }
+        else {
+          arr.push(arr.shift())
+          state =true
+        }
+      }
+      return newArr
+    }
+    console.log(changeArr([1, 12, 2, 8, 3, 11, 4, 9, 5, 13, 6, 10, 7]));
+    //1, 12, 2, 8, 3, 11, 4, 9, 5, 13, 6, 10, 7
+
+    function repair(arr) {
+      let newArr = []
+      let state = true;
+      while (arr.length){
+        if (state){
+          newArr.unshift(arr.pop())
+          state = newArr.length < 1
+        }
+        else {
+          newArr.unshift(newArr.pop())
+          state = true;
+        }
+      }
+      return newArr
+    }
+    console.log(repair(arr))
+</script>
+</body>
+</html>

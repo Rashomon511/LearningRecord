@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        let n=[1,2,6,3,7];
+        let k=[];
+        for(let i=0;i<n.length;i++){
+            for(let j=i+1;j<n.length;j++){
+                if(n[i]+n[j]==9){
+                    k.push(i);
+                    k.push(j);
+                }
+            }
+        }
+        console.log(k)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

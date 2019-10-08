@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+      function removeDuplicates(arr) {
+        for(var i = 0; i < arr.length-1; i++){
+          for(var j = i+1; j < arr.length; j++){
+            if(arr[i]===arr[j]){
+              arr.splice(j,1);//console.log(arr[j]);
+              j--;
+            }
+          }
+        }
+        return arr.length;
+      };
+      console.log(removeDuplicates([1,1,3,3,4,5,6,6]))
+    </script>
+</head>
+<body>
+</body>
+</html>

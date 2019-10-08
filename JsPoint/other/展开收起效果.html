@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>展开收起效果</title>
+</head>
+<style type="text/css">
+    body{
+        margin: 0 auto;
+        padding: 0;
+
+    }
+    #ad{
+        background-color:#CCCCCC ;
+        width: 950px;
+        height: auto;
+        margin: 0 auto;
+        padding: 5px;
+        text-align: center;
+
+
+    }
+    .box{
+        background-color: #3B3B3B;
+        color: white;
+        width: 950px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+        margin: 0 auto;
+
+    }
+</style>
+<script type="text/javascript">
+
+    var h=0;
+    function addH(){
+        if(h<300){
+            h+=5;
+            document.getElementById("ad").style.height=h+"px";
+        }
+        else{
+            return;
+        }
+        setTimeout("addH()",30);
+    }
+    window.onload=function(){
+        addH();
+        setTimeout("subH()",5000);
+    }
+    function subH(){
+        if(h>0)
+        {
+            h-=5
+            document.getElementById("ad").style.height=h + "px";
+        }
+        else{
+            document.getElementById("ad").style.display="none"
+            return;
+        }
+        setTimeout("subH()",30);
+    }
+</script>
+<body>
+<div id="ad">
+    <h1>欢迎来到罗生门</h1>
+    <h2>大广告啊</h2>
+</div>
+<div class="box">
+    魑魅魍魉欢迎你
+</div>
+</body>
+</html>

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .box{
+            width: 200px;
+            height: 200px;
+            background: #58a; background:
+                radial-gradient(circle at top left,
+                transparent 15px, #58a 0) top left,
+                radial-gradient(circle at top right,
+                transparent 15px, #58a 0) top right,
+                radial-gradient(circle at bottom right,
+                transparent 15px, #58a 0) bottom right,
+                radial-gradient(circle at bottom left,
+                transparent 15px, #58a 0) bottom left;
+            background-size: 50% 50%; background-repeat: no-repeat;
+            /*background: linear-gradient(45deg, #fb3 30%, #58a 30%);*/
+            /*background-size: 30px 30px;*/
+            /*background: tan;*/
+            /*border-radius: .8em;*/
+            /*padding: 1em;*/
+            /*box-shadow: 0 0 0 .6em #655;*/
+            /*outline: .6em solid #655;*/
+        }
+        /*.box1{*/
+            /*width: 200px;*/
+            /*height: 200px;*/
+            /*margin-top: 30px;*/
+            /*background: white;*/
+            /*background-image: linear-gradient(90deg,*/
+            /*rgba(200,0,0,.5) 50%, transparent 0),*/
+            /*linear-gradient(*/
+                    /*rgba(200,0,0,.5) 50%, transparent 0); background-size: 30px 30px;*/
+        /*}*/
+        /*.sj {*/
+            /*width: 200px;*/
+            /*height: 200px;*/
+            /*margin-top: 30px;*/
+            /*background: #58a; background-image:*/
+                /*linear-gradient(white 1px, transparent 0),*/
+                /*linear-gradient(90deg, white 1px, transparent 0); background-size: 30px 30px;*/
+        /*}*/
+        /*.sj {*/
+        /*width: 0;*/
+        /*height: 0;*/
+        /*border-style: solid;*/
+        /*border-width: 100px 100px 0px  0px;*/
+        /*border-color: blue transparent transparent  transparent;*/
+            /*border-top-left-radius: 100px;*/
+        /*}*/
+        /*.box2{*/
+            /*width: 200px;*/
+            /*height: 200px;*/
+            /*margin-top: 30px;*/
+            /*background: #58a;*/
+            /*margin-left: 90px;*/
+            /*transform: skewX(-45deg);*/
+        /*}*/
+        .box2 {
+            position: relative; display: inline-block; padding: .5em 1em .35em; color: white;
+        }
+        .box2::before {
+            content: ''; /* 用伪元素来生成一个矩形 */ position: absolute;
+            top: 0; right: 0; bottom: 0; left: 0; z-index: -1;
+            background: #58a;
+            transform: perspective(.5em) rotateX(5deg);
+        }
+        img {
+            width: 400px;
+            height: 400px;
+            clip-path: polygon(50% 0, 100% 50%,
+            50% 100%, 0 50%); transition: 1s clip-path;
+        }
+        img:hover {
+            clip-path: polygon(0 0, 100% 0,
+        100% 100%, 0 100%);
+        }
+        .pie {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: #00b3ee;
+            background-image:
+                    linear-gradient(to right, transparent 50%, #655 0);
+        }
+        .pie::before {
+            content: '';
+            display: block;
+            margin-left: 50%;
+            height: 100%;
+            background: #655;
+            border-radius: 0 100% 100% 0 / 50%;
+            transform-origin: left;
+            transform: rotate(.1turn);
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+
+</div>
+<div class="box1">
+
+</div>
+
+<div class="sj"></div>
+
+<div class="box2">
+</div>
+<img src="test.jpg" alt="..." />
+<div class="pie"></div>
+<script>
+</script>
+</body>
+</html>

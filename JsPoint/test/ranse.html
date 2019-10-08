@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        img {
+            width: 400px;
+            height: 300px;
+            transition: .5s filter;
+            filter: none;
+        }
+        img:hover {
+            filter: sepia(100%) saturate(200%) hue-rotate(160deg);
+        }
+
+        /*p{*/
+            /*width: 400px;*/
+            /*height: 300px;*/
+            /*background: hsl(120, 100%, 50%);*/
+        /*}*/
+        /*img {*/
+            /*width: 100%;*/
+            /*height: 100%;*/
+            /*mix-blend-mode: luminosity;*/
+        /*}*/
+        .tinted-image {
+            width: 400px;
+            height: 300px;
+            background-image:url(test.jpg);
+            background-size: cover;
+            background-color: transparent;
+            background-blend-mode: luminosity;
+            transition: .5s background-color;
+        }
+        .tinted-image:hover {
+            background-color: hsl(335, 200%, 50%);
+        }
+    </style>
+</head>
+<body>
+<img src="test.jpg" alt="test" />
+<!--<p>-->
+    <!--<img src="test.jpg" alt="Rawrrr!" />-->
+<!--</p>-->
+
+<div class="tinted-image">
+</div>
+</body>
+</html>

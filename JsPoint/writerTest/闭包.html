@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  // for (var i = 0; i< 10; i++){
+  //   setTimeout(() => {
+  //     console.log(i);
+  //   }, 1000)
+  // }
+  for (let i = 0; i< 10; i++){
+    setTimeout(() => {
+      console.log(i);
+    }, 1000)
+  }
+  for (var i = 0; i< 10; i++){
+    (function () {
+      var j = i;
+        setTimeout(() => {
+          console.log(j);
+        }, 1000)
+    })(i)
+  }
+  for (var i = 0; i< 10; i++){
+    (function (j) {
+      setTimeout(() => {
+        console.log(j);
+      }, 1000)
+    })(i)
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+
+</head>
+
+<body>
+	<span id="box">
+		<button id="button">button</button>
+	</span>
+	<script>
+		// function add(num){
+		// 	const sum = (arguments[1] || 0) + num;
+		// 	return add.bind(this, sum)
+		// }
+		// console.log(add(1))
+
+		function add(a) {
+			function sum(b) { // 使用闭包
+				a = a + b; // 累加
+				return sum;
+			}
+			sum.toString = function () { // 重写toString()方法
+				return a;
+			}
+			return sum; // 返回一个函数
+		}
+
+		add(1).toString(); // 1
+		add(1)(2);  // 3
+		add(1)(2)(3)// 6
+		add(1)(2)(3)(4) // 10 
+
+		function adds(a, b, c) {
+			return a + b + c
+		}
+
+		// function currying(a) {
+		// 	return function (b) {
+		// 		return function (c) {
+		// 			return a + b + c
+		// 		}
+		// 	}
+		// }
+
+		// add(2, 3, 4)  // 9
+		// currying(2)(3)(4) // 9
+		// function curry(fn, length){
+		// 	length = length || fn.length;
+		// 	return function(){
+		// 		var args = [].slice.call(arguments)
+		// 		if (args.length < length) {
+		// 			return curry(fn.bind(this, ...args), length - args.length)
+		// 		}else {
+		// 			return fn.call(this, ...args)
+		// 		}
+		// 	}
+		// }
+		const currying = fn =>
+			judge = (...args) =>
+				args.length >= fn.length
+					? fn(...args)
+					: (...arg) => judge(...args, ...arg)
+
+		var addCurry = currying(adds);
+		addCurry(2, 3, 4)
+		// function add() {
+		// 	let data = Array.prototype.slice.call(arguments)
+		// 	let arr = []
+		// 	if (data.length > 1) {
+		// 		arr.push(data.reduce(((source, item) => source + item), 0))
+		// 	} else {
+		// 		arr = data;
+		// 	}
+		// 	let sum = arr[0]
+		// 	function tmp() { // 使用闭包
+		// 	    let b = Array.prototype.slice.call(arguments).reduce(((source, item) => source + item), 0)
+		// 		sum = sum + b;
+		// 		return tmp;
+		// 	}
+		// 	tmp.valueOf = function () {
+		// 		return sum;
+		// 	}
+		// 	tmp.toString = function () {
+		// 		return sum + '';
+		// 	}
+		// 	return tmp
+		// }
+		function add() {
+			let data = [].concat(Array.prototype.slice.call(arguments))
+			function tmp() { // 使用闭包
+			    data = data.concat(Array.prototype.slice.call(arguments))
+				return tmp;
+			}
+			tmp.valueOf = function () {
+				return data.reduce(((source, item) => source + item), 0);
+			}
+			tmp.toString = function () {
+				return data.reduce(((source, item) => source + item), 0);
+			}
+			return tmp
+		}
+		console.log(add(1, 4).toString())
+
+
+	</script>
+</body>
+
+</html>

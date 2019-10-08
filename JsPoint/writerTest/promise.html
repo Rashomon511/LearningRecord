@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        // promise方式
+        function ajax(params) {
+            console.log("发起请求")
+            return new Promise(resolve => {
+                setTimeout(() => {
+                    resolve(1)
+                    console.log('resolve')
+                }, 1000);
+            })
+        }
+
+
+        let request = false;
+
+        var getData = new Promise(async resolve => {
+            console.log('立即执行')
+            if (!request) {
+                request = true;
+                const res = await ajax();
+                console.log("请求成功")
+                resolve(res);
+            }
+        })
+
+        getData.then(res => {
+            console.log(res,'1')
+        })
+        getData.then(res => {
+            console.log(res, '2')
+        })
+
+        // 回调方式
+        let qu = [];
+        let request = false;
+        function getData(callback){
+            qu.push(callback)
+            if(!request){
+                request = true;
+                ajax()
+                .then((res) => {
+                    console.log("请求成功")
+                    qu.map((cb) => {
+                        cb(res);
+                    })
+                })
+            }
+        }
+        getData((res) => {
+            console.log(res, '11')
+        })
+        getData((res) => {
+            console.log(res, '22')
+        })
+        getData((res) => {
+            console.log(res, '33')
+        })
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

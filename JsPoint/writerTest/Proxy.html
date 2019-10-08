@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+        <button id="button">button</button>
+    </span>
+    <script>
+        let target = {};
+        let handler = {
+            get: function (obj, name) {
+                console.log('get')
+                return name in obj ? obj[name] : 37;
+            },
+            set: function (obj, name, value) {
+                console.log('set');
+                obj[name] = value
+            },
+        };
+        let p = new Proxy(target, handler);
+        p.a = 1;  // 进行set操作，并且操作会被转发到目标
+        p.b = undefined; // 进行set操作，并且操作会被转发到目标
+        console.log(p.a, p.b);    // 1, undefined ，进行get操作
+        console.log('c' in p, p.c);    // false, 37  进行get操作
+        console.log(target) // {a: 1, b: undefined}. 操作已经被正确地转发
+    </script>
+</body>
+
+</html>

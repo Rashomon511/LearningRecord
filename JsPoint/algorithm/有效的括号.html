@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+      function isValid(s) {
+        let old;
+        while(s.length){
+          old=s;
+          s = s.replace('{}', '').replace('[]', '').replace('()', '');
+          if(old==s)return false;
+        }
+        return s == ''
+      };
+      console.log(isValid('(})'))
+    </script>
+</head>
+<body>
+</body>
+</html>

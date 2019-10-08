@@ -1,0 +1,79 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  // console.log(1)
+  // setTimeout(function(){
+  //   console.log(2);
+  //   let promise = new Promise(function(resolve, reject) {
+  //     console.log(7);
+  //     resolve()
+  //   }).then(function(){
+  //     console.log(8)
+  //   });
+  // },1000);
+  // setTimeout(function(){
+  //   console.log(10);
+  //   let promise = new Promise(function(resolve, reject) {
+  //     console.log(11);
+  //     resolve()
+  //   }).then(function(){
+  //     console.log(12)
+  //   });
+  // },0);
+  // let promise = new Promise(function(resolve, reject) {
+  //   console.log(3);
+  //   resolve()
+  // }).then(function(){
+  //   console.log(4)
+  // }).then(function(){
+  //   console.log(9)
+  // });
+  // console.log(5)
+
+  async function timeout(ms) {
+    await new Promise((resolve) => {
+      setTimeout(resolve, ms);
+    });
+  }
+
+  async function asyncPrint(value, ms) {
+    await timeout(ms);
+    console.log(value);
+  }
+
+  asyncPrint('hello world', 50);
+  async function async1() {
+    console.log('async1 start');
+    await async2();
+    console.log('async1 end');
+  }
+  async function async2() {
+    console.log('async2');
+  }
+  console.log('script start');
+  setTimeout(function() {
+    console.log('setTimeout');
+  }, 0)
+  async1();
+  new Promise(function(resolve) {
+    console.log('promise1');
+    resolve();
+  }).then(function() {
+    console.log('promise2');
+  });
+  console.log('script end');
+</script>
+</body>
+</html>

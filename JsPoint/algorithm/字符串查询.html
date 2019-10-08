@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+        <button id="button">button</button>
+    </span>
+    <script>
+        var s = 'dcnsakjcnkndcln'
+        var t = 'sakj'
+        function getString(s, t) {
+            if (t.length > s.length) return -1;
+            let index = s.indexOf(t)
+            return index;
+        }
+        getString(s, t)
+        const find = (s, t) => {
+            if (t.length > s.length) return -1;
+            for (let i = 0; i < s.length; i++) {
+                if (s.slice(i, i + t.length) === t) return i
+            }
+            return -1
+
+        }
+        find(s, t)
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+   function romanToInt(s) {
+        let num = 0
+    const dataMap = new Map([
+        ['I', 1],
+        ['V', 5],
+        ['X', 10],
+        ['L', 50],
+        ['C', 100],
+        ['D', 500],
+        ['M', 1000],
+    ])
+    for (let i = 0; i < s.length; i++) {
+        if (s[i + 1] && dataMap.get(s[i]) < dataMap.get(s[i + 1])) {
+            num = num - dataMap.get(s[i])
+        } else {
+            num = num + dataMap.get(s[i])
+        }
+    }
+    return num
+};
+   console.log(romanToInt('IM'))
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  function object(obj){
+    function F(){};
+    F.prototype=obj;
+    //F.prototype.constructor=F; 有需要还可以修改constructor指向
+    return new F();
+  }
+
+  var person={
+    name:'谦龙',
+    color:['red','green','black']
+  }
+  var p1 = object(person);
+  p1.color.push('pink');
+  console.log(p1.__proto__ === person)
+
+  var p2 = Object.create(person);
+  p2.color.push('grey');
+
+  console.log(person.color);
+</script>
+</body>
+</html>

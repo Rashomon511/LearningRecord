@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        // function isPalindrome(x) {
+        //   let state = true;
+        //   let arr = x.toString().split('');
+        //   for (index in arr) {
+        //     if (arr[index] !== arr[arr.length - index - 1]){
+        //       state = false
+        //     }
+        //   }
+        //   return state
+        // }
+        var isPalindrome = function(x) {
+          let str = x.toString().split("")
+          return str.join() === str.reverse().join()
+        };
+        let arr = [];
+        for(let i = 1;i < 100000; i++) {
+          if (isPalindrome(i)) {
+            arr.push(i)
+          }
+        }
+        console.log(arr)
+    </script>
+</head>
+<body>
+</body>
+</html>

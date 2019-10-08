@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        function plusOne(digits) {
+            let num = digits.pop() + 1;
+            console.log(num)
+            if (num >= 10) {
+                digits.push(1,0)
+            }
+            else {
+                digits.push(num)
+            }
+            return digits;
+        };
+        plusOne([1,2,3])
+        function bar (timeout) {
+            var result 
+            (function (){
+                result = 2
+                console.log(result)
+            })()
+            // setTimeout(, timeout);
+            return result
+        }
+        console.log(bar(100))
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

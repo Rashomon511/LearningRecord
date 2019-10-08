@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+
+  // let promise = new Promise(function(resolve, reject) {
+  //   console.log(resolve)
+  //   console.log('Promise');
+  //   resolve();
+  // });
+  //
+  // promise.then(function() {
+  //   console.log('resolved.');
+  // });
+  //
+  // console.log('Hi!');
+  // const p1 = new Promise(function (resolve, reject) {
+  //   setTimeout(() => reject(new Error('fail')), 3000)
+  // })
+  //
+  // const p2 = new Promise(function (resolve, reject) {
+  //   setTimeout(() => resolve(p1), 1000)
+  // })
+  //
+  // p2
+  //     .then(result => console.log(result))
+  //     .catch(error => console.log(error))
+  // const getJSON = function(url) {
+  //   console.log(111)
+  //   const promise = new Promise(function(resolve, reject){
+  //     const handler = function() {
+  //       if (this.readyState !== 4) {
+  //         return;
+  //       }
+  //       if (this.status === 200) {
+  //         resolve(this.response);
+  //       } else {
+  //         reject(new Error(this.statusText));
+  //       }
+  //     };
+  //     const client = new XMLHttpRequest();
+  //     client.open("GET", url);
+  //     client.onreadystatechange = handler;
+  //     client.responseType = "json";
+  //     client.setRequestHeader("Accept", "application/json");
+  //     client.send();
+  //
+  //   });
+  //
+  //   return promise;
+  // };
+  //
+  // getJSON("/posts.json").then(function(json) {
+  //   console.log('Contents: ' + json);
+  // }, function(error) {
+  //   console.error('出错了', error);
+  // });
+  function getFoo () {
+    return new Promise(function (resolve, reject){
+      resolve('foo');
+    });
+  }
+
+  const g = function* () {
+    try {
+      const foo = yield getFoo();
+      console.log(foo);
+    } catch (e) {
+      console.log(e);
+    }
+  };
+
+  function run (generator) {
+    const it = generator();
+
+    function go(result) {
+      if (result.done) return result.value;
+
+      return result.value.then(function (value) {
+        return go(it.next(value));
+      }, function (error) {
+        return go(it.throw(error));
+      });
+    }
+
+    go(it.next());
+  }
+
+  run(g);
+  var p1 = new Promise(function(resolve, reject){
+    resolve(1);
+  })
+  setTimeout(function(){
+    console.log("will be executed at the top of the next Event Loop");
+  },0)
+  p1.then(function(value){
+    console.log("p1 fulfilled");
+  })
+  setTimeout(function(){
+    console.log("will be executed at the bottom of the next Event Loop");
+  },0)
+
+</script>
+</body>
+</html>

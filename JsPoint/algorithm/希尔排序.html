@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        var a = [12,9,38,44,98,7,35,59,49,88,38];
+        console.log(a);
+        var count = 0;
+        var count2 = 0;
+        var interval = parseInt(a.length/2);
+        while(interval>=1) {
+            console.log("间隔:"+interval);
+            for(var i=0; i<a.length; i++){
+                var index = i;
+                //判断
+                while( a[index]<a[index-interval] && index-interval>=0){
+                    //交换
+                    count++;
+                    var temp = a[index];
+                    a[index] = a[index-interval];
+                    a[index-interval] = temp;
+                    index-=interval;
+                    count2++;
+                }
+                count2++;
+            }
+            console.log("数组:"+a);
+            interval = parseInt(interval/2);
+        }
+
+        console.log("交换次数:"+count);
+        console.log("比较次数"+count2);
+
+    </script>
+</head>
+<body>
+
+</body>

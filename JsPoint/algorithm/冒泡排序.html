@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        var a = [12,9,38,44,98,7,35,59,49,88,38];
+        var count = 0;
+        var count2 = 0;
+        for(var i=0; i<a.length-1; i++){
+            for(var k=0; k<a.length-i-1; k++){
+                count2++;
+                if(a[k] > a[k+1]){
+                    count++;
+                    var temp = a[k];
+                    a[k] = a[k+1];
+                    a[k+1] = temp;
+                }
+            }
+        }
+        console.log("交换次数:"+count);
+        console.log("比较次数:"+count2);
+        console.log(a);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

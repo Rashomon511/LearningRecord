@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+        <h1 id='text'></h1>
+        <input type="text" id='input' oninput="inputChange(event)" />
+        <button id="button" onclick="clickChange()">Click me</button>
+    </span>
+    <!-- <div id="app">
+        <h2>{{title}}</h2>
+        <input v-model="name">
+        <h1>{{name}}</h1>
+        <button v-on:click="clickMe">click me!</button>
+    </div> -->
+    <script>
+        const input = document.getElementById('input');
+        const text = document.getElementById('text');
+        const button = document.getElementById('button');
+        let obj = {
+            value: ''
+        }
+        function inputChange(event) {
+            data.value = event.target.value
+        }
+
+        function clickChange() {
+            data.value = '你好 世界'
+        }
+
+        function renderInput(newValue) {
+            if (input) {
+                input.value = newValue
+            }
+        }
+
+        function renderText(newValue) {
+            if (text) {
+                text.innerHTML = newValue
+            }
+        }
+
+        function Observer(target) {
+            var dep = new Dep();  // 生成一个Dep实例
+            let handler = {
+                get: function (obj, name) {
+                    console.log('get')
+                    const prop = obj[name];
+                    if (Dep.target) {
+                        dep.addSub(Dep.target); // 在这里添加一个订阅者，这里的Dep.target是指订阅器本身
+                    }
+                    if (typeof prop === 'undefined') return;
+                    if (!prop.isBindingProxy && typeof prop === 'object') {
+                        obj[name] = new Proxy(prop, proxyHandler);
+                    }
+                    return obj[name]
+                },
+                set: function (obj, name, value) {
+                    Reflect.set(target, name, value);
+                    obj[name] = value
+                    dep.notify(); // 如果数据变化，通知所有订阅者
+                },
+            };
+            let p = new Proxy(target, handler);
+        }
+
+        function Dep() {
+            this.list = [];
+        }
+        Dep.prototype = {
+            addSub: function (watcher) {
+                this.list.push(watcher);  // 添加订阅者
+            },
+            notify: function () {
+                this.list.forEach(function (sub) {
+                    sub.update();  // 执行watcher更新
+                });
+            }
+        };
+
+        // Watcher
+        function Watcher(obj, key, cb) {
+            this.cb = cb;
+            this.obj = obj;
+            this.key = key;
+            // 此处为了触发属性的getter，从而在dep添加自己
+            this.value = this.get();
+        }
+        Watcher.prototype = {
+            update: function () {
+                this.run();    // 属性值变化收到通知
+            },
+            run: function () {
+                var value = this.get(); // 取到最新值
+                var oldVal = this.value;
+                if (value !== oldVal) {
+                    this.value = value;
+                    this.cb.call(this.obj, value, oldVal); // 执行Compile中绑定的回调，更新视图
+                }
+            },
+            get: function () {
+                Dep.target = this;    // 将当前订阅者指向自己
+                var value = this.obj[this.key];    // 触发getter，添加自己到属性订阅器中
+                Dep.target = null;    // 添加完毕，重置
+                return value;
+            }
+        };
+
+        
+
+        Observer(obj);
+        new Watcher(data, 'value', renderInput)
+        new Watcher(data, 'value', renderText)
+
+    </script>
+</body>
+
+</html>

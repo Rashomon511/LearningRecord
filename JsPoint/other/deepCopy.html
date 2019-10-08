@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+    function deepCopy(obj) {
+      let newObj = Array.isArray(obj) ? [] : {};
+      if(obj && typeof obj === 'object'){
+        for(key in obj){
+          if(obj.hasOwnProperty(key)){
+            //判断ojb子元素是否为对象，如果是，递归复制
+            if(obj[key]&&typeof obj[key] ==="object"){
+              newObj[key] = deepCopy(obj[key]);
+            }else{
+              //如果不是，简单复制
+              newObj[key] = obj[key];
+            }
+          }
+        }
+      }
+      return newObj
+    }
+    let a = 1;
+    var b = 2
+    let Object = {
+      a: 3,
+      d: function () {
+        console.log(this.b)
+        console.log(this.a)
+      },
+    }
+    let ed = Object.d;
+    ed() // 2, undefined
+    // 深度遍历复制
+
+    ///
+    // let _toString = Object.prototype.toString
+    // let map = {
+    //   array: 'Array',
+    //   object: 'Object',
+    //   function: 'Function',
+    //   string: 'String',
+    //   null: 'Null',
+    //   undefined: 'Undefined',
+    //   boolean: 'Boolean',
+    //   number: 'Number'
+    // }
+    // let getType = (item) => {
+    //   return _toString.call(item).slice(8, -1)
+    // }
+    // let isTypeOf = (item, type) => {
+    //   return map[type] && map[type] === getType(item)
+    // }
+    //
+    // let DFSdeepClone = (obj, visitedArr = []) => {
+    //   let _obj = {}
+    //   if (isTypeOf(obj, 'array') || isTypeOf(obj, 'object')) {
+    //     let index = visitedArr.indexOf(obj)
+    //     _obj = isTypeOf(obj, 'array') ? [] : {}
+    //     if (~index) { // 判断环状数据
+    //       _obj = visitedArr[index]
+    //     } else {
+    //       visitedArr.push(obj)
+    //       for (let item in obj) {
+    //         _obj[item] = DFSdeepClone(obj[item], visitedArr)
+    //       }
+    //     }
+    //   } else if (isTypeOf(obj, 'function')) {
+    //     _obj = eval('(' + obj.toString() + ')');
+    //   } else {
+    //     _obj = obj
+    //   }
+    //   return _obj
+    // }
+    //
+    // let BFSdeepClone = (obj) => {
+    //   let origin = [obj],
+    //       copyObj = {},
+    //       copy = [copyObj]
+    //   // 去除环状数据
+    //   let visitedQueue = [],
+    //       visitedCopyQueue = []
+    //   while (origin.length > 0) {
+    //     let items = origin.shift(),
+    //         _obj = copy.shift()
+    //     visitedQueue.push(items)
+    //     visitedCopyQueue.push(_obj)
+    //     if (isTypeOf(items, 'object') || isTypeOf(items, 'array')) {
+    //       for (let item in items) {
+    //         let val = items[item]
+    //         if (isTypeOf(val, 'object')) {
+    //           let index = visitedQueue.indexOf(val)
+    //           if (!~index) {
+    //             _obj[item] = {}
+    //             //下次while循环使用给空对象提供数据
+    //             origin.push(val)
+    //             // 推入引用对象
+    //             copy.push(_obj[item])
+    //             visitedQueue.push(val)
+    //           } else {
+    //             _obj[item] = visitedCopyQueue[index]
+    //           }
+    //         } else if (isTypeOf(val, 'array')) {
+    //           // 数组类型在这里创建了一个空数组
+    //           _obj[item] = []
+    //           origin.push(val)
+    //           copy.push(_obj[item])
+    //         } else if (isTypeOf(val, 'function')) {
+    //           _obj[item] = eval('(' + val.toString() + ')');
+    //         } else {
+    //           _obj[item] = val
+    //         }
+    //       }
+    //     } else if (isTypeOf(items, 'function')) {
+    //       copyObj = eval('(' + items.toString() + ')');
+    //     } else {
+    //       copyObj = obj
+    //     }
+    //
+    //   }
+    //   return copyObj
+    // }
+    //
+    // let obj = {
+    //   a: 1,
+    //   b: () => console.log(1),
+    //   c: {
+    //     d: 3,
+    //     e: 4
+    //   },
+    //   f: [1, 2],
+    //   und: undefined,
+    //   nul: null
+    // }
+    // var objCopy = DFSdeepClone(obj)
+    // var objCopy1 = BFSdeepClone(obj)
+    // console.log(objCopy);
+    // console.log(objCopy1)
+    // function getEmpty(o){
+    //   if(Object.prototype.toString.call(o) === '[object Object]'){
+    //     return {};
+    //   }
+    //   if(Object.prototype.toString.call(o) === '[object Array]'){
+    //     return [];
+    //   }
+    //   return o;
+    // }
+    //
+    // function deepCopyBFS(origin){
+    //   let queue = [];
+    //   let map = new Map(); // 记录出现过的对象，用于处理环
+    //
+    //   let target = getEmpty(origin);
+    //   if(target !== origin){
+    //     queue.push([origin, target]);
+    //     map.set(origin, target);
+    //   }
+    //
+    //   while(queue.length){
+    //     let [ori, tar] = queue.shift();
+    //     for(let key in ori){
+    //       // 处理环状
+    //       if(map.get(ori[key])){
+    //         tar[key] = map.get(ori[key]);
+    //         continue;
+    //       }
+    //
+    //       tar[key] = getEmpty(ori[key]);
+    //       if(tar[key] !== ori[key]){
+    //         queue.push([ori[key], tar[key]]);
+    //         map.set(ori[key], tar[key]);
+    //       }
+    //     }
+    //   }
+    //
+    //   return target;
+    // }
+    //
+    // function deepCopyDFS(origin){
+    //   let stack = [];
+    //   let map = new Map(); // 记录出现过的对象，用于处理环
+    //
+    //   let target = getEmpty(origin);
+    //   if(target !== origin){
+    //     stack.push([origin, target]);
+    //     map.set(origin, target);
+    //   }
+    //
+    //   while(stack.length){
+    //     let [ori, tar] = stack.pop();
+    //     for(let key in ori){
+    //       // 处理环状
+    //       if(map.get(ori[key])){
+    //         tar[key] = map.get(ori[key]);
+    //         continue;
+    //       }
+    //
+    //       tar[key] = getEmpty(ori[key]);
+    //       if(tar[key] !== ori[key]){
+    //         stack.push([ori[key], tar[key]]);
+    //         map.set(ori[key], tar[key]);
+    //       }
+    //     }
+    //   }
+    //
+    //   return target;
+    // }
+    //
+    // // test
+    // [deepCopyBFS, deepCopyDFS].forEach(deepCopy=>{
+    //   console.log(deepCopy({a:1}));
+    //   console.log(deepCopy([1,2,{a:[3,4]}]))
+    //   console.log(deepCopy(function(){return 1;}))
+    //   console.log(deepCopy({
+    //     x:function(){
+    //       return "x";
+    //     },
+    //     val:3,
+    //     arr: [
+    //       1,
+    //       {test:1}
+    //     ]
+    //   }))
+    //
+    //   let circle = {};
+    //   circle.child = circle;
+    //   console.log(deepCopy(circle));
+    // })
+</script>
+</body>
+</html>

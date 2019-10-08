@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+    </style>
+</head>
+
+<body>
+    <script>
+        const data = [
+            {
+                id: 1,
+                name: '222',
+                children: [{
+                    id: 2,
+                    name: '34',
+                    children: [{
+                        id: 114,
+                        name: '334',
+                    },
+                    {
+                        id: 112,
+                        name: '354',
+                    }
+                    ]
+                }]
+            },
+            {
+                id: 9,
+                name: '223',
+                children: [{
+                    id: 134,
+                    name: '3345'
+                }]
+            }
+        ]
+        const value = 112
+        const fn = (value) => {
+            let graph = []
+            const mapData = new Map();
+            function ParentMap(data, parentId) {
+                parentId = parentId || 0;
+                data.forEach(item => {
+                    mapData[item.id] = { ...item, parentId }
+                    if (item.children) {
+                        ParentMap(item.children, item.id);
+                    }
+                })
+            }
+            ParentMap(data)
+            function getId(data, value) {
+                graph.unshift(data[value].id)
+                if (data[value].parentId !== 0) {
+                    getId(data, data[value].parentId)
+                }
+            }
+            getId(mapData, value)
+            return graph;
+        }
+        fn(value)
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+
+<body>
+    <span id="box">
+        <button id="button">button</button>
+    </span>
+    <script>
+        // 1 代表开， 0代表关
+        const getNewArr = (arr, i) => {
+            let num = Math.round(Math.random())
+            if (i < 100) {
+                arr[i] = num;
+                i++;
+                getNewArr(arr, i)
+            }
+            return arr;
+        }
+        let arr = Array.from(new Array(100))
+        let i = 0
+        let arrs = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+        let lights = [0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1];
+        // - 依次关闭0到97所有已点亮的灯:如第i盏灯已经点亮,则按i+1盏灯,可将第i盏灯关闭
+        // - 剩下编号为98和99的两盏灯,分三种情况
+        //   1. 只有一盏灯亮,假设为第i盏灯亮则从i + 2开始点,每隔三盏灯点一次直到全部点亮
+        //   2. 两盏灯都亮,则再次点98号灯,此时97号灯亮,其它全灭,余下参考1.
+        //   3. 所有灯全灭,此时依次点0-99号灯,最终所有灯全亮
+        const TurnOn = (lights) => {
+            for (let i = 0; i < lights.length - 2; i++) {
+                if (lights[i]) {
+                    lights[i] = 0;
+                    lights[i + 1] = lights[i + 1] === 0 ? 1 : 0;
+                    lights[i + 2] = lights[i + 2] === 0 ? 1 : 0;
+                }
+            }
+            console.log(lights)
+            let arr = lights.filter(item => item === 1);
+            if (arr.length === 0) {
+                for (let i = 0; i < lights.length; i++) {
+                    if (i === 0) {
+                        lights[i] = 1;
+                        lights[lights.length - 1] = 1;
+                        lights[i + 1] = 1;
+                    }
+                    else if (i === lights.length - 1) {
+                        lights[0] = 1;
+                        lights[i] = 1;
+                        lights[i - 1] = 1;
+                    }
+                    else {
+                        lights[i] = lights[i] === 1 ? 0 : 1;
+                        lights[i - 1] = lights[i - 1] === 1 ? 0 : 1;
+                        lights[i + 1] = lights[i] === 1 ? 0 : 1;
+                    }
+                }
+                return lights
+            }
+            const turnOne = (data, i) => {
+                let index = data.indexOf(1);
+                let num = (index + 2) < data.length ? index + 2 : index + 2 - data.length
+                if (num === data.length - 1) {
+                    data[num] = data[num] === 0 ? 1 : 0;
+                    data[num - 1] = data[num - 1] === 0 ? 1 : 0;
+                    data[0] = data[0] === 0 ? 1 : 0;
+                    num = -1;
+                }
+                else if (num === 0) {
+                    data[num] = data[num] === 0 ? 1 : 0;
+                    data[num + 1] = data[num + 1] === 0 ? 1 : 0;
+                    data[data.length - 1] = data[data.length - 1] === 0 ? 1 : 0;
+                }
+                else {
+                    data[num] = data[num] === 0 ? 1 : 0;
+                    data[num - 1] = data[num - 1] === 0 ? 1 : 0;
+                    data[num + 1] = data[num + 1] === 0 ? 1 : 0;
+                }
+                for(let i = num + 3; i < index;) {
+                    data[i] = data[i] === 0 ? 1 : 0;
+                    data[i - 1] = data[i - 1] === 0 ? 1 : 0;
+                    data[i + 1] = data[i + 1] === 0 ? 1 : 0;
+                    i = i + 3;
+                }
+                return data
+            }
+            if (arr.length === 2) {
+                lights[lights.length - 2] = 0;
+                lights[lights.length - 3] = 1;
+                lights[lights.length - 1] = 0;
+                return turnOne(lights)
+            }
+            if (arr.length === 1) {
+                return turnOne(lights)
+            }
+        }
+        TurnOn(arrs)
+
+    </script>
+</body>
+
+</html>

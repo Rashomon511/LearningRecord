@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        var score = "81";
+        /*
+         if(Number(score)) {
+         if(score > 100 || score < 0) {
+         console.log("error!!!");
+         } else {
+         if(score>=90 && score<=100) {
+         console.log("等级A");
+         } else if(score >= 80){
+         console.log("等级B");
+         } else if(score >= 70){
+         console.log("等级C");
+         } else if(score >= 60) {
+         console.log("等级D");
+         } else {
+         console.log("go home");
+         }
+         }
+         } else {
+         console.log("请确认分数为数字内容!!!");
+         }
+         */
+
+        switch(parseInt(score/10)) {
+            case 10 :
+            case 9 : console.log("等级A"); break;
+            case 8 : console.log("等级B"); break;
+            case 7 : console.log("等级C"); break;
+            case 6 : console.log("等级D"); break;
+            default : console.log("go home"); break;
+        }
+
+        //根据月份来输出该月有多少天？
+        var month = 12;
+        var year = 2016;
+
+        switch(month) {
+            case 1 :
+            case 3 :
+            case 5 :
+            case 7 :
+            case 8 :
+            case 10 :
+            case 12 : console.log("31天"); break;
+
+            case 4 :
+            case 6 :
+            case 9 :
+            case 11 : console.log("30天"); break;
+
+            case 2 : {
+                if(year%400==0 || (year%100!=0&&year%4==0) ) {
+                    console.log("29天");
+                } else {
+                    console.log("28天");
+                }
+            }
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        let week = "周" + "日一二三四五六".split("")[new Date().getDay()];
+        console.log(week)
+
+        getWeek = (date, value) => {
+            let s = 24 * 60 * 60 * 1000;
+            let beforeWeek = [];
+            let afterWeek = [];
+            let week = [];
+            if (value === 0) {
+                for (let i = 1; i < 7; i++) {
+                    beforeWeek.unshift({
+                        date: new Date(new Date(date).getTime() - s * i),
+                        value: new Date(new Date(date).getTime() - s * i).getDay()
+                    })
+                }
+            } else {
+                for (let i = 1; i <= 7 - value; i++) {
+                    afterWeek.push({
+                        date: new Date(new Date(date).getTime() + s * i),
+                        value: new Date(new Date(date).getTime() + s * i).getDay()
+                    })
+                }
+                for (let i = 1; i <= value - 1; i++) {
+                    beforeWeek.unshift({
+                        date: new Date(new Date(date).getTime() - s * i),
+                        value: new Date(new Date(date).getTime() - s * i).getDay()
+                    })
+                }
+            }
+
+            week.push({date: new Date(date), value: value});
+            let Weeks = beforeWeek.concat(week).concat(afterWeek);
+            console.log(Weeks)
+
+        };
+        this.getWeek(new Date(),new Date().getDay())
+    </script>
+</head>
+<body>
+
+</body>
+</html>

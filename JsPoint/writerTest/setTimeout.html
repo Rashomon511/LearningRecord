@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  var a = 0;
+  function foo(){
+    console.log(this.a);
+  };
+  var obj = {
+    a : 2,
+    foo:foo
+  }
+  console.log(111)
+  setTimeout(function () {
+    console.log(222)
+  },0);//2
+
+  console.log(333)
+  console.log(444)
+  console.log(555)
+  setTimeout(function () {
+    console.log(9999)
+  },0);//2
+  let promise = new Promise(function(resolve, reject) {
+    console.log('Promise');
+    resolve();
+  });
+
+  promise.then(function() {
+    console.log('resolved.');
+  });
+
+  console.log('Hi!');
+</script>
+</body>
+</html>

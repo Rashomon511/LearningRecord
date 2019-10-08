@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+     function lengthOfLastWord(s) {
+        let arr = s.split(' ').filter(i => i)
+        if(arr.length) {
+            return arr[arr.length-1].length
+        }
+        else {
+            return 0;
+        }
+};
+console.log(lengthOfLastWord(''))
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+      function SuperType() {
+        this.colors = ["red", "blue", "green"];
+      }
+        function SubType(){
+//继承了 SuperType
+          console.log(this)
+          SuperType.call(this);
+        }
+        var instance1 = new SubType();
+        instance1.colors.push("black");
+    </script>
+</head>
+<body>
+
+</body>
+</html>

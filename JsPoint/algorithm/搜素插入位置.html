@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+      function searchInsert(nums, target) {
+        if (nums[0] >= target) return 0;
+        if (nums[nums.length-1] < target) return nums.length;
+        for (let j = 1;j< nums.length;j++){
+          console.log(j)
+          if(nums[j-1] < target && target <= nums[j] && nums[j]){
+            return j
+          } else if (nums[j-1] <= target && target < nums[j] && nums[j]){
+           return j-1
+          }
+        }
+      }
+      searchInsert([1,3], 2)
+    </script>
+</head>
+<body>
+</body>
+</html>

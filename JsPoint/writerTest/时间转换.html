@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        let date = new Date();
+        let date1=Date.parse(new Date());//获取当前时间的时间戳
+        console.log(date1);
+        let date_value=date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate() + ' ' + date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+        //yyyy-MM-dd hh:mm:ss
+        console.log(date_value);
+        let date2=new Date(1486347562000);//讲时间戳转换时间
+        console.log(date2)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

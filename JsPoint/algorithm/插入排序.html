@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script>
+        var a = [12,9,38,44,98,7,35,59,49,88,38];
+
+        console.log(a);
+        for(var i=0; i<a.length; i++){
+            var index = i;
+            //判断
+            while( a[index]<a[index-1] && index-1>=0){
+                //交换
+                var temp = a[index];
+                a[index] = a[index-1];
+                a[index-1] = temp;
+                index--;
+            }
+            console.log(a);
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

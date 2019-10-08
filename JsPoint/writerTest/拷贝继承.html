@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<span id="box">
+    <button id="button">button</button>
+</span>
+<script>
+  function deepCopy(obj){
+    if(typeof obj !='object'){
+      console.trace();
+      return obj;
+    }
+    var newObj={};
+    for(var attr in obj){
+      newObj[attr]=typeof obj[attr]=='object'?deepCopy(obj[attr]):obj[attr];//使用递归
+    }
+    return newObj;
+  }
+  var obj={
+    name:'min',
+    age:20,
+    sex:'boy',
+    json:{
+      name2:'huihui',
+      json3:{
+        name3:'yahui'
+      }
+    }
+  }
+  var newObj=deepCopy(obj);
+  console.log(newObj);
+</script>
+</body>
+</html>
