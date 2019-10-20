@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .container {
+            height: 800px;
+            display: flex;
+            flex-flow: column wrap;
+            width: 70%;
+            margin: 2em auto;
+        }
+
+        .item {
+            padding: 2em;
+            margin-bottom: 2em;
+            break-inside: avoid;
+            background: #f60;
+            color: #fff;
+            text-align: center;
+            margin: 10px;
+        }
+
+        .item .content-lar {
+            height: 200px;
+        }
+
+        .item .content-mid {
+            height: 100px;
+        }
+
+        .item .content-sma {
+            height: 50px;
+        }
+
+        @media screen and (max-width: 1100px) {
+            .masonry {
+                height: 800px;
+            }
+        }
+
+        @media screen and (max-width: 800px) {
+            .masonry {
+                height: 1100px;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            .masonry {
+                height: 1300px;
+            }
+        }
+
+        @media screen and (max-width: 460px) {
+            .masonry {
+                height: 1600px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item">
+            <div class="item_content content-lar"> 1 我最大 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-sma"> 2 我最小 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-mid"> 3 我中等 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-sma"> 4 我最小 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-mid"> 5 我中等 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-lar"> 6 我最大 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-sma"> 7 我最小 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-lar"> 8 我最大 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-lar"> 9 我最大 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-sma"> 10 我最小 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-mid"> 11 我中等 </div>
+        </div>
+        <div class="item">
+            <div class="item_content content-mid"> 12 我中等 </div>
+        </div>
+        <!-- more items -->
+    </div>
+</body>
+
+</html>

@@ -4,15 +4,13 @@
     <meta charset="UTF-8">
     <title></title>
     <script>
-     var  nums = [4, 3, 8, 15]
-     var target = 11
+     var  nums = [2,7,11,15]
+     var target = 9
       function twoSum(nums, target) {
         let result = []
-        let state = true;
         for (index in nums){
-          let i = Number(index)
-          if (nums.indexOf(target- nums[i]) !== -1 && nums.indexOf(target-nums[i]) !== i && state) {
-            result.push(i,nums.indexOf(target-nums[i]))
+          if (nums.indexOf(target- nums[index]) !== -1 && nums.indexOf(target-nums[index]) !== index) {
+            result.push(index,nums.indexOf(target-nums[index]))
             return result
           }
         }
